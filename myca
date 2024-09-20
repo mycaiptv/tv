@@ -12,10 +12,12 @@ https://shorten.tv/Mikeph-gmatv-backup-m3u8
 http://fortv.cc:8080/94022454/94022454/101826
 #EXTINF:0 CUID="4" tvg-name="04. GMA Life TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GMA_Life_TV_logo.png/640px-GMA_Life_TV_logo.png" group-title="1. LOCAL CHANNEL",04. GMA Life TV
 http://fortv.cc:8080/94022454/94022454/101825
-#EXTINF:0 CUID="6" tvg-name="05. GTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGm1W-57TY0Zg_hWDPvqrZDnTTy09VMlTKg&s" group-title="1. LOCAL CHANNEL",05. GTV
+
+EXTINF:0 CUID="6" tvg-name="05. GTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGm1W-57TY0Zg_hWDPvqrZDnTTy09VMlTKg&s" group-title="1. LOCAL CHANNEL",05. GTV
 https://free.serveruss.box.ca/gtv/touch/manifest.m3u8
-#EXTINF:0 CUID="7" tvg-name="09. ALLTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMgZ9Md4AVsOWueT1J3M-ZtVpZPMqKyQ4Qf5C4y7DSahZppzUkEC2-Jo&s=10" group-title="1. LOCAL CHANNEL",09. ALLTV
+EXTINF:0 CUID="7" tvg-name="09. ALLTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMgZ9Md4AVsOWueT1J3M-ZtVpZPMqKyQ4Qf5C4y7DSahZppzUkEC2-Jo&s=10" group-title="1. LOCAL CHANNEL",09. ALLTV
 https://free.serveruss.box.ca/alltv/touch/manifest.m3u8
+
 #EXTINF:0 CUID="8" tvg-name="06. KAPAMILYA CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKm2Lrh11LXGy-bF04OpzO3M4xMrbRigxnTzbIFP5gMYKsSmAkwZnw_wsu&s=10" group-title="1. LOCAL CHANNEL",06. KAPAMILYA CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
