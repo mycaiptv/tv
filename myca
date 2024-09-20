@@ -489,6 +489,11 @@ https://amhorstream.com/playlist/amhor/playlist.m3u8?checkedby:iptvcat.com
 #KODIPROP:inputstream.adaptive.license_key=b5bfe3554df2abcd37afe130a7e1d310:dccbdf043ac43d18be0b3eb43a582876
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
 
+#EXTINF:0 CUID="143" tvg-name="150. DREAMWORKS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlZIOEq63Wg1MYFUHGSpi4YYxXCCzO-_BMoaf7U-A1HlAD5JaCN_1EIO4&s=10" group-title="7. KIDS CHANNEL",150. DREAMWORKS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
+
 #EXTINF:0 CUID="144" tvg-name="151. CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="7. KIDS CHANNEL",151. CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
