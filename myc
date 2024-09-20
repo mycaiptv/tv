@@ -1,1 +1,4 @@
+#EXTM3U
+#EXTINF:0 CUID="1" tvg-name="01. TV5" tvg-logo="hfhfgg" group-title="1. LOCAL CHANNEL", SUBSCRIPTION EXPIRE 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 
