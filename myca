@@ -180,8 +180,25 @@ https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
-#EXTINF:0 CUID="53" tvg-name="42. CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="3. MOVIES", 42.2 CINEMAX 2
+#EXTINF:0 CUID="53" tvg-name="42. CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="3. MOVIES", 42. CINEMAX 2
 http://125.227.210.55:8151/VideoInput/play.ts
+
+#EXTINF:-1 tvg-id="Cinemax" ch-number="7" group-title="3. MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122", 42 CINEMAX 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
+
+#EXTINF:-1 tvg-id="SHOWCASE" ch-number="413" group-title="3. MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png", 43. SHOWCASE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
+
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
+
+#EXTINF:-1 tvg-id="BOO" ch-number="5" group-title="3. MOVIES" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg", 43. BOO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
+
 #EXTINF:0 CUID="54" tvg-name="43. HITS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfnooWK9mfo3egjw3scNfbGRZRCYNUEmSPHD8ZGVxaphqRnounKx2KHT4&s=10" group-title="3. MOVIES",43. HITS
 https://cdn09jtedge.indihometv.com/joss/133/hits/index.m3u8
 #EXTINF:0 CUID="55" tvg-name="44. HITS MOVIES" tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b9/Hits_Movies_Logo_2018.png/revision/latest?cb=20240107001803" group-title="3. MOVIES",44. HITS MOVIES
@@ -502,12 +519,17 @@ https://ln.run/Mikeph-nicklodeon-ts
 #EXTINF:0 CUID="153" tvg-name="160. NICKELODEON BACKUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWVLzSwcmJeLj885d4sbAAu2_ogVIPL-O5qQ&s" group-title="7. KIDS CHANNEL",160. NICKELODEON BACKUP
 https://nick.jeromelaliag.link/NICKELODEON/index.m3u8
 
-#EXTINF:-1 tvg-id="MoonbugKids" group-title="7. KIDS CHANNEL" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" ch-number="618",Moonbug Kids
+#EXTINF:-1 tvg-id="AstroCeria" group-title="7. KIDS CHANNEL" tvg-logo="https://static.wikia.nocookie.net/l..._(2019).png/revision/latest?cb=20201018231230" ch-number="611",161. Astro Ceria
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
+
+#EXTINF:-1 tvg-id="MoonbugKids" group-title="7. KIDS CHANNEL" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" ch-number="618",162. Moonbug Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
 
-#EXTINF:-1 tvg-id="CBeebies" group-title="7. KIDS CHANNEL" ch-number="620" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png",CBeebies
+#EXTINF:-1 tvg-id="CBeebies" group-title="7. KIDS CHANNEL" ch-number="620" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png",163. CBeebies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default.mpd
@@ -557,6 +579,12 @@ https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:0 CUID="347" tvg-name="WWE NETWORK" tvg-logo="https://i.ibb.co/rMqyf0w/wwe.png" group-title="11. PPV | UFC",WWE NETWORK
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" ch-number="3" group-title="11. PPV | UFC" tvg-logo="", WWE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
