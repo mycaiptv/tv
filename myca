@@ -138,8 +138,14 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 http://103.160.205.142:9999/stream/channelid/902369831?profile=pass
 #EXTINF:0 CUID="48" tvg-name="37. TVN MOVIES PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI5NLOkM3qmMtYILQ3ZDTLivTrHFwtQ9sPIQ&usqp=CAU" group-title="3. MOVIES",37. TVN MOVIES PINOY
 https://free.serveruss.box.ca/tvnmp/touch/manifest.m3u8
+
 #EXTINF:0 CUID="49" tvg-name="38. VIVA CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmd5zGBRqvti38-j3KbykP4ijE4mRbUrbrlA&usqp=CAU" group-title="3. MOVIES",38. VIVA CINEMA
-http://xtv.ooo:8080/09448630/09888785/352632
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
+
 #EXTINF:0 CUID="50" tvg-name="39. CELESTIAL MOVIES PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGKCQ_K-qezUD6gcj6OcuDCUImSfnOv4jYFg&s" group-title="3. MOVIES",39. CELESTIAL MOVIES PINOY
 https://free.serveruss.box.ca/celestialmoviespinoy/touch/manifest.m3u8
 #EXTINF:0 CUID="51" tvg-name="40. CELESTIAL MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGKCQ_K-qezUD6gcj6OcuDCUImSfnOv4jYFg&s" group-title="3. MOVIES",40. CELESTIAL MOVIES
