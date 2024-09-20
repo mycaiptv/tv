@@ -212,10 +212,28 @@ http://168.181.122.234:8000/play/a02s
 #KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
 
-#EXTINF:0 CUID="118" tvg-name="104. WARNER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="3. MOVIES",104. WARNER TV
+#EXTINF:0 CUID="118" tvg-name="104. WARNER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="3. MOVIES", 42.1 WARNER TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
+
+#EXTINF:-1 tvg-id="tvNMovies" ch-number="416" group-title="3. MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png", 43.2 TVN MOVIES HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
+
+
+
+#EXTINF:-1 tvg-id="ROCKAction" ch-number="419" group-title="3. MOVIES" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_248.png", 42.3 ROCK Action
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
+https://web.hypp.tv:443/PLTV/888888...9wlOFjnT_COHDHZIbbd55AAsT8wAAAA&tenantId=6003
+
+#EXTINF:-1 tvg-id="ROCKEntertainment" ch-number="420" group-title="3. MOVIES" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.png",42.4 ROCK Entertainment
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
+https://web.hypp.tv:443/PLTV/888888...zInWYyM63lP64t-IfNj_9atHa8wAAAA&tenantId=6003
+
 
 #EXTINF:0 CUID="60" tvg-name="49. TAP MOVIES HD" tvg-logo="https://argontv.nl/api/v1/channel-logo?k=aHR0cDovL2xvZ28ucHJvdHYuY2MvcGljb25zL2xvZ29zL0FTSUEvVEFQLU1PVklFUy5wbmc%3D" group-title="3. MOVIES",49. TAP MOVIES HD
 http://republikadobiolo.ottb.xyz/423927909736/655788392083/926152
