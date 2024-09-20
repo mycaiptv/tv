@@ -430,8 +430,14 @@ https://lte.wiseplayout.com/WiseM3U8_31/master.m3u8
 https://lte.wiseplayout.com/WiseM3U8_27/master.m3u8
 #EXTINF:0 CUID="167" tvg-name="KARAOKE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa_NA-1K4scF2eM1OZFiMFGQbx1VG8Pxi4RZZ94MBabQJqzHfyr9TiT4cs&s=10" group-title="6. ENTERTAINMENT ",KARAOKE TV
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:0 CUID="168" tvg-name="JUST FOR LAUGH GAGS" group-title="6. ENTERTAINMENT ",JUST FOR LAUGH GAGS
+#EXTINF:0 CUID="168" tvg-name="JUST FOR LAUGH GAGS" tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQkbKGxlHNeWi6X3oowZgVyVimPeh8f9kuHg&s' group-title="6. ENTERTAINMENT ",JUST FOR LAUGH GAGS
 https://lte.wiseplayout.com/WiseM3U8_9/master.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime" ch-number="703" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="6. ENTERTAINMENT",Lifetime HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
+
 #EXTINF:0 CUID="169" tvg-name="THE EXPLORERS" group-title="6. ENTERTAINMENT ",THE EXPLORERS
 https://lte.wiseplayout.com/WiseM3U8_22/master.m3u8
 #EXTINF:0 CUID="193" tvg-name="American Pickers" tvg-logo="https://seeklogo.com/images/A/american-pickers-logo-A03D6DF65E-seeklogo.com.png" group-title="6. ENTERTAINMENT ",American Pickers
@@ -477,8 +483,17 @@ https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
 https://ln.run/Mikeph-nicklodeon-ts
 #EXTINF:0 CUID="153" tvg-name="160. NICKELODEON BACKUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWVLzSwcmJeLj885d4sbAAu2_ogVIPL-O5qQ&s" group-title="7. KIDS CHANNEL",160. NICKELODEON BACKUP
 https://nick.jeromelaliag.link/NICKELODEON/index.m3u8
-#EXTINF:0 CUID="154" tvg-name="161. DREAMWORKS TAGALOG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlZIOEq63Wg1MYFUHGSpi4YYxXCCzO-_BMoaf7U-A1HlAD5JaCN_1EIO4&s=10" group-title="7. KIDS CHANNEL",161. DREAMWORKS TAGALOG
-https://free.serveruss.box.ca/dreamworkstagalog/touch/manifest.m3u8
+
+#EXTINF:-1 tvg-id="MoonbugKids" group-title="7. KIDS CHANNEL" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" ch-number="618",Moonbug Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
+
+#EXTINF:-1 tvg-id="CBeebies" group-title="7. KIDS CHANNEL" ch-number="620" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png",CBeebies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default.mpd
+
 #EXTINF:0 CUID="155" tvg-name="162. Anime TV Not24/7" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="7. KIDS CHANNEL",162. Anime TV Not24/7
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:0 CUID="156" tvg-name="163. Animax backup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYaU41eAlTzreemeMu9mZC7P_T4lT-J9uC9w&s" group-title="7. KIDS CHANNEL",163. Animax backup
