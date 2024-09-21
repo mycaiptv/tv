@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:0 CUID="1" tvg-name="01. TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/2048px-TV5_%28Philippines%29_logo.svg.png" group-title="1. LOCAL CHANNEL",TV5
+#EXTINF:0 CUID="1" tvg-name="01. TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/2048px-TV5_%28Philippines%29_logo.svg.png" group-title="1. LOCAL CHANNEL",1TV5
 https://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
