@@ -876,3 +876,14 @@ http://fl2.moveonjoy.com/DIY/index.m3u8
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:0 CUID="346" tvg-name="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/477px-Aljazeera_eng.svg.png" group-title="USA CHANNELS",Al Jazeera
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+
+
+#EXTINF:0 CUID="346" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqN-2zvYGD0sGchBMwr13kTcW9_MOJr67j6ekWNqkE3Dv6c0NkY3XdCs0p&s=10" group-title="8. MUSIC",KPOP MUSIC
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2
+
+
+
+
+
+
+
