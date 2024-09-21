@@ -4,5 +4,5 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1000002657:1000000002
-https://bpprod5live.akamaized.net/bpk-tv/irdeto_com_Channel_2056/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=7d8cc6ee3c9a5a82a0071779f351a9a5:1d4d52698080d453b032ca44277fd274
+https://tataplay.xyssatuu.workers.dev/bpk-tv/irdeto_com_Channel_256/output/manifest.mpd
