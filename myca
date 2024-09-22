@@ -13,10 +13,10 @@ http://fortv.cc:8080/94022454/94022454/101826
 #EXTINF:0 CUID="4" tvg-name="04. GMA Life TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GMA_Life_TV_logo.png/640px-GMA_Life_TV_logo.png" group-title="1. LOCAL CHANNEL",04. GMA Life TV
 http://fortv.cc:8080/94022454/94022454/101825
 
-EXTINF:0 CUID="6" tvg-name="05. GTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGm1W-57TY0Zg_hWDPvqrZDnTTy09VMlTKg&s" group-title="1. LOCAL CHANNEL",05. GTV
-https://free.serveruss.box.ca/gtv/touch/manifest.m3u8
-EXTINF:0 CUID="7" tvg-name="09. ALLTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMgZ9Md4AVsOWueT1J3M-ZtVpZPMqKyQ4Qf5C4y7DSahZppzUkEC2-Jo&s=10" group-title="1. LOCAL CHANNEL",09. ALLTV
-https://free.serveruss.box.ca/alltv/touch/manifest.m3u8
+#EXTINF:0 CUID="6" tvg-name="05. GTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGm1W-57TY0Zg_hWDPvqrZDnTTy09VMlTKg&s" group-title="1. LOCAL CHANNEL",05. GTV
+https://shorten.so/Gtv-_
+#EXTINF:0 CUID="7" tvg-name="09. ALLTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMgZ9Md4AVsOWueT1J3M-ZtVpZPMqKyQ4Qf5C4y7DSahZppzUkEC2-Jo&s=10" group-title="1. LOCAL CHANNEL",09. ALLTV
+https://shorten.so/Alltv-_
 
 #EXTINF:0 CUID="8" tvg-name="06. KAPAMILYA CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKm2Lrh11LXGy-bF04OpzO3M4xMrbRigxnTzbIFP5gMYKsSmAkwZnw_wsu&s=10" group-title="1. LOCAL CHANNEL",06. KAPAMILYA CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -148,8 +148,8 @@ https://github.com/mycaiptv/tv/raw/refs/heads/main/mainte.ts
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 
-EXTINF:0 CUID="50" tvg-name="39. CELESTIAL MOVIES PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGKCQ_K-qezUD6gcj6OcuDCUImSfnOv4jYFg&s" group-title="3. MOVIES",39. CELESTIAL MOVIES PINOY
-https://free.serveruss.box.ca/celestialmoviespinoy/touch/manifest.m3u8
+#EXTINF:0 CUID="50" tvg-name="39. CELESTIAL MOVIES PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGKCQ_K-qezUD6gcj6OcuDCUImSfnOv4jYFg&s" group-title="3. MOVIES",39. CELESTIAL MOVIES PINOY
+https://shorten.so/Celestialmoviespinoy_-
 #EXTINF:0 CUID="51" tvg-name="40. CELESTIAL MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGKCQ_K-qezUD6gcj6OcuDCUImSfnOv4jYFg&s" group-title="3. MOVIES",40. CELESTIAL MOVIES
 http://103.160.205.142:9999/stream/channelid/932233433?profile=pass
 
