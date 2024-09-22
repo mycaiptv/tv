@@ -416,6 +416,23 @@ https://lte.wiseplayout.com/WiseM3U8_30/master.m3u8
 #EXTINF:0 CUID="200" tvg-name="GOAL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDwnIlgsRVQO1svxeZfxJ7Kay2H9AnTP-G85aTxnB8-4OoiRQbq_y1SR5q&s=10" group-title="4. SPORTS ",GOAL TV
 https://lte.wiseplayout.com/WiseM3U8_1/master.m3u8
 #EXTINF:0 CUID="202" tvg-name="PLAY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzfmbHdenchkz-d3lpVrE4yal6Vs3-E0pFWKjbhDf6VjI8rMbcpjeR1g42&s=10" group-title="4. SPORTS ",PLAY TV
+
+#EXTINF:0 CUID="119" tvg-name="" tvg-logo="" group-title="4. SPORTS", DAZ COMBAT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-502/stream.mpd
+
+#EXTINF:0 CUID="119" tvg-name="" tvg-logo="" group-title="4. SPORTS", DAZ COMBAT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-504/stream.mpd
+
+
+
 https://lte.wiseplayout.com/WiseM3U8_3/master.m3u8
 #EXTINF:0 CUID="173" tvg-name="CGTN Documentaries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png" group-title="5. EDUCATIONAL | DOCUMENTARY",CGTN Documentaries
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
