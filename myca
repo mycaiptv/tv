@@ -417,14 +417,14 @@ https://lte.wiseplayout.com/WiseM3U8_30/master.m3u8
 https://lte.wiseplayout.com/WiseM3U8_1/master.m3u8
 #EXTINF:0 CUID="202" tvg-name="PLAY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzfmbHdenchkz-d3lpVrE4yal6Vs3-E0pFWKjbhDf6VjI8rMbcpjeR1g42&s=10" group-title="4. SPORTS ",PLAY TV
 
-#EXTINF:0 CUID="119" tvg-name="" tvg-logo="" group-title="4. SPORTS", DAZ COMBAT
+#EXTINF:0 CUID="119" tvg-name="" tvg-logo="" group-title="4. SPORTS", DAZN COMBAT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-502/stream.mpd
 
-#EXTINF:0 CUID="119" tvg-name="" tvg-logo="" group-title="4. SPORTS", DAZ COMBAT
+#EXTINF:0 CUID="119" tvg-name="" tvg-logo="" group-title="4. SPORTS", DAZN FAST
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
