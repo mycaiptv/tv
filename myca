@@ -66,6 +66,9 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 #KODIPROP:inputstream.adaptive.license_key=04e292bc99bd4ccba89e778651914254:ff0a62bdf8920ce453fe680330b563a5
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
 
+#EXTINF:0 CUID="19" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Jeepney_TV_Logo_2015.svg" group-title="1. LOCAL CHANNEL", JEEPNEY TV
+http://169.150.243.1:18899/jeepneytv/touch/manifest.m3u8
+
 #EXTINF:0 CUID="20" tvg-name="15. ONE PH" tvg-logo="https://www.meainbacolod.com/wp-content/uploads/2019/08/One-PH-logo-1-1024x791.png" group-title="1. LOCAL CHANNEL",15. ONE PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
