@@ -13,9 +13,9 @@ http://fortv.cc:8080/94022454/94022454/101826
 #EXTINF:0 CUID="4" tvg-name="04. GMA Life TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GMA_Life_TV_logo.png/640px-GMA_Life_TV_logo.png" group-title="1. LOCAL CHANNEL",04. GMA Life TV
 http://fortv.cc:8080/94022454/94022454/101825
 
-#EXTINF:0 CUID="6" tvg-name="05. GTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGm1W-57TY0Zg_hWDPvqrZDnTTy09VMlTKg&s" group-title="1. LOCAL CHANNEL",05. GTV
+EXTINF:0 CUID="6" tvg-name="05. GTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGm1W-57TY0Zg_hWDPvqrZDnTTy09VMlTKg&s" group-title="1. LOCAL CHANNEL",05. GTV
 https://shorten.so/Gtv-_
-#EXTINF:0 CUID="7" tvg-name="09. ALLTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMgZ9Md4AVsOWueT1J3M-ZtVpZPMqKyQ4Qf5C4y7DSahZppzUkEC2-Jo&s=10" group-title="1. LOCAL CHANNEL",09. ALLTV
+EXTINF:0 CUID="7" tvg-name="09. ALLTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMgZ9Md4AVsOWueT1J3M-ZtVpZPMqKyQ4Qf5C4y7DSahZppzUkEC2-Jo&s=10" group-title="1. LOCAL CHANNEL",09. ALLTV
 https://shorten.so/Alltv-_
 
 #EXTINF:0 CUID="8" tvg-name="06. KAPAMILYA CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKm2Lrh11LXGy-bF04OpzO3M4xMrbRigxnTzbIFP5gMYKsSmAkwZnw_wsu&s=10" group-title="1. LOCAL CHANNEL",06. KAPAMILYA CHANNEL
@@ -66,7 +66,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 #KODIPROP:inputstream.adaptive.license_key=04e292bc99bd4ccba89e778651914254:ff0a62bdf8920ce453fe680330b563a5
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
 
-#EXTINF:0 CUID="19" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Jeepney_TV_Logo_2015.svg" group-title="1. LOCAL CHANNEL", JEEPNEY TV
+EXTINF:0 CUID="19" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Jeepney_TV_Logo_2015.svg" group-title="1. LOCAL CHANNEL", JEEPNEY TV
 http://169.150.243.1:18899/jeepneytv/touch/manifest.m3u8
 
 #EXTINF:0 CUID="20" tvg-name="15. ONE PH" tvg-logo="https://www.meainbacolod.com/wp-content/uploads/2019/08/One-PH-logo-1-1024x791.png" group-title="1. LOCAL CHANNEL",15. ONE PH
@@ -141,7 +141,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 
 #EXTINF:0 CUID="47" tvg-name="36. THRILL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh80UztbNq9dscdz1PfaN4yrskW_qPvHNn3dmgJn1lPJsWk9bCbkEJgpHj&s=10" group-title="3. MOVIES",36. THRILL
 http://103.160.205.142:9999/stream/channelid/902369831?profile=pass
-#EXTINF:0 CUID="48" tvg-name="37. TVN MOVIES PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI5NLOkM3qmMtYILQ3ZDTLivTrHFwtQ9sPIQ&usqp=CAU" group-title="3. MOVIES",37. TVN MOVIES PINOY
+EXTINF:0 CUID="48" tvg-name="37. TVN MOVIES PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI5NLOkM3qmMtYILQ3ZDTLivTrHFwtQ9sPIQ&usqp=CAU" group-title="3. MOVIES",37. TVN MOVIES PINOY
 http://169.150.243.1:18899/tvnmp/touch/manifest.m3u8
 
 #EXTINF:0 CUID="49" tvg-name="38. VIVA CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmd5zGBRqvti38-j3KbykP4ijE4mRbUrbrlA&usqp=CAU" group-title="3. MOVIES",38. VIVA CINEMA
