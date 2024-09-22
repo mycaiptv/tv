@@ -1,6 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/gtv.png" group-title="🇱🅰Я🅰𝐬🇮🇩LoⓀaL❶",GTV Auto Reso
-#utotoblue
-http://utot.mo.com
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/gtv.png" group-title="🇱🅰Я🅰𝐬🇮🇩LoⓀaL❶",GTV
+http://utot.mo.m3u8
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
