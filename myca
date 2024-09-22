@@ -139,7 +139,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 #EXTINF:0 CUID="47" tvg-name="36. THRILL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh80UztbNq9dscdz1PfaN4yrskW_qPvHNn3dmgJn1lPJsWk9bCbkEJgpHj&s=10" group-title="3. MOVIES",36. THRILL
 http://103.160.205.142:9999/stream/channelid/902369831?profile=pass
 #EXTINF:0 CUID="48" tvg-name="37. TVN MOVIES PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI5NLOkM3qmMtYILQ3ZDTLivTrHFwtQ9sPIQ&usqp=CAU" group-title="3. MOVIES",37. TVN MOVIES PINOY
-https://github.com/mycaiptv/tv/raw/refs/heads/main/mainte.ts
+http://169.150.243.1:18899/tvnmp/touch/manifest.m3u8
 
 #EXTINF:0 CUID="49" tvg-name="38. VIVA CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmd5zGBRqvti38-j3KbykP4ijE4mRbUrbrlA&usqp=CAU" group-title="3. MOVIES",38. VIVA CINEMA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
