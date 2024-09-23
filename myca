@@ -141,8 +141,8 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 
 #EXTINF:0 CUID="47" tvg-name="36. THRILL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh80UztbNq9dscdz1PfaN4yrskW_qPvHNn3dmgJn1lPJsWk9bCbkEJgpHj&s=10" group-title="3. MOVIES",36. THRILL
 http://103.160.205.142:9999/stream/channelid/902369831?profile=pass
-EXTINF:0 CUID="48" tvg-name="37. TVN MOVIES PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI5NLOkM3qmMtYILQ3ZDTLivTrHFwtQ9sPIQ&usqp=CAU" group-title="3. MOVIES",37. TVN MOVIES PINOY
-http://169.150.243.1:18899/tvnmp/touch/manifest.m3u8
+#EXTINF:0 CUID="48" tvg-name="37. TVN MOVIES PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI5NLOkM3qmMtYILQ3ZDTLivTrHFwtQ9sPIQ&usqp=CAU" group-title="3. MOVIES",37. TVN MOVIES PINOY
+https://github.com/mycaiptv/tv/raw/refs/heads/main/mainte.ts
 
 #EXTINF:0 CUID="49" tvg-name="38. VIVA CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmd5zGBRqvti38-j3KbykP4ijE4mRbUrbrlA&usqp=CAU" group-title="3. MOVIES",38. VIVA CINEMA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -151,7 +151,7 @@ http://169.150.243.1:18899/tvnmp/touch/manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 
-#EXTINF:0 CUID="50" tvg-name="39. CELESTIAL MOVIES PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGKCQ_K-qezUD6gcj6OcuDCUImSfnOv4jYFg&s" group-title="3. MOVIES",39. CELESTIAL MOVIES PINOY
+EXTINF:0 CUID="50" tvg-name="39. CELESTIAL MOVIES PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGKCQ_K-qezUD6gcj6OcuDCUImSfnOv4jYFg&s" group-title="3. MOVIES",39. CELESTIAL MOVIES PINOY
 https://shorten.so/Celestialmoviespinoy_-
 #EXTINF:0 CUID="51" tvg-name="40. CELESTIAL MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGKCQ_K-qezUD6gcj6OcuDCUImSfnOv4jYFg&s" group-title="3. MOVIES",40. CELESTIAL MOVIES
 http://103.160.205.142:9999/stream/channelid/932233433?profile=pass
