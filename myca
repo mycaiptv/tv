@@ -129,15 +129,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 
 
-#EXTINF:-1 tvg-id="ROCKAction" ch-number="419" group-title="3. MOVIES" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_248.png", 42.3 ROCK Action
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
-https://web.hypp.tv:443/PLTV/888888...9wlOFjnT_COHDHZIbbd55AAsT8wAAAA&tenantId=6003
 
-#EXTINF:-1 tvg-id="ROCKEntertainment" ch-number="420" group-title="3. MOVIES" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.png",42.4 ROCK Entertainment
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
-https://web.hypp.tv:443/PLTV/888888...zInWYyM63lP64t-IfNj_9atHa8wAAAA&tenantId=6003
 
 #EXTINF:0 CUID="119" tvg-name="109. ONESPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg" group-title="4. SPORTS",109. ONESPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
