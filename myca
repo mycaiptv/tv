@@ -256,21 +256,21 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs9ZXSmcSuxHOLffTSPEd6bZMWdbIRPqjhWafCPiy7CGvKOuRNgAWQWp8&s=10" group-title="11. PPV | UFC", 76. DAZN BILLIARD 🎱 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs9ZXSmcSuxHOLffTSPEd6bZMWdbIRPqjhWafCPiy7CGvKOuRNgAWQWp8&s=10" group-title="11. PPV | UFC", DAZN BILLIARD 🎱 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-511/stream.mpd
 
-#EXTINF:0 CUID="119" tvg-name="" tvg-logo="" group-title="11. PPV | UFC", DAZN COMBAT
+#EXTINF:0 CUID="119" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaWdwlCnd4PHmYt0x63nI9nDMP2xv73aqnT7DysR5-f1ilg4Y7BWQb72Xa&s=10" group-title="11. PPV | UFC", DAZN COMBAT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-502/stream.mpd
 
-#EXTINF:0 CUID="119" tvg-name="" tvg-logo="" group-title="11. PPV | UFC", DAZN FAST
+#EXTINF:0 CUID="119" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4KjXKWTndpdH1CrJwwnygMskbyOGbmZJWOEVLVmEqtNLLp5svnRfqLyQ5&s=10" group-title="11. PPV | UFC", DAZN FAST
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
