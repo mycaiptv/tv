@@ -221,10 +221,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default.mpd
 
 
-EXTINF:-1 tvg-id="" ch-number="3" group-title="11. PPV | UFC" tvg-logo="", WWE
+#EXTINF:-1 tvg-id="" ch-number="3" group-title="11. PPV | UFC" tvg-logo="", WWE NETWORK 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-gghttps://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default.mpd
 
 #EXTINF:0 CUID="348" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/s9NDZSK/nbatv.png" group-title="11. PPV | UFC",NBA TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
