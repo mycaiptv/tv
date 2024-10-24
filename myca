@@ -112,15 +112,11 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
-#EXTINF:-1 tvg-id="Cinemax" ch-number="7" group-title="3. MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122", 43. HITS MOVIES
+EXTINF:-1 tvg-id="Cinemax" ch-number="7" group-title="3. MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122", 43. HITS MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default.mpd
 
-#EXTINF:-1 tvg-id="Cinemax" ch-number="7" group-title="3. MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122", 43. CINEMAX 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
-https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
 
 #EXTINF:-1 tvg-id="SHOWCASE" ch-number="413" group-title="3. MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png", 43. SHOWCASE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -288,26 +284,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs9ZXSmcSuxHOLffTSPEd6bZMWdbIRPqjhWafCPiy7CGvKOuRNgAWQWp8&s=10" group-title="11. PPV | UFC", DAZN BILLIARD 🎱 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-511/stream.mpd
-
-#EXTINF:0 CUID="119" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaWdwlCnd4PHmYt0x63nI9nDMP2xv73aqnT7DysR5-f1ilg4Y7BWQb72Xa&s=10" group-title="11. PPV | UFC", DAZN COMBAT
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-502/stream.mpd
-
-#EXTINF:0 CUID="119" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4KjXKWTndpdH1CrJwwnygMskbyOGbmZJWOEVLVmEqtNLLp5svnRfqLyQ5&s=10" group-title="11. PPV | UFC", DAZN FAST
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-504/stream.mpd
 
 #EXTINF:-1 tvg-id="Arena ρrémíùm 1.ba" tvg-logo="https://i.ibb.co/LkhJQrR/a1p.png" group-title="11. PPV | UFC", ARENA SPORT ρrémíùm 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
