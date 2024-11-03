@@ -143,7 +143,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 
-#EXTINF:-1 tvg-id="Cg.Tvnmovie.ph" group-title="3. MOVIES" ch-number = "" tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI5NLOkM3qmMtYILQ3ZDTLivTrHFwtQ9sPIQ&usqp=CAU", 37. TVN MOVIES PINOY
+#EXTINF:-1 tvg-id="Cg.Tvnmovie.ph" group-title="3. MOVIES" ch-number = "" tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwp-XMYX2wwSF3-wxsleY--sAI6DTiQgCfGT6yuCnzRBx2CYvv2V7aFZ3a&s=10", 37. TVN MOVIES PINOY
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
