@@ -98,9 +98,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
 
 
 #EXTINF:0 CUID="104" tvg-name="90. HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXoj8B44LUmJgtUZQ25kAwspLTPbWD1Znw&s" group-title="3. MOVIES", 42. HBO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="3. MOVIES", 42. HBO HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -125,27 +127,27 @@ EXTINF:-1 tvg-id="Cinemax" ch-number="7" group-title="3. MOVIES" tvg-logo="http:
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default.mpd
 
 
-#EXTINF:-1 tvg-id="SHOWCASE" ch-number="413" group-title="3. MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png", 43. SHOWCASE
+EXTINF:-1 tvg-id="SHOWCASE" ch-number="413" group-title="3. MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png", 43. SHOWCASE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
 
-#EXTINF:-1 tvg-id="BOO" ch-number="5" group-title="3. MOVIES" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg", 43. BOO
+EXTINF:-1 tvg-id="BOO" ch-number="5" group-title="3. MOVIES" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg", 43. BOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 
-#EXTINF:0 CUID="117" tvg-name="103. CINEMAX" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="3. MOVIES", 42. CINEMAX 1
+EXTINF:0 CUID="117" tvg-name="103. CINEMAX" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="3. MOVIES", 42. CINEMAX 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
 
-#EXTINF:0 CUID="118" tvg-name="104. WARNER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="3. MOVIES", 42.1 WARNER TV
+EXTINF:0 CUID="118" tvg-name="104. WARNER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="3. MOVIES", 42.1 WARNER TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 
-#EXTINF:-1 tvg-id="tvNMovies" ch-number="416" group-title="3. MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png", 43.2 TVN MOVIES HD
+EXTINF:-1 tvg-id="tvNMovies" ch-number="416" group-title="3. MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png", 43.2 TVN MOVIES HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
