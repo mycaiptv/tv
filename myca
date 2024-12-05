@@ -192,7 +192,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
 
-#EXTINF:0 CUID="143" tvg-name="150. DREAMWORKS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlZIOEq63Wg1MYFUHGSpi4YYxXCCzO-_BMoaf7U-A1HlAD5JaCN_1EIO4&s=10" group-title="7. KIDS CHANNEL",150. DREAMWORKS
+EXTINF:0 CUID="143" tvg-name="150. DREAMWORKS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlZIOEq63Wg1MYFUHGSpi4YYxXCCzO-_BMoaf7U-A1HlAD5JaCN_1EIO4&s=10" group-title="7. KIDS CHANNEL",150. DREAMWORKS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5bfe3554df2abcd37afe130a7e1d310:dccbdf043ac43d18be0b3eb43a582876
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
@@ -202,17 +202,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 
-#EXTINF:0 CUID="144" tvg-name="151. CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="7. KIDS CHANNEL",151. CARTOON NETWORK
+EXTINF:0 CUID="144" tvg-name="151. CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="7. KIDS CHANNEL",151. CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
 https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default.mpd
 
-#EXTINF:0 CUID="145" tvg-name="152. Nick Jr." tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nick-Jr.-Logo-2009-present-700x394.png" group-title="7. KIDS CHANNEL",152. Nick Jr.
+EXTINF:0 CUID="145" tvg-name="152. Nick Jr." tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nick-Jr.-Logo-2009-present-700x394.png" group-title="7. KIDS CHANNEL",152. Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default.mpd
 
-#EXTINF:0 CUID="146" tvg-name="153. Nickelodeon" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nickelodeon-Logo.png" group-title="7. KIDS CHANNEL",153. Nickelodeon
+EXTINF:0 CUID="146" tvg-name="153. Nickelodeon" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nickelodeon-Logo.png" group-title="7. KIDS CHANNEL",153. Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
@@ -224,23 +224,23 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-#EXTINF:-1 tvg-id="AstroCeria" group-title="7. KIDS CHANNEL" tvg-logo="https://static.wikia.nocookie.net/l..._(2019).png/revision/latest?cb=20201018231230" ch-number="611",161. Astro Ceria
+EXTINF:-1 tvg-id="AstroCeria" group-title="7. KIDS CHANNEL" tvg-logo="https://static.wikia.nocookie.net/l..._(2019).png/revision/latest?cb=20201018231230" ch-number="611",161. Astro Ceria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
 
-#EXTINF:-1 tvg-id="MoonbugKids" group-title="7. KIDS CHANNEL" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" ch-number="618",162. Moonbug Kids
+EXTINF:-1 tvg-id="MoonbugKids" group-title="7. KIDS CHANNEL" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" ch-number="618",162. Moonbug Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
 
-#EXTINF:-1 tvg-id="CBeebies" group-title="7. KIDS CHANNEL" ch-number="620" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png",163. CBeebies
+EXTINF:-1 tvg-id="CBeebies" group-title="7. KIDS CHANNEL" ch-number="620" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png",163. CBeebies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default.mpd
 
 
-#EXTINF:-1 tvg-id="" ch-number="3" group-title="11. PPV | UFC" tvg-logo="", WWE NETWORK 
+EXTINF:-1 tvg-id="" ch-number="3" group-title="11. PPV | UFC" tvg-logo="", WWE NETWORK 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default.mpd
@@ -294,7 +294,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 #EXTINF:-1 tvg-id="FightNetwork" tvg-logo="https://i.ibb.co/YB4Z45g/fightnetwork.png" group-title="11. PPV | UFC", FIGHT NETWORK
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 tvg-id="The Golf Channel HDTV" tvg-name="NBC GOLF" tvg-logo="https://i.ibb.co/Rykhd2s/nbcgolf.png" group-title="4. SPORTS" , NBC GOLF CHANNEL
+EXTINF:-1 tvg-id="The Golf Channel HDTV" tvg-name="NBC GOLF" tvg-logo="https://i.ibb.co/Rykhd2s/nbcgolf.png" group-title="4. SPORTS" , NBC GOLF CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5c9203447ab38c5bf5b407cdd9de5e8:501464dfa2ac437098c35e1c4f16bb6b
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd
