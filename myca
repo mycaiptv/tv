@@ -209,13 +209,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default.mpd
 
 EXTINF:0 CUID="145" tvg-name="152. Nick Jr." tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nick-Jr.-Logo-2009-present-700x394.png" group-title="7. KIDS CHANNEL",152. Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tKu+6Vtps+gKDRQScshw2w", "kid":"+mUiDJ925CQXOJnfUzptEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
+
+
+
 
 EXTINF:0 CUID="146" tvg-name="153. Nickelodeon" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nickelodeon-Logo.png" group-title="7. KIDS CHANNEL",153. Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vaX3u8HkQJb3eaBhn+mIHw", "kid":"2FIOlqEoOrblvlOEdL+oEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
 
 #EXTINF:-1 group-title="7. KIDS CHANNEL" ch-number="472" tvg-id="Animax" tvg-chno="472" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png", 153. Animax HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
