@@ -244,7 +244,7 @@ EXTINF:-1 tvg-id="CBeebies" group-title="7. KIDS CHANNEL" ch-number="620" tvg-lo
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default.mpd
 
 
-EXTINF:-1 tvg-id="" ch-number="3" group-title="11. PPV | UFC" tvg-logo="", WWE NETWORK 
+#EXTINF:-1 tvg-id="" ch-number="3" group-title="11. PPV | UFC" tvg-logo="", WWE NETWORK 
 #KODIPROP:#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
