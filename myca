@@ -158,7 +158,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 
 
-#EXTINF:0 CUID="119" tvg-name="109. ONESPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl1kRGM_pVwRFsJx7V-wqX1-tOPumD_2mWSg&s", ONE SPORTS 
+#EXTINF:0 CUID="119" tvg-name="109. ONESPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl1kRGM_pVwRFsJx7V-wqX1-tOPumD_2mWSg&s",109. ONE SPORTS 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -172,7 +172,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 #KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
-#EXTINF:0 CUID="121" tvg-name="111. UAAP VARSITY CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/UAAP_87_logo.svg" group-title="4. SPORTS",111. UAAP VARSITY CH
+#EXTINF:0 CUID="121" tvg-name="111. UAAP VARSITY CH" tvg-logo="https://www.ateneo.edu/sites/default/files/styles/max_650x650/public/2022-10/UAAP_LOGO_ADU-01.png?itok=pPWkbsjI" group-title="4. SPORTS",111. UAAP VARSITY CH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
