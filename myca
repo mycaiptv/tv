@@ -954,105 +954,13 @@ http://s5w5i4u2j4q4q344h3r2.9don2ca1yk1d.pro/live/paofont448/ksr1pzMcE1/191602.t
 #EXTINF:-1 tvg-id="skyprimafila-0025" tvg-name="SKY PRIMAFILA 25" tvg-logo="https://i.imgur.com/QQUubbo.png" group-title="🇮🇹 SKY PRIMAFILA",SKY PRIMAFILA 25
 http://s5w5i4u2j4q4q344h3r2.9don2ca1yk1d.pro/live/paofont448/ksr1pzMcE1/191603.ts
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00368fc53eab9498463dadfc60e0f818:0a70fe8d3b90360035982deaa8c83a6d
-#EXTINF:-1 tv
-2000
-g-id="skycineact" tvg-name="SKY CINEMA ACTION FHD" tvg-logo="https://i.imgur.com/isLtpJf.png" group-title="🇮🇹 SKY CINEMA",SKY CINEMA ACTION FHD
-https://linear306-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31206/FHD/cinemaaction/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00368fc53eab9498463dadfc60e0f818:0a70fe8d3b90360035982deaa8c83a6d
-#EXTINF:-1 tvg-id="skycineact2" tvg-name="SKY CINEMA ACTION HD" tvg-logo="https://i.imgur.com/isLtpJf.png" group-title="🇮🇹 SKY CINEMA",SKY CINEMA ACTION HD
-https://linear306-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31206/FHD/cinemaaction/master_sd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036211ccb7bd9cfd99fb8591e67d772:a10923293396f30380ce411a3504ddc3
-#EXTINF:-1 tvg-id="skycineuno" tvg-name="SKY CINEMA UNO FHD" tvg-logo="https://i.imgur.com/sZfJb3P.png" group-title="🇮🇹 SKY CINEMA",SKY CINEMA UNO FHD
-https://linear314-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32202/FHD/cinemauno/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036211ccb7bd9cfd99fb8591e67d772:a10923293396f30380ce411a3504ddc3
-#EXTINF:-1 tvg-id="skycineuno2" tvg-name="SKY CINEMA UNO HD" tvg-logo="https://i.imgur.com/sZfJb3P.png" group-title="🇮🇹 SKY CINEMA",SKY CINEMA UNO HD
-https://linear314-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32202/FHD/cinemauno/master_sd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=003629d4c6efbd39a2808a85a286b783:41c463cc4bf6da4dec7935eb01a7155e
-#EXTINF:-1 tvg-id="skycinedue" tvg-name="SKY CINEMA DUE FHD" tvg-logo="https://i.imgur.com/vG7akuz.png" group-title="🇮🇹 SKY CINEMA",SKY CINEMA DUE FHD
-https://linear308-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32564/FHD/cinemadue/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=003629d4c6efbd39a2808a85a286b783:41c463cc4bf6da4dec7935eb01a7155e
-#EXTINF:-1 tvg-id="skycinedue2" tvg-name="SKY CINEMA DUE HD" tvg-logo="https://i.imgur.com/vG7akuz.png" group-title="🇮🇹 SKY CINEMA",SKY CINEMA DUE HD
-https://linear308-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32564/FHD/cinemadue/master_sd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=003638a93ac06c9df7de5d8f349f56fd:45c7c2ba5a3cdfd03e90ff16e6ac15d8
-#EXTINF:-1 tvg-id="skycinecom" tvg-name="SKY CINEMA COMEDY FHD" tvg-logo="https://i.imgur.com/qxLPd0H.png" group-title="🇮🇹 SKY CINEMA",SKY CINEMA COMEDY FHD
-https://linear303-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32030/FHD/cinemacomedy/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=003638a93ac06c9df7de5d8f349f56fd:45c7c2ba5a3cdfd03e90ff16e6ac15d8
-#EXTINF:-1 tvg-id="skycinecom2" tvg-name="SKY CINEMA COMEDY HD" tvg-logo="https://i.imgur.com/qxLPd0H.png" group-title="🇮🇹 SKY CINEMA",SKY CINEMA COMEDY HD
-https://linear303-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32030/FHD/cinemacomedy/master_sd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036012604394c43b063c4f513ee431d:2c665092aa45cbae824bf7ad4e69d767
-#EXTINF:-1 tvg-id="skycinefam" tvg-name="SKY CINEMA FAMILY FHD" tvg-logo="https://i.imgur.com/mGeiMf2.png" group-title="🇮🇹 SKY CINEMA",SKY CINEMA FAMILY FHD
-https://linear305-it-dash1-prd-akp1.cdn13.skycdp.com/016a/31255/FHD/cinemafamily/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036012604394c43b063c4f513ee431d:2c665092aa45cbae824bf7ad4e69d767
-#EXTINF:-1 tvg-id="skycinefam2" tvg-name="SKY CINEMA FAMILY HD" tvg-logo="https://i.imgur.com/mGeiMf2.png" group-title="🇮🇹 SKY CINEMA",SKY CINEMA FAMILY HD
-https://linear305-it-dash1-prd-akp1.cdn13.skycdp.com/016a/31255/FHD/cinemafamily/master_sd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00365eb692a3fd6907192a4a3f0958b2:9f86ea0417e3458186f8ada1a2003fa5
-#EXTINF:-1 tvg-id="skycinesus" tvg-name="SKY CINEMA SUSPENSE FHD" tvg-logo="https://i.imgur.com/CPxTXPS.png" group-title="🇮🇹 SKY CINEMA",SKY CINEMA SUSPENSE FHD
-https://linear307-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32047/FHD/cinemasuspense/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00365eb692a3fd6907192a4a3f0958b2:9f86ea0417e3458186f8ada1a2003fa5
-#EXTINF:-1 tvg-id="skycinesus2" tvg-name="SKY CINEMA SUSPENSE HD" tvg-logo="https://i.imgur.com/CPxTXPS.png" group-title="🇮🇹 SKY CINEMA",SKY CINEMA SUSPENSE HD
-https://linear307-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32047/FHD/cinemasuspense/master_sd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036a5270d8f1d1a2f573864aed26225:df0e826d2eeb78051f5dcf6f166e6056
-#EXTINF:-1 tvg-id="skycinedra" tvg-name="SKY CINEMA DRAMA FHD" tvg-logo="https://i.imgur.com/FQrLfT7.png" group-title="🇮🇹 SKY CINEMA",SKY CINEMA DRAMA FHD
-https://linear304-it-dash1-prd-akp1.cdn13.skycdp.com/016a/31769/FHD/cinemadrama/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036a5270d8f1d1a2f573864aed26225:df0e826d2eeb78051f5dcf6f166e6056
-#EXTINF:-1 tvg-id="skycinedra2" tvg-name="SKY CINEMA DRAMA HD" tvg-logo="https://i.imgur.com/FQrLfT7.png" group-title="🇮🇹 SKY CINEMA",SKY CINEMA DRAMA HD
-https://linear304-it-dash1-prd-akp1.cdn13.skycdp.com/016a/31769/FHD/cinemadrama/master_sd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00362d0a5efbd10ab56a3f502f2be023:61c8c429f412ea52e06d9663c48ee9b7
-#EXTINF:-1 tvg-id="skycinerom" tvg-name="SKY CINEMA ROMANCE FHD" tvg-logo="https://i.imgur.com/9tdsK3W.png" group-title="🇮🇹 SKY CINEMA",SKY CINEMA ROMANCE FHD
-https://linear301-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32231/FHD/cinemaromance/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00362d0a5efbd10ab56a3f502f2be023:61c8c429f412ea52e06d9663c48ee9b7
-#EXTINF:-1 tvg-id="skycinerom2" tvg-name="SKY CINEMA ROMANCE HD" tvg-logo="https://i.imgur.com/9tdsK3W.png" group-title="🇮🇹 SKY CINEMA",SKY CINEMA ROMANCE HD
-https://linear301-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32231/FHD/cinemaromance/master_sd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=003699aeb8e998fe0afed0c7302ce51f:4583daf5ec387c310633cdc922dd3130
-#EXTINF:-1 tvg-id="skycinecol" tvg-name="SKY CINEMA COLLECTION FHD" tvg-logo="https://i.imgur.com/If9V6af.png" group-title="🇮🇹 SKY CINEMA",SKY CINEMA COLLECTION FHD
-https://linear302-it-dash1-prd-akp1.cdn13.skycdp.com/016a/31204/FHD/cinemacollection/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=003699aeb8e998fe0afed0c7302ce51f:4583daf5ec387c310633cdc922dd3130
-#EXTINF:-1 tvg-id="skycinecol2" tvg-name="SKY CINEMA COLLECTION HD" tvg-logo="https://i.imgur.com/If9V6af.png" group-title="🇮🇹 SKY CINEMA",SKY CINEMA COLLECTION HD
-https://linear302-it-dash1-prd-akp1.cdn13.skycdp.com/016a/31204/FHD/cinemacollection/master_sd.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=003610b8556000936e48061cdb4ee11a:2cd6bcc2160aa6ec048e5a5f7a0f73c8
 #EXTINF:-1 tvg-id="intratteuno" tvg-name="SKY UNO FHD" tvg-logo="https://i.imgur.com/ho9HnNR.png" group-title="🇮🇹 INTRATTENIMENTO",SKY UNO FHD
 https://linear313-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32477/FHD/skyuno/master.mpd
-© 2024 SphericalKat
-Fork me!
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=003610b8556000936e48061cdb4ee11a:2cd6bcc2160aa6ec048e5a5f7a0f73c8
