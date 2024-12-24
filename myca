@@ -76,6 +76,30 @@ http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="gtvph2" tvg-name="GTV (CON02)" tvg-logo="https://i.imgur.com/jxFbz5d.png" group-title="1. LOCAL CHANNEL",06. GTV s2
 http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
+#EXTINF:-1 tvg-id="gmapinoytv1" tvg-name="GMA PINOY TV" tvg-logo="https://i.imgur.com/PvzGWZc.png" group-title="1. LOCAL CHANNEL",03. GMA PINOY TV s1
+https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b66176b0f0748e38c6db27263f6f1a1:12ca5ae7cf4772736945689727961aec
+#EXTINF:-1 tvg-id="gmapinoytv2" tvg-name="GMA PINOY TV (TFC)" tvg-logo="https://i.imgur.com/PvzGWZc.png" group-title="1. LOCAL CHANNEL",03. GMA PINOY TV s2
+https://absp-live.akamaized.net/dash/live/2099522/gmapt/manifest.mpd|Referer=https://www.iwanttfc.com/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=369bcd591a7e42cea6a829879962ee77:7c0548d4ea14676297c0a36ea0e06301
+#EXTINF:-1 tvg-id="gmalifetv" tvg-name="GMA LIFE TV" tvg-logo="https://i.imgur.com/tuyEIkd.png" group-title="1. LOCAL CHANNEL",04. GMA LIFE TV
+https://absp-live.akamaized.net/dash/live/2099524/gmalf/manifest.mpd|Referer=https://www.iwanttfc.com/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1d76704a9f84ce28e7e3d154c7dc5b1:36d98c5b0aad47b256629e57a651e3d8
+#EXTINF:-1 tvg-id="gmanewstv" tvg-name="GMA NEWS TV" tvg-logo="https://i.imgur.com/KYK7O8S.png" group-title="1. LOCAL CHANNEL",05. GMA NEWS TV
+https://absp-live.akamaized.net/dash/live/2099526/gmanw/manifest.mpd|Referer=https://www.iwanttfc.com/
+
+#EXTINF:-1 tvg-id="hollypop" tvg-name="HALLYPOP" tvg-logo="https://i.imgur.com/TocoWnz.png" group-title="1. LOCAL CHANNEL",HALLYPOP
+https://jungotvstream-chanall.akamaized.net/jungotv/hallypop/stream.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 #EXTINF:-1 tvg-id="kapcha" tvg-name="KAPAMILYA (TFC)" tvg-logo="https://i.imgur.com/69D9xwa.png" group-title="1. LOCAL CHANNEL",06. KAPAMILYA CHANNEL 
@@ -85,6 +109,27 @@ https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/in
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:0 CUID="8" tvg-name="06. KAPAMILYA CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKm2Lrh11LXGy-bF04OpzO3M4xMrbRigxnTzbIFP5gMYKsSmAkwZnw_wsu&s=10" group-title="1. LOCAL CHANNEL",06. KAPAMILYA CHANNEL HD
 http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="kapcha2" tvg-name="KAPAMILYA SD (CON)" tvg-logo="https://i.imgur.com/69D9xwa.png" group-title="1. LOCAL CHANNEL",KAPAMILYA SD 
+http://143.44.136.110:6910/001/2/ch00000090990000001248/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+#EXTINF:-1 tvg-id="tfcasia" tvg-name="TFC ASIA" tvg-logo="https://i.imgur.com/WaNjDaK.png" group-title="1. LOCAL CHANNEL",TFC ASIA
+https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=457c50351e2a4c42a5c34cfb5c0b0682:03a2754079e082f7dec48ad362e3899e
+#EXTINF:-1 tvg-id="tfceurope" tvg-name="TFC EUROPE" tvg-logo="https://i.imgur.com/WaNjDaK.png" group-title="1. LOCAL CHANNEL",TFC EUROPE
+https://d123wz0csfw11u.cloudfront.net/out/v1/6e2906534002432984f73742ef2bcbfe/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c700e42ffc64d9b82d94cf57a2302fa:44d038e1fdcaefb3e75ffb4e42537279
+#EXTINF:-1 tvg-id="tfccanada" tvg-name="TFC CANADA" tvg-logo="https://i.imgur.com/WaNjDaK.png" group-title="1. LOCAL CHANNEL",TFC CANADA
+https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
