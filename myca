@@ -13,73 +13,73 @@ http://143.44.136.111:6910/001/2/ch00000090990000001243/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="jeepney" tvg-name="JEEPNEY TV" tvg-logo="https://i.imgur.com/9ptmSBf.png" group-title="1. LOCAL CHANNEL",JEEPNEY TV
+#EXTINF:-1 tvg-id="jeepney" tvg-name="JEEPNEY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRscAGnyN9WU5Wjn_9-Dnsnj6a9O22SsOv8GQ&s" group-title="1. LOCAL CHANNEL",JEEPNEY TV
 http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
-#EXTINF:-1 tvg-id="cinemotfc" tvg-name="CINEMO TFC" tvg-logo="https://i.imgur.com/Pf8CNau.png" group-title="1. LOCAL CHANNEL",CINEMO PH
+#EXTINF:-1 tvg-id="cinemotfc" tvg-name="CINEMO TFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfSAX3s9pZ_vF-BYCNl2YauNfH__T2bzKq1Q&s" group-title="1. LOCAL CHANNEL",CINEMO PH
 https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
-#EXTINF:-1 tvg-id="cinemaonetfc" tvg-name="CINEMAONE TFC" tvg-logo="https://i.imgur.com/tvXWfNI.png" group-title="1. LOCAL CHANNEL",CINEMAONE PH
+#EXTINF:-1 tvg-id="cinemaonetfc" tvg-name="CINEMAONE TFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Uon_6NqhJkBIgWbOh3I_xdccJuXCRcK3gw&s" group-title="1. LOCAL CHANNEL",CINEMAONE PH
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="alltvph1" tvg-name="ALL TV #01" tvg-logo="https://i.imgur.com/m03Ebbe.png" group-title="1. LOCAL CHANNEL",ALL TV s1
+#EXTINF:-1 tvg-id="alltvph1" tvg-name="ALL TV #01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZnlCSYPfWRWqlH4x7WvM1KeX-NRDnhkz_qQ&s" group-title="1. LOCAL CHANNEL",ALL TV s1
 http://143.44.136.110:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="alltvph2" tvg-name="ALL TV #02" tvg-logo="https://i.imgur.com/m03Ebbe.png" group-title="1. LOCAL CHANNEL",ALL TV s2
+#EXTINF:-1 tvg-id="alltvph2" tvg-name="ALL TV #02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZnlCSYPfWRWqlH4x7WvM1KeX-NRDnhkz_qQ&s" group-title="1. LOCAL CHANNEL",ALL TV s2
 http://136.239.159.18:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=DvftfiQOMAT%2Fl3VKz%2F6TxorYbnegGQcVSa4v7mOKzojA5L43DLuqa4gGxA71OWYhBl0kLG1MjLMhEVrkZmBvUA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=0020230859495&boid=001&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=526239246&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=Widevine&RateLow=1280000&RateHigh=25600000&IASHttpSessionId=OTT000020240723233153072050&ispcode=55
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1d76704a9f84ce28e7e3d154c7dc5b1:36d98c5b0aad47b256629e57a651e3d8
-#EXTINF:-1 tvg-id="morenter" tvg-name="MOR ENTERTAINMENT" tvg-logo="https://i.imgur.com/hLi2vqi.png" group-title="1. LOCAL CHANNEL",MOR ENTERTAINMENT
+#EXTINF:-1 tvg-id="morenter" tvg-name="MOR ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlUtYscu0fAW6JxIODp9JKGjLmgPYMt-bPkg&s" group-title="1. LOCAL CHANNEL",MOR ENTERTAINMENT
 https://abslive.akamaized.net/dash/live/2028025/mor/manifest.mpd|Referer=https://www.iwanttfc.com/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=141288d93b0f4f89a3f614a365671411:ccd2e8162c5fe3f6d5207fb941c09686
-#EXTINF:-1 tvg-id="knowchantfc" tvg-name="KNOWLEDGE CHANNELS" tvg-logo="https://i.imgur.com/agp7T5R.png" group-title="1. LOCAL CHANNEL",KNOWLEDGE CHANNELS
+#EXTINF:-1 tvg-id="knowchantfc" tvg-name="KNOWLEDGE CHANNELS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7__SdFOyWY3vyQgU9d-8sDD6pL0mywoVFew&usqp=CAU" group-title="1. LOCAL CHANNEL",KNOWLEDGE CHANNELS
 https://abslive.akamaized.net/dash/live/2028189/kc/manifest.mpd|Referer=https://www.iwanttfc.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="aliwtv" tvg-name="ALIW CHANNEL 23" tvg-logo="https://i.imgur.com/bDOKOV9.png" group-title="1. LOCAL CHANNEL",ALIW CHANNEL 23
+#EXTINF:-1 tvg-id="aliwtv" tvg-name="ALIW CHANNEL 23" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkWvUrke8ttYj68hKs6qzzsLTkCUcWaX5arg&usqp=CAU" group-title="1. LOCAL CHANNEL",ALIW CHANNEL 23
 http://143.44.136.110:6910/001/2/ch00000090990000001109/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="centralluzon" tvg-name="CLTV 36" tvg-logo="https://i.imgur.com/pYt5AXG.png" group-title="1. LOCAL CHANNEL",CLTV 36
+#EXTINF:-1 tvg-id="centralluzon" tvg-name="CLTV 36" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhmSz6UI49Hy62eNVCi--l5KMx__YCaMqJeQ&usqp=CAU" group-title="1. LOCAL CHANNEL",CLTV 36
 http://143.44.136.110:6910/001/2/ch00000090990000001314/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="gma7ph1" tvg-name="GMA 7 (CON01)" tvg-logo="https://i.imgur.com/2XFNN9P.png" group-title="1. LOCAL CHANNEL",02. GMA 7 s1
+#EXTINF:-1 tvg-id="gma7ph1" tvg-name="GMA 7 (CON01)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFZvR-WBx9by7ekFRW0YnNf7DBTUH4_MRzWQ&usqp=CAU" group-title="1. LOCAL CHANNEL",02. GMA 7 s1
 http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
-#EXTINF:-1 tvg-id="gma7ph2" tvg-name="GMA 7 (CON02)" tvg-logo="https://i.imgur.com/2XFNN9P.png" group-title="1. LOCAL CHANNEL",02. GMA 7 s2
+#EXTINF:-1 tvg-id="gma7ph2" tvg-name="GMA 7 (CON02)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFZvR-WBx9by7ekFRW0YnNf7DBTUH4_MRzWQ&usqp=CAU" group-title="1. LOCAL CHANNEL",02. GMA 7 s2
 http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="gtvph1" tvg-name="GTV (CON01)" tvg-logo="https://i.imgur.com/jxFbz5d.png" group-title="1. LOCAL CHANNEL",06. GTV s1
+#EXTINF:-1 tvg-id="gtvph1" tvg-name="GTV (CON01)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHuaTnA44toWz0_kw54tZGZ21ovkedvV_yCsBdvJTYQ-mvbA8V27XQxuA&s=10" group-title="1. LOCAL CHANNEL",06. GTV s1
 http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:35416a68643065697575493337566135
-#EXTINF:-1 tvg-id="gtvph2" tvg-name="GTV (CON02)" tvg-logo="https://i.imgur.com/jxFbz5d.png" group-title="1. LOCAL CHANNEL",06. GTV s2
+#EXTINF:-1 tvg-id="gtvph2" tvg-name="GTV (CON02)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHuaTnA44toWz0_kw54tZGZ21ovkedvV_yCsBdvJTYQ-mvbA8V27XQxuA&s=10" group-title="1. LOCAL CHANNEL",06. GTV s2
 http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
-#EXTINF:-1 tvg-id="gmapinoytv1" tvg-name="GMA PINOY TV" tvg-logo="https://i.imgur.com/PvzGWZc.png" group-title="1. LOCAL CHANNEL",03. GMA PINOY TV s1
+#EXTINF:-1 tvg-id="gmapinoytv1" tvg-name="GMA PINOY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbAHdwGocmQ1oPY0HdtfHzEAEWysJGclfK3yYFTZNEdX2Hlj4JK8T6UNK3&s=10" group-title="1. LOCAL CHANNEL",03. GMA PINOY TV s1
 https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
 
 
@@ -87,7 +87,7 @@ https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
-#EXTINF:-1 tvg-id="kapcha" tvg-name="KAPAMILYA (TFC)" tvg-logo="https://i.imgur.com/69D9xwa.png" group-title="1. LOCAL CHANNEL",06. KAPAMILYA CHANNEL 
+#EXTINF:-1 tvg-id="kapcha" tvg-name="KAPAMILYA (TFC)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMK-ixBDw04VD6UFIA87VRet7mUqn00xYXQ&s" group-title="1. LOCAL CHANNEL",06. KAPAMILYA CHANNEL 
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -98,27 +98,27 @@ http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="kapcha2" tvg-name="KAPAMILYA SD (CON)" tvg-logo="https://i.imgur.com/69D9xwa.png" group-title="1. LOCAL CHANNEL",06. KAPAMILYA SD 
+#EXTINF:-1 tvg-id="kapcha2" tvg-name="KAPAMILYA SD (CON)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMK-ixBDw04VD6UFIA87VRet7mUqn00xYXQ&s" group-title="1. LOCAL CHANNEL",06. KAPAMILYA SD 
 http://143.44.136.110:6910/001/2/ch00000090990000001248/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
-#EXTINF:-1 tvg-id="tfcasia" tvg-name="TFC ASIA" tvg-logo="https://i.imgur.com/WaNjDaK.png" group-title="1. LOCAL CHANNEL",TFC ASIA
+#EXTINF:-1 tvg-id="tfcasia" tvg-name="TFC ASIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Cfo9k6CeS3CkU0fvi4PZifrkt9s8bMmBAA&usqp=CAU" group-title="1. LOCAL CHANNEL",TFC ASIA
 https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=457c50351e2a4c42a5c34cfb5c0b0682:03a2754079e082f7dec48ad362e3899e
-#EXTINF:-1 tvg-id="tfceurope" tvg-name="TFC EUROPE" tvg-logo="https://i.imgur.com/WaNjDaK.png" group-title="1. LOCAL CHANNEL",TFC EUROPE
+#EXTINF:-1 tvg-id="tfceurope" tvg-name="TFC EUROPE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Cfo9k6CeS3CkU0fvi4PZifrkt9s8bMmBAA&usqp=CAU" group-title="1. LOCAL CHANNEL",TFC EUROPE
 https://d123wz0csfw11u.cloudfront.net/out/v1/6e2906534002432984f73742ef2bcbfe/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c700e42ffc64d9b82d94cf57a2302fa:44d038e1fdcaefb3e75ffb4e42537279
-#EXTINF:-1 tvg-id="tfccanada" tvg-name="TFC CANADA" tvg-logo="https://i.imgur.com/WaNjDaK.png" group-title="1. LOCAL CHANNEL",TFC CANADA
+#EXTINF:-1 tvg-id="tfccanada" tvg-name="TFC CANADA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Cfo9k6CeS3CkU0fvi4PZifrkt9s8bMmBAA&usqp=CAU" group-title="1. LOCAL CHANNEL",TFC CANADA
 https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="celestialmovie" tvg-name="CELESTIAL MOVIE PINOY" tvg-logo="https://i.imgur.com/GZ8WmYE.png" group-title="3. MOVIES",40. CELESTIAL MOVIES PINOY
+#EXTINF:-1 tvg-id="celestialmovie" tvg-name="CELESTIAL MOVIE PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToIU7sM7fa62h-6q0nDURog-OAFubgFU-RUA&usqp=CAU" group-title="3. MOVIES",40. CELESTIAL MOVIES PINOY
 http://143.44.136.113:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 EXTINF:0 CUID="8" tvg-name="06. KAPAMILYA CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKm2Lrh11LXGy-bF04OpzO3M4xMrbRigxnTzbIFP5gMYKsSmAkwZnw_wsu&s=10" group-title="1. LOCAL CHANNEL",06. KAPAMILYA CHANNEL
