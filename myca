@@ -204,6 +204,16 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 #KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbda230f9f7d779f429385b49c156ac7:44242e42ba3c3c36b13e5085b3937617
+#EXTINF:4 tvg-id="HEART OF ASIA" provider="ZTest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Heart_of_Asia_logo.png" provider-logo="" provider-type="iptv" group-title="3. MOVIES", 39. HEART OF ASIA
+https://cdn5.ganbaruby23.xyz/live_stream/live_manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e75f0360828d047b0fb7eb3fbe40ad3:c33bc1ba6b3b19aac1109461b9100f5f
+#EXTINF:5 tvg-id="I HEART MOVIES" provider="ZTest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png" provider-logo="" provider-type="iptv" group-title="3. MOVIES", 39. I HEART MOVIES
+https://cdn5.ganbaruby23.xyz/live_stream/iheartmovies/index.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScDTziy0eBPaVybCk5GTjsq5b1Ia9MLz7KEYgtqAd7N80Jtd42xhbjkuAX&s=10" group-title="3. MOVIES", 42. CELESTIAL MOVIES 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
