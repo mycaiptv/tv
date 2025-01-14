@@ -2801,3 +2801,1225 @@ https://d1qfpvemzhsbpm.cloudfront.net/video/P01158_FF_LM_MAANITA/dash/hd.mpd
 #EXTINF:-1 tvg-id="vivaonemix081" tvg-name="Revirginized" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5tEQhK0fJv1mKF7MuOc6tJ2Z8Eh.jpg" group-title="VIVAONE MOVIES TAGALOG",Revirginized
 https://d1qfpvemzhsbpm.cloudfront.net/video/P00160_FF_LM_REVIRGINIZED/dash/hd.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4cdc45e32f4272bea5aac2cf4f47419:1c4878a93b13dec518e98240baeeacb2
+#EXTINF:-1 tvg-id="vivaonemix001" tvg-name="Cracked" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8MTiGWVC3IPHc597w1NU18Vh5Wa.jpg" group-title="VIVAONE MOVIES MIX",Cracked
+https://d1qfpvemzhsbpm.cloudfront.net/video/P02029_FF_FM_CRACKED/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=54c20cfed8345010bcb8fea65bfbb666:e810f257c044656bc5e5b0b45b45e89f
+#EXTINF:-1 tvg-id="vivaonemix002" tvg-name="Peninsula" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hpCtv0Plf21KlTi51UCIEVxRmkh.jpg" group-title="VIVAONE MOVIES MIX",Peninsula
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01241_FF_FM_PENINSULA/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad6b84cdccf82683a50ff49927f82dd2:89bc7e0b6f1487bf3532ac53b8fc31a1
+#EXTINF:-1 tvg-id="vivaonemix003" tvg-name="Parasite" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dJFTwh20N23ZeSDIaCkOZTNoGn1.jpg" group-title="VIVAONE MOVIES MIX",Parasite
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00709_FF_FM_PARASITE/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=80f68e3cbb240fe8056a634e1ae1fb56:cd5a12ee719f7cef8bade6ed2b599ac7
+#EXTINF:-1 tvg-id="vivaonemix004" tvg-name="The Monkey King" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/p9Atjcbidu4DsM7EQltiTZbrvkM.jpg" group-title="VIVAONE MOVIES MIX",The Monkey King
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01441_FF_FM_THE%20MONKEY%20KING%20THE%20LEGEND%20BEGINS/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c44c55f19e144f4f1611b4066bcaa76:41859ff109d02ea97fd1cd9546862f9b
+#EXTINF:-1 tvg-id="vivaonemix005" tvg-name="The Monkey King 2" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iOApsyuFG05NaDCNHnicrln1ztM.jpg" group-title="VIVAONE MOVIES MIX",The Monkey King 2
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01442_FF_FM_THE%20MONKEY%20KING%202/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9600801690819c8b2dc435cf6b92c0c8:48cc835384eda968f38c9a2285861f51
+#EXTINF:-1 tvg-id="vivaonemix006" tvg-name="Heart of Dragon" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fVR4xKZuw95n7BJBlkQdKsznKAF.jpg" group-title="VIVAONE MOVIES MIX",Heart of Dragon
+https://cdnbp.vivamax.net/video/P02144_FF_FM_HEART%20OF%20DRAGON/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a47181615593db444b5043bcbcd0bf53:47c3b5d32d917d61dc0aef32e2865422
+#EXTINF:-1 tvg-id="vivaonemix04" tvg-name="Escape from Mogadishu" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5e2y8LpJqk8FaJlosVmwkEnkt0S.jpg" group-title="VIVAONE MOVIES MIX",Escape from Mogadishu
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01234_FF_FM_ESCAPE%20FROM%20MOGADISHU/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c51aae71898f4425f623ed17c57a63d:a4c866083ad3275c1d282f5a3a8899d0
+#EXTINF:-1 tvg-id="vivaonemix007" tvg-name="Dew" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wA2H70y0G86wYm0HtE1TIkVGgU4.jpg" group-title="VIVAONE MOVIES MIX",Dew
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01183_FF_FM_DEW/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=63554e0d61c329fd5cccd3684bdc0b98:f5da35af531d662f63b304b8a541aaff
+#EXTINF:-1 tvg-id="vivaonemix008" tvg-name="Get in the Dark" tvg-logo="https://i.imgur.com/j0YqMmz.png" group-title="VIVAONE MOVIES MIX",Get in the Dark
+https://d1qfpvemzhsbpm.cloudfront.net/video/P02046_FF_FM_GET%20IN%20THE%20DARK/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fda8dbdba913bfde36e4c7599c031a77:2ece5d10bcec59b73f818fd79f45d59a
+#EXTINF:-1 tvg-id="vivaonemix009" tvg-name="Tales from the Occult" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/y3zE72ikqqB8CTIoV3MVlbDcab0.jpg" group-title="VIVAONE MOVIES MIX",Tales from the Occult
+https://d1qfpvemzhsbpm.cloudfront.net/video/P02019_FF_FM_TALES%20FROM%20THE%20OCCULT/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=87921d7471e57c7f1f2049eb2f9427eb:ace4e45cc71b37934e1e999bcf895834
+#EXTINF:-1 tvg-id="vivaonemix010" tvg-name="The Narrow road" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vuo6akzZfaO5jxhwgu4DHj9wCGw.jpg" group-title="VIVAONE MOVIES MIX",The Narrow road
+https://d1qfpvemzhsbpm.cloudfront.net/video/P02149_FF_FM_THE%20NARROW%20ROAD/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=90b027eea7032054cedc22d4e3ac318d:ed034f38363a45e7da28c898e90314cb
+#EXTINF:-1 tvg-id="vivaonemix011" tvg-name="The Medium" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tWoSE8SH6XhgWKHIL3p0sj7lA3V.jpg" group-title="VIVAONE MOVIES MIX",The Medium
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01232_FF_FM_THE%20MEDIUM/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=893b0a8e81f147bb9900924f5af80019:59a3c6e047e26c7f3164cdd0c7730a47
+#EXTINF:-1 tvg-id="vivaonemix012" tvg-name="Wifi" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wqW1tcpxWCiO6nPxvmcGam3TPbG.jpg" group-title="VIVAONE MOVIES MIX",Wifi
+https://d1qfpvemzhsbpm.cloudfront.net/video/P02150_FF_FM_WIFI/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=628f78a315a8f30d301e44abf61570d0:1bd4ca9b53d0d381769a944eb6f03bac
+#EXTINF:-1 tvg-id="vivaonemix013" tvg-name="Far Far Away" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8GM9tJ5mlkGc44j9c0og1v3Qlm7.jpg" group-title="VIVAONE MOVIES MIX",Far Far Away
+https://d1qfpvemzhsbpm.cloudfront.net/video/P02145_FF_FM_FAR%20FAR%20AWAY/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9fc1ddc51dc019d8b799f3bbf6bb179b:81eec0fc2e0c0c98265c358d5e93a274
+#EXTINF:-1 tvg-id="vivaonemix014" tvg-name="12.12: The Day" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qYczuua2tgjfxcdtLNDC0n4mOHz.jpg" group-title="VIVAONE MOVIES MIX",12.12: The Day
+https://d1qfpvemzhsbpm.cloudfront.net/video/P02032_FF_FM_1212%20THE%20DAY/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=45b0518aa9c9dcbb91051bd2a5b587d9:0d2cc0575114c4ee986e1ff6c3ab854e
+#EXTINF:-1 tvg-id="vivaonemix015" tvg-name="Brave Citizen" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6Ea5i6APeTfm4hHh6dg5Z733JVS.jpg" group-title="VIVAONE MOVIES MIX",Brave Citizen
+https://d1qfpvemzhsbpm.cloudfront.net/video/P02065_FF_FM_BRAVE%20CITIZEN/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=80ee5a5147b03494c2ec178b44c69789:3cd1e69ce0cd1aa407fcf839a8b5c1f2
+#EXTINF:-1 tvg-id="vivaonemix016" tvg-name="Ransomed" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rXGVc5a3sIFpER8oIZU3Bccv9HL.jpg" group-title="VIVAONE MOVIES MIX",Ransomed
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00752_FF_FM_RANSOMED/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b6ca1f726c96a6f35da95174a72bf16:a776466acbf1c93c027bd1f0d55e909f
+#EXTINF:-1 tvg-id="vivaonemix017" tvg-name="Project Wolf Hunting" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dniWicB6fa7NvpGbguxWlNPMc5f.jpg" group-title="VIVAONE MOVIES MIX",Project Wolf Hunting
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01170_FF_FM_PROJECT%20WOLF%20HUNTING/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=da3e383b23aa7dcbc8bc2d897ba8901f:57f70f29e82f44d278224e1b84b139f5
+#EXTINF:-1 tvg-id="vivaonemix018" tvg-name="Remember" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/x496Ip0weJYfsEX23eNyzG4MjXV.jpg" group-title="VIVAONE MOVIES MIX",Remember
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00304_FF_FM_REMEMBER/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=36aeaa61d11078ad5579b3b9498263eb:c857457ef0f2b0e8797c9decb668f377
+#EXTINF:-1 tvg-id="vivaonemix019" tvg-name="Detective Dee and Nine-story" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iz1B8pscP6vbN4bOThHomBfiaBj.jpg" group-title="VIVAONE MOVIES MIX",Detective Dee and Nine-story
+https://vivamax.secureswiftcontent.com/video/P02051_FF_FM_DETECTIVE%20DEE%20AND%20NINE-STORY%20DEMON%20BUILDING/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8fefa5685ba0d73af3bf779d701d983:c11a0cc18db9f953f92d37743178bdbb
+#EXTINF:-1 tvg-id="vivaonemix020" tvg-name="Deliver Us From Evil" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kifBjXVMP1QfsuNzOZa5oWDduTh.jpg" group-title="VIVAONE MOVIES MIX",Deliver Us From Evil
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01368_FF_FM_DELIVER%20US%20FROM%20EVIL/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b547129ac6bfd574cbe9579ec8cac441:15c8e3108e1d0698262db6b54e6ec1b8
+#EXTINF:-1 tvg-id="vivaonemix021" tvg-name="Hitman: Agent Jun" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dAt3nolyXLEEuXiIXZwv1iikbcA.jpg" group-title="VIVAONE MOVIES MIX",Hitman: Agent Jun
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00557_FF_FM_HITMAN%20AGENT%20JUN/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5529f4df806538a2fceb121b7dc4b58e:eb6c05676fcb60009756d9209452c4b4
+#EXTINF:-1 tvg-id="vivaonemix022" tvg-name="Spiritwalker" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pufGxcWEyADFcoqeDcJlAAVX0Fl.jpg" group-title="VIVAONE MOVIES MIX",Spiritwalker
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01331_FF_FM_SPIRITWALKER/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b55b48614070f071c647a68aa861749:512ae5f7957b6d43dcc20cc0bcf7e526
+#EXTINF:-1 tvg-id="vivaonemix023" tvg-name="The Battle of Jangsari" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/caYipV8vKfj628YKpEk3cHDc2jv.jpg" group-title="VIVAONE MOVIES MIX",The Battle of Jangsari
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00290_FF_FM_BATTLE%20OF%20JANGSARI/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=288f34519075e681c39d0e303dd47b38:bba7d72d32d6cef91f376d63829dddf6
+#EXTINF:-1 tvg-id="vivaonemix024" tvg-name="Extreme Job" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/52oLgq2gEiZyDjpJ7tgkGruoQI0.jpg" group-title="VIVAONE MOVIES MIX",Extreme Job
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00714_FF_FM_EXTREME%20JOB/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=765413e0116086e9a170a9d838bfa71a:bbbacd10b75d9ee71d734db746bec4a0
+#EXTINF:-1 tvg-id="vivaonemix025" tvg-name="Golden Slumber" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pFYz5wFMBlksWTxIZV2JDSDgE7S.jpg" group-title="VIVAONE MOVIES MIX",Golden Slumber
+https://cdnbp.vivamax.net/video/P01156_FF_FM_GOLDEN%20SLUMBER/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d61579822102d32d205ef83cb26af80:d58c6a8a7373d57e56d006dc05cf3f18
+#EXTINF:-1 tvg-id="vivaonemix026" tvg-name="Chasing the Dragon" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/Lc0XGNZmsFe3uA1UMqhlBiJSY4.jpg" group-title="VIVAONE MOVIES MIX",Chasing the Dragon
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01982_FF_FM_CHASING%20THE%20DRAGON/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7331f1f187cdcb0deda5e46939e05d5c:263ae17234cacb0c1361c36f251cba54
+#EXTINF:-1 tvg-id="vivaonemix027" tvg-name="Midnight Runners" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/11qHlLL2rsQGH1nmPjJ7jFjeGcb.jpg" group-title="VIVAONE MOVIES MIX",Midnight Runners
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00711_FF_FM_MIDNIGHT%20RUNNERS/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6bc7558b9b1f37a3190242a860853f2:121af23bfa76224b5a5b50830d8a1f71
+#EXTINF:-1 tvg-id="vivaonemix028" tvg-name="The Outlaws" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pUd1FYQb5r55RqXpx08dnCbP1fs.jpg" group-title="VIVAONE MOVIES MIX",The Outlaws
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00530_FF_FM_THE%20OUTLAWS/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=42f696b5c0e85b59a07f94f90a43f103:a41492a8e4f5311ae94237968a979da7
+#EXTINF:-1 tvg-id="vivaonemix029" tvg-name="The Swindlers" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wzxsCW4chkwXzfJPLXImpEpjtV.jpg" group-title="VIVAONE MOVIES MIX",The Swindlers
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00712_FF_FM_THE%20SWINDLERS/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=df0ec6a7991cb39fcc47ca6cc7315e7e:9decf3500cb5ac838b9657ef69bfc486
+#EXTINF:-1 tvg-id="vivaonemix030" tvg-name="From Vegas to Macau" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lRttDVgevYbTWvLh6rSaVde1hcy.jpg" group-title="VIVAONE MOVIES MIX",From Vegas to Macau
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01845_FF_FM_FROM%20VEGAS%20TO%20MACAU%202/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=854a40923973c8f46523c513f68f0d51:01e97aca22dfe5d82d344625b798dfa5
+#EXTINF:-1 tvg-id="vivaonemix031" tvg-name="FROM VEGAS TO MACAU 3" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zQ71tuPqMJARxFXzaWFPEmPTKV8.jpg" group-title="VIVAONE MOVIES MIX",FROM VEGAS TO MACAU 3
+https://vivamax.secureswiftcontent.com/video/P01985_FF_FM_FROM%20VEGAS%20TO%20MACAU%203/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a34024971d7277d637db781de8b141:c454a9ec322f8de4ca954ac6443600ad
+#EXTINF:-1 tvg-id="vivaonemix032" tvg-name="Mojin: The Lost Legend" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rmavv5agvHdQ7JAeaQWLOHshfLl.jpg" group-title="VIVAONE MOVIES MIX",Mojin: The Lost Legend
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01513_FF_FM_MOJIN%20THE%20LOST%20LEGEND/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb43c9175468243591115db57cae48bd:b76cf80ad8b43495a286be2cb947ae15
+#EXTINF:-1 tvg-id="vivaonemix033" tvg-name="Nameless Gangster" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3ppxP6yFoKxkA3jQkDdv3E9u1tc.jpg" group-title="VIVAONE MOVIES MIX",Nameless Gangster
+https://d1qfpvemzhsbpm.cloudfront.net/video/P02143_FF_FM_NAMELESS%20GANGSTER%20RULES%20OF%20THE%20TIME/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=72fca1db4c9c12000dc4034eb5598ef5:00a09964b763b2a843d9503ed44f6bf2
+#EXTINF:-1 tvg-id="vivaonemix034" tvg-name="Rough Cut" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iv1hGQjD390UeH2unAoR6wAchBF.jpg" group-title="VIVAONE MOVIES MIX",Rough Cut
+https://vivamax.secureswiftcontent.com/video/P02147_FF_FM_ROUGH%20CUT/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5950873a0802bc7d389f28ce522351dc:f0b13f19e74257d8ecebf45a4cef0d9e
+#EXTINF:-1 tvg-id="vivaonemix035" tvg-name="The Secret Reunion" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uLU1Gwq8xLUjBax2JI4G2JC85ML.jpg" group-title="VIVAONE MOVIES MIX",The Secret Reunion
+https://d1qfpvemzhsbpm.cloudfront.net/video/P02148_FF_FM_SECRET%20REUNION/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f0e9d35ac1dc6d2f26c3e42a87bca92:f964284e1912642c46f0251dc527b43d
+#EXTINF:-1 tvg-id="vivaonemix036" tvg-name="The Point Men" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/clqjSOghnY9OxmqkrdS9nHMnKEz.jpg" group-title="VIVAONE MOVIES MIX",The Point Men
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00707_FF_FM_THE%20POINT%20MEN/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=625be1e4578b767f2418b9c9759a7a80:381f3cc34a790ad0d18b702ebf87f623
+#EXTINF:-1 tvg-id="vivaonemix037" tvg-name="Contorted" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wKWxgblLDyI51iCTufKs6mo2Pkc.jpg" group-title="VIVAONE MOVIES MIX",Contorted
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01596_FF_FM_CONTORTED/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0fdec1b7714ea27041796af4cd1c7942:d7395757cff47421d40347a7cd4d0a8b
+#EXTINF:-1 tvg-id="vivaonemix038" tvg-name="Ditto" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/omeuvIYHe4RCak2eUQOXNZngj0C.jpg" group-title="VIVAONE MOVIES MIX",Ditto
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00362_FF_FM_DITTO/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8512ce9aa7a0ceaeeb8658ecb81e6ac0:c31f6f30ff4a55a6e18a328ca7ba4908
+#EXTINF:-1 tvg-id="vivaonemix039" tvg-name="Hot Blooded" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/81D9Cvl8JbMJixD9ii9puwqyXK4.jpg" group-title="VIVAONE MOVIES MIX",Hot Blooded
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01597_FF_FM_HOT%20BLOODED/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a6851ffc337ca338b0f3e6a67e81e50:45a3db2c4054827f054f0f2e0ea22655
+#EXTINF:-1 tvg-id="vivaonemix040" tvg-name="Life Is Beautiful" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yV4cquqr4QxOMWJNAmwtAQ9xVoo.jpg" group-title="VIVAONE MOVIES MIX",Life Is Beautiful
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01246_FF_FM_LIFE%20IS%20BEAUTIFUL/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d5e5993a69c601a2c2e015614600e55:9d5d38204375288d571556a2dbbeb623
+#EXTINF:-1 tvg-id="vivaonemix041" tvg-name="Urban Myths" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2ZWxZvDWYoDj7PHFizgi17yEZyb.jpg" group-title="VIVAONE MOVIES MIX",Urban Myths
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00407_FF_FM_URBAN%20MYTHS/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a47181615593db444b5043bcbcd0bf53:47c3b5d32d917d61dc0aef32e2865422
+#EXTINF:-1 tvg-id="vivaonemix042" tvg-name="Escape from Mogadishu" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5e2y8LpJqk8FaJlosVmwkEnkt0S.jpg" group-title="VIVAONE MOVIES MIX",Escape from Mogadishu
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01234_FF_FM_ESCAPE%20FROM%20MOGADISHU/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=719e8b2fba05707e641c0093d06e7f34:ddc4f0c81e61b683313580d5013ab105
+#EXTINF:-1 tvg-id="vivaonemix043" tvg-name="Made on the Rooftop" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eh9hFbNHwe62juU4d6IWpgiCK0C.jpg" group-title="VIVAONE MOVIES MIX",Made on the Rooftop
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01238_FF_FM_MADE%20ON%20THE%20ROOFTOP/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6c0e26d0d80a780603811a954666505:974ec54295e9cf6ab9ee860e6df5add3
+#EXTINF:-1 tvg-id="vivaonemix044" tvg-name="Midnight" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gXaS8OuavUsEjoW7P8qKrHTGPi1.jpg" group-title="VIVAONE MOVIES MIX",Midnight
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01184_FF_FM_MIDNIGHT/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=25bf3134114e53edcef270bed2d2cbba:a2f4c678be22658bd1c90885c3012fc3
+#EXTINF:-1 tvg-id="vivaonemix045" tvg-name="Miracle: Letters to President" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fqp48uzbPhInFZD0jJ8Jtl5oVIz.jpg" group-title="VIVAONE MOVIES MIX",Miracle: Letters to President
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00262_FF_FM_MIRACLE%20LETTERS%20TO%20THE%20PRESIDENT/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=26fbce708c81638c96a711447a56759a:61c28fd6efc168555086aa94fe6bdadb
+#EXTINF:-1 tvg-id="vivaonemix046" tvg-name="Recalled" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kTXwu4Ux8QJ1iwBprwVRbEtPa90.jpg" group-title="VIVAONE MOVIES MIX",Recalled
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01325_FF_FM_RECALLED/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a277dba67b8f1c97fea4e030a0c28e57:4dae060293bbcd23f33846b9633c9390
+#EXTINF:-1 tvg-id="vivaonemix047" tvg-name="The Clone - Key to Immortality" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8wDMi7AeQejLvddyRpyDf1CNvCZ.jpg" group-title="VIVAONE MOVIES MIX",The Clone - Key to Immortality
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00710_FF_FM_SEOBOK/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c55c93e895abfc334f0dd04441c72a28:4daa33d686f16188968b3d1daa38ced6
+#EXTINF:-1 tvg-id="vivaonemix048" tvg-name="The Goblin" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iNHUbvdp6p3u617LEGrny0hbJMX.jpg" group-title="VIVAONE MOVIES MIX",The Goblin
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01594_FF_FM_THE%20GOBLIN/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a1abc4eb9f47c6cefcd5733d18114de:229ce18f097bfd03cfb0c39143ff6193
+#EXTINF:-1 tvg-id="vivaonemix049" tvg-name="The Closet" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/W2tus8EwEagKCCCPqqocHEM9F2.jpg" group-title="VIVAONE MOVIES MIX",The Closet
+https://vivamax.secureswiftcontent.com/video/P01187_FF_FM_THE%20CLOSET/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3b181d67c442d6664757bc541525900:d69ba7c03eeb1f2df77136101691c8e2
+#EXTINF:-1 tvg-id="vivaonemix050" tvg-name="Bring Me Home" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vwuyP02WDpJrWNvkNl8UgdDsjfp.jpg" group-title="VIVAONE MOVIES MIX",Bring Me Home
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00286_FF_FM_BRING%20ME%20HOME/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4aa8ee2ec786cf9da6aec0dab9499af6:7d1bc7b6b54d212cce305eac7ce9536c
+#EXTINF:-1 tvg-id="vivaonemix051" tvg-name="Moonlit Winter" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6968mZj0jlDp7gmcjLJSd42r9pU.jpg" group-title="VIVAONE MOVIES MIX",Moonlit Winter
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01186_FF_FM_MOONLIT%20WINTER/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d7029f07d22521e001b00d72d369e5f:6577be060cacfcc3554ee11dd9155642
+#EXTINF:-1 tvg-id="vivaonemix052" tvg-name="Along with the Gods: The Last 49 Days" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9BnqBHFGDv3WlCPB2qQwzAWdy7y.jpg" group-title="VIVAONE MOVIES MIX",Along with the Gods: The Last 49 Days
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01430_FF_FM_ALONG%20WITH%20THE%20GODS%20THE%20LAST%2049%20DAYS/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b95ef6956cd1c46e159c772f5b8609:59773763061bf591049282e77844f86c
+#EXTINF:-1 tvg-id="vivaonemix053" tvg-name="Along with the Gods: The Two Worlds" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gJSvIsI6oQfFim0PGyuuiCYfqKs.jpg" group-title="VIVAONE MOVIES MIX",Along with the Gods: The Two Worlds
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01429_FF_FM_ALONG%20WITH%20THE%20GODS%20THE%20TWO%20WORLDS/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbfa5f5060c3b63fb61a1f3566b5142d:36c35f2a33723cc84d579f8edfadd092
+#EXTINF:-1 tvg-id="vivaonemix054" tvg-name="Be with You" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mvstNgM68EyCRWwpArakLhWvvtk.jpg" group-title="VIVAONE MOVIES MIX",Be with You
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01427_FF_FM_BE%20WITH%20YOU/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f0616e20e808e04e939dc0a3089a2e1:6d3483aab053c78a84d0dc4b38a6496c
+#EXTINF:-1 tvg-id="vivaonemix055" tvg-name="Gonjiam: Haunted Asylum" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/KPrZ8lbgbMD7gr1pkMKoNbtcCK.jpg" group-title="VIVAONE MOVIES MIX",Gonjiam: Haunted Asylum
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01240_FF_FM_GONJIAM%20HAUNTED%20ASYLUM/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=41cfa70f33f89d82566b5603868070b3:edff2b8c9f54bddef3b6c8e8d244e2c0
+#EXTINF:-1 tvg-id="vivaonemix056" tvg-name="The Princess and the Matchmaker" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1hKUJ6YCVzlW9grBDoKps4KoDNE.jpg" group-title="VIVAONE MOVIES MIX",The Princess and the Matchmaker
+https://vivamax.secureswiftcontent.com/video/P01243_FF_FM_THE%20PRINCESS%20AND%20THE%20MATCHMAKER/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3193442dfea324bb49d782fdb789b600:67f4422f8eb3f5356104c9aad409ba84
+#EXTINF:-1 tvg-id="vivaonemix057" tvg-name="The Spy Gone North" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ib7SNOKqPKLyVXTjhuVJIglTC3E.jpg" group-title="VIVAONE MOVIES MIX",The Spy Gone North
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00704_FF_FM_THE%20SPY%20GONE%20NORTH/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=51e6e07ef894cc1106a11e6f28ea7930:7816601ed7c765c30fed72346ad16c74
+#EXTINF:-1 tvg-id="vivaonemix058" tvg-name="Heart Blackened" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7CRwdPyw3vYwMApBr87vXcjwr67.jpg" group-title="VIVAONE MOVIES MIX",Heart Blackened
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00463_FF_FM_HEART%20BLACKENED/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a46134e557224332f7399ffea03510d5:61eb6fde95cce9f01df8e40bde964fc4
+#EXTINF:-1 tvg-id="vivaonemix059" tvg-name="House of the Disappeared" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7zmyuKp5gqoz7bCYJGtLELumtoS.jpg" group-title="VIVAONE MOVIES MIX",House of the Disappeared
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00289_FF_FM_HOUSE%20OF%20THE%20DISAPPEARED/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=77f654b95efc60a3f55c65fd0c59961c:4a160d26a95403fcc0ed2130f2dcba7a
+#EXTINF:-1 tvg-id="vivaonemix060" tvg-name="Glorious Day" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5PtlafpihSE4fm574A5WZbFmsIx.jpg" group-title="VIVAONE MOVIES MIX",Glorious Day
+https://vivamax.secureswiftcontent.com/video/P01377_FF_FM_GLORIOUS%20DAYS/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a05044f4385454f67d423a3687a247c8:9e7ee83607f8c72d02cc41c86493cd98
+#EXTINF:-1 tvg-id="vivaonemix061" tvg-name="Bride for Rent" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nmve9K0ILteypEhO8XtECaZgaAF.jpg" group-title="VIVAONE MOVIES MIX",Bride for Rent
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01433_FF_FM_BRIDE%20FOR%20RENT/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cad18c3d3f27dbe706def48cec3b151:f199ab585171f84855ec558bc8b94a47
+#EXTINF:-1 tvg-id="vivaonemix062" tvg-name="Husband Swap" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9EjSUnGw7xP6suBorK9vcQACBIO.jpg" group-title="VIVAONE MOVIES MIX",Husband Swap
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01434_FF_FM_HUSBAND%20SWAP/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8dc16bc628e1f52b31b56375a79fe4a6:e5344729151b85a715301badf4be1e59
+#EXTINF:-1 tvg-id="vivaonemix063" tvg-name="School Tales" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/54TlCL8eabQI7mMAESBOMFBB3ZB.jpg" group-title="VIVAONE MOVIES MIX",School Tales
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01436_FF_FM_SCHOOL%20TALES/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2be08e6583d7c483a9b8a9c64edc005b:404c6fe25122e6f3e0119fe34e6ccc71
+#EXTINF:-1 tvg-id="vivaonemix064" tvg-name="The Hitman's Bodyguard" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6ahKvpCyeV0VUY44m3NPJ4HUQpT.jpg" group-title="VIVAONE MOVIES MIX",The Hitman's Bodyguard
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00706_FF_FM_HITMAN'S%20WIFE'S%20BODYGUARD/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c28e3d8dd45971bac7057bfb88f875b:9d6e3feaa75fdd4d66f0565f1fbf8d85
+#EXTINF:-1 tvg-id="vivaonemix065" tvg-name="My Spy" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iCXjTlDf3BgIpcvdg0sLpWIxVRK.jpg" group-title="VIVAONE MOVIES MIX",My Spy
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00673_FF_FM_MY%20SPY/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f0e590778349ca9b0e41b9cb7a6852f:cd507adfc844908fa7732466e83b9d39
+#EXTINF:-1 tvg-id="vivaonemix066" tvg-name="Angel Has Fallen 3" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5T6SfaQdYhZXLjjgoL8yexMmcDe.jpg" group-title="VIVAONE MOVIES MIX",Angel Has Fallen 3
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01870_FF_FM_ANGEL%20HAS%20FALLEN/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6169e0219d64bb7c125000705053c870:abc17e5eadec7d97ddb0e4ea3e89d38c
+#EXTINF:-1 tvg-id="vivaonemix067" tvg-name="ANNA" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mPvVpHdsqWnUbQDGOKNE5avPtIy.jpg" group-title="VIVAONE MOVIES MIX",ANNA
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01981_FF_FM_ANNA/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef015830e536518f368facb290913e22:0f40c0ce9da8d6c6eae078f6656b52d8
+#EXTINF:-1 tvg-id="vivaonemix068" tvg-name="Rambo: Last Blood" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qs5u7sQLLZZGvLu0yQ9alCmV7wm.jpg" group-title="VIVAONE MOVIES MIX",Rambo: Last Blood
+https://d1qfpvemzhsbpm.cloudfront.net/video/P02023_FF_FM_RAMBO%20LAST%20BLOOD/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6133952c296e7dc230e9abc6b9fce224:a2ac04f039306f5f92a3e2bb23566341
+#EXTINF:-1 tvg-id="vivaonemix069" tvg-name="Bleeding Steel" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gWdViwTAWr2sgBxPiyFMiHiFGRu.jpg" group-title="VIVAONE MOVIES MIX",Bleeding Steel
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01431_FF_FM_BLEEDING%20STEEL/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=507517178fb10441f617597dc6b0778b:71323e64842bdae62f27c3c5c36f0c08
+#EXTINF:-1 tvg-id="vivaonemix070" tvg-name="Den of Thieves" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9z6AcZqZQe8tUUeSznOGJk6uZU2.jpg" group-title="VIVAONE MOVIES MIX",Den of Thieves
+https://d1qfpvemzhsbpm.cloudfront.net/video/P02142_FF_FM_DEN%20OF%20THIEVES/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=027e191790d85311ceb3c5d2656d0bef:53162c1ac5a62b4e60f0ba706cf36729
+#EXTINF:-1 tvg-id="vivaonemix071" tvg-name="Hunter Killer" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9xr6pzjGp8Cux5SHgCzWSUL1vkq.jpg" group-title="VIVAONE MOVIES MIX",Hunter Killer
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00184_FF_FM_HUNTER%20KILLER/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=277cc7f15730a36dee0f9a3f03ff31bb:8af70aac87dcfd5c37e7916005de04a8
+#EXTINF:-1 tvg-id="vivaonemix072" tvg-name="Peppermint" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wDZnb2SJmgZ3WRqZPtiMJooMtQg.jpg" group-title="VIVAONE MOVIES MIX",Peppermint
+https://d1qfpvemzhsbpm.cloudfront.net/video/P02054_FF_FM_PEPPERMINT/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f5f53e83ef2e07eb6b8aa9d4b7c6a94:7c7adc4096ed5a4ae6b67a6545f6b894
+#EXTINF:-1 tvg-id="vivaonemix073" tvg-name="Tigers on the Move" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/d3HuLPCHNJS0iuZ8jIWaev3PRn2.jpg" group-title="VIVAONE MOVIES MIX",Tigers on the Move
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01432_FF_FM_RAILROAD%20TIGERS/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7fa81d106449a91d447aa6be3d46a4dc:308b27644555866c66c7f872c4e98340
+#EXTINF:-1 tvg-id="vivaonemix074" tvg-name="The Foreigner" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5w5jyiFDIgtgniX1SqSs9KMBDk7.jpg" group-title="VIVAONE MOVIES MIX",The Foreigner
+https://d1qfpvemzhsbpm.cloudfront.net/video/P02017_FF_FM_THE%20FOREIGNER/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11a4b50c9aa6c3e51d9608232ce0d3d4:ae3973b23b8c808af38e2da1852eb5e7
+#EXTINF:-1 tvg-id="vivaonemix075" tvg-name="From a House on Willow Street" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/d3aHtMxYUmGAyYrTNk52BqXeOQl.jpg" group-title="VIVAONE MOVIES MIX",From a House on Willow Street
+https://d1qfpvemzhsbpm.cloudfront.net/video/P02053_FF_FM_FROM%20A%20HOUSE%20ON%20WILLOW%20STREET/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2aa96ac6b1df1af3409f31bb36c6ab19:ae43dbfa4ce63fabc2e05cefe7e22be4
+#EXTINF:-1 tvg-id="vivaonemix076" tvg-name="Gods of Egypt" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/52B4QXBjbt4khhHoqsqgkxtwrUK.jpg" group-title="VIVAONE MOVIES MIX",Gods of Egypt
+https://vivamax.secureswiftcontent.com/video/P00672_FF_FM_GODS%20OF%20EGYPT/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b9818f947cbde35e66a9c29fb783af2:7da4c7a847bd90118c97fee304ca9a0e
+#EXTINF:-1 tvg-id="vivaonemix077" tvg-name="London Has Fallen" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bTXmSO3xtDXvvB8etDR9wZAJmy3.jpg" group-title="VIVAONE MOVIES MIX",London Has Fallen
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01871_FF_FM_LONDON%20HAS%20FALLEN/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=303c12c97164025904c15f1add3bcd4c:11a38fa4972de60c1f6847e4a7753817
+#EXTINF:-1 tvg-id="vivaonemix078" tvg-name="Now You See Me 2" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/j1rBqVglO6wfYzPgQlUFVg25XSP.jpg" group-title="VIVAONE MOVIES MIX",Now You See Me 2
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00585_FF_FM_NOW%20YOU%20SEE%20ME%202/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=37c1e711e98b0bf0482aa2dc9773aeec:93f712bd76edbc27acd72a1eb1d51f7a
+#EXTINF:-1 tvg-id="vivaonemix079" tvg-name="The Last Witch Hunter" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/deeaV6rjyks9LlxiL720Zt76pUg.jpg" group-title="VIVAONE MOVIES MIX",The Last Witch Hunter
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00587_FF_FM_THE%20LAST%20WITCH%20HUNTER/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=edf8b930bad2c79e103e432b09a44035:693fbe5fb623f1e507d4fb7c4618ffb6
+#EXTINF:-1 tvg-id="vivaonemix080" tvg-name="Ghosts of War" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wPzZDJFBlAGbGGUHnIoYLCI6HQ9.jpg" group-title="VIVAONE MOVIES MIX",Ghosts of War
+https://d1qfpvemzhsbpm.cloudfront.net/video/P02062_FF_FM_GHOSTS%20OF%20WAR/dash/hd.mpd
+
+========IWANTFC MOVIES ========
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b2c1ec68ac711ef82fd506b4d4f9255:9f059838c8ac7a21fea2476abfce12ae
+#EXTINF:-1 tvg-id="thegatekeeper" tvg-name="The Gatekeeper (2024)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mkbkFUk5hQFKg4D9In7SI4zopxa.jpg" group-title="TFC MOVIES ",The Gatekeeper (2024)
+https://absvod.akamaized.net/c/2/m/5b2c1ec6-8ac7-11ef-82fd-506b4d4f9255.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f31204c51e511ecb738b0c19a9349dd:c68c5a957d5b72aceb51147c6997d125
+#EXTINF:-1 tvg-id="malaya" tvg-name="Malaya" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mKmNyiEtO3wDPEoAu7Z690QT0Qz.jpg" group-title="TFC MOVIES ",Malaya
+https://absvod.akamaized.net/c/2/m/6f31204c-51e5-11ec-b738-b0c19a9349dd.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6efe3b287d3311eb8a949f5b408284f3:d0ce58e8b5254e51046c3196886bce0e
+#EXTINF:-1 tvg-id="nortlights" tvg-name="Northern Lights" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/agleuVYzkXmEaNBbp9CHPqOYlYw.jpg" group-title="TFC MOVIES ",Northern Lights
+https://absvod.akamaized.net/c/2/m/6efe3b28-7d33-11eb-8a94-9f5b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65a98216160e11ecae36fee762049da0:5b1d0439f58b9d27c2f964236a9a584d
+#EXTINF:-1 tvg-id="statuscompli" tvg-name="Status: It's Complicated" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/k0FjT1eAqkFiAem82Q0dHbtDhG7.jpg" group-title="TFC MOVIES ",Status: It's Complicated
+https://absvod.akamaized.net/c/2/m/65a98216-160e-11ec-ae36-fee762049da0.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8030e5e89ab11eb80aace34408284f3:055c064e825536fd4c241fa360a29830
+#EXTINF:-1 tvg-id="allmylife" tvg-name="All My Life" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/58l4QZ2yykbZDuSlQNg2HI2wQQz.jpg" group-title="TFC MOVIES ",All My Life
+https://absvod.akamaized.net/c/2/m/c8030e5e-89ab-11eb-80aa-ce34408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82bdf316872811eba5996c4f408284f3:6f6f396398a85b0e857329faf5848ce1
+#EXTINF:-1 tvg-id="allaboutlove" tvg-name="All About Love" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2Tng0npJmMD8ipQdoH2ulcDjtcQ.jpg" group-title="TFC MOVIES ",All About Love
+https://absvod.akamaized.net/c/2/m/82bdf316-8728-11eb-a599-6c4f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f384e9ec872811eb9377bc52408284f3:5b4b9b1cbd2fb0fdef1bb4997a1d466d
+#EXTINF:-1 tvg-id="dongibup" tvg-name="Don't Give Up On Us" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xIUjbMDkiQH4W6KLclPddZVRniL.jpg" group-title="TFC MOVIES ",Don't Give Up On Us
+https://absvod.akamaized.net/c/2/m/f384e9ec-8728-11eb-9377-bc52408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecf9231089ab11eb82da0f3b408284f3:6796835b872986869bf0039280d65e17
+#EXTINF:-1 tvg-id="dreamboy" tvg-name="Dreamboy" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pIO1otUpSIq6jVTybl07M0mdZfr.jpg" group-title="TFC MOVIES ",Dreamboy
+https://absvod.akamaized.net/c/2/m/ecf92310-89ab-11eb-82da-0f3b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dea41518324811ec88048e31d69bab7c:6a525f71091fc3b31dd57c7b1817285f
+#EXTINF:-1 tvg-id="bagongbuwan" tvg-name="Bagong Buwan" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gAjKi6uy5AMbX7FQSaZjaqwtaUC.jpg" group-title="TFC MOVIES ",Bagong Buwan
+https://absvod.akamaized.net/c/2/m/dea41518-3248-11ec-8804-8e31d69bab7c.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c3c5690b97911eda82538ce629ee721:5377566cd2dfbeafb29aa1377041a465
+#EXTINF:-1 tvg-id="may1pamilya" tvg-name="May Isang Pamilya" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gko2loNe2phPXjv6VUJU7BLLkJL.jpg" group-title="TFC MOVIES ",May Isang Pamilya
+https://absvod.akamaized.net/c/2/m/9c3c5690-b979-11ed-a825-38ce629ee721.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=980bf3e27eb011eb87e7e19b408284f3:795fda030ee4c9635de794d0a92a9947
+#EXTINF:-1 tvg-id="maybediztime" tvg-name="Maybe This Time" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iLRNcubYiSIYPDeSX4nvm7WhH7O.jpg" group-title="TFC MOVIES ",Maybe This Time
+https://absvod.akamaized.net/c/2/m/980bf3e2-7eb0-11eb-87e7-e19b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c0e12dc7dd511ebbfe1a438408284f3:80e20cefb206cc5ee88596da30f25fd2
+#EXTINF:-1 tvg-id="archybrekhert" tvg-name="The Achy Breaky Hearts" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jKHxnjDiKUNAkTQmeP1gCwpB7oD.jpg" group-title="TFC MOVIES ",The Achy Breaky Hearts
+https://absvod.akamaized.net/c/2/m/7c0e12dc-7dd5-11eb-bfe1-a438408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a59033ca7eb011eb82d70640408284f3:a7a1b51dcd0c9c79bb923442bfddab7e
+#EXTINF:-1 tvg-id="thetrial" tvg-name="The Trial" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/f6RmYA7pZJOX4NULr3lz1ZHihXE.jpg" group-title="TFC MOVIES ",The Trial
+https://absvod.akamaized.net/c/2/m/a59033ca-7eb0-11eb-82d7-0640408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=be48a0947b5b11ebb8c8df2f408284f3:b43f7d3fa78c0f1a0350df5128f328a3
+#EXTINF:-1 tvg-id="isapafeel" tvg-name="Isa Pa With Feelings" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4vEigdvdsMFHQGDUEfZPXXD7YWn.jpg" group-title="TFC MOVIES ",Isa Pa With Feelings
+https://absvod.akamaized.net/c/2/m/be48a094-7b5b-11eb-b8c8-df2f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c187e97e6e5911ee96e7818750b9a56c:85ed4f641180f70a5ce3f6b964de9892
+#EXTINF:-1 tvg-id="gorengdres" tvg-name="The Girl in the Orange Dress" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hAdSVSwrqMgKQ75DQQYoxXsto8.jpg" group-title="TFC MOVIES ",The Girl in the Orange Dress
+https://absvod.akamaized.net/c/2/m/c187e97e-6e59-11ee-96e7-818750b9a56c.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85ec5d62af211eeb494f14c5666e3bf:00dedf0cdfde6858f6c7240e6b02a206
+#EXTINF:-1 tvg-id="relaksijp" tvg-name="Relaks, It's Just Pag-ibig" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fH6CbITshMB0voTaOkDDfMtN334.jpg" group-title="TFC MOVIES ",Relaks, It's Just Pag-ibig
+https://absvod.akamaized.net/c/2/m/e85ec5d6-2af2-11ee-b494-f14c5666e3bf.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ce0fdf47f9c11ebb4fb462b408284f3:0628e5687abd2ba0b8fe315c0699f9bc
+#EXTINF:-1 tvg-id="themitret" tvg-name="The Mistress" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hVW73ewS9OaOHsXsu7iulPJxm06.jpg" group-title="TFC MOVIES ",The Mistress
+https://absvod.akamaized.net/c/2/m/8ce0fdf4-7f9c-11eb-b4fb-462b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=612d648c7d3411ebb146817d408284f3:5e694e25dac353238f15f93aea7ce07e
+#EXTINF:-1 tvg-id="dahwsofus" tvg-name="The Hows of Us" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2O3SS7Gh2OuKdzxi2bEOi7zNVue.jpg" group-title="TFC MOVIES ",The Hows of Us
+https://absvod.akamaized.net/c/2/m/612d648c-7d34-11eb-b146-817d408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae6ec7407eb011eb9497e934408284f3:685d417b3b13cc51a0fd9e9bc4392a4c
+#EXTINF:-1 tvg-id="unOfficiallyurs" tvg-name="UnOfficially Yours" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9xmaAX5ZpIVVHwavb9fMfC4LkgQ.jpg" group-title="TFC MOVIES ",UnOfficially Yours
+https://absvod.akamaized.net/c/2/m/ae6ec740-7eb0-11eb-9497-e934408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2688d2e0835f11eba2457f9f408284f3:5d1c7de056eb3715439b5b8008e24267
+#EXTINF:-1 tvg-id="wedingtaundi" tvg-name="Wedding Tayo, Wedding Hindi" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aaxkPNVPYN0rtF86OKvPzj2wmIP.jpg" group-title="TFC MOVIES ",Wedding Tayo, Wedding Hindi
+https://absvod.akamaized.net/c/2/m/2688d2e0-835f-11eb-a245-7f9f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=09b2095e89ac11ebb4d2c197408284f3:af40cd0d0ef3cf3517bc6e08ce532243
+#EXTINF:-1 tvg-id="wenlabbegin" tvg-name="When Love Begins" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/r20kklgPDB5of6UbRSiAlwflexi.jpg" group-title="TFC MOVIES ",When Love Begins
+https://absvod.akamaized.net/c/2/m/09b2095e-89ac-11eb-b4d2-c197408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a51f0b4488c111eb822cfc40408284f3:d3f78967a25567fc92d8885395d7da71
+#EXTINF:-1 tvg-id="caineabel" tvg-name="Cain & Abel" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/a9UnqOf73L2HPu1fLIIqkROD8OW.jpg" group-title="TFC MOVIES ",Cain & Abel
+https://absvod.akamaized.net/c/2/m/a51f0b44-88c1-11eb-822c-fc40408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a810652446911ec9ac00137550b00c0:c561702961b59c4c5e2de21a29b3fff2
+#EXTINF:-1 tvg-id="ssskolokoy" tvg-name="Sanggano, Sanggago't Sanggwapo" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2LFkGH8s14GeHhy8uJS8D5VfxOp.jpg" group-title="TFC MOVIES ",Sanggano, Sanggago't Sanggwapo
+https://absvod.akamaized.net/c/2/m/8a810652-4469-11ec-9ac0-0137550b00c0.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9acfe24e7f9811ebb4d9a978408284f3:9a3372c85a846ae28759f41fdcd120f4
+#EXTINF:-1 tvg-id="sisterakas" tvg-name="Sisterakas" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rsWVKdCf1iIeLA4UJpqpHT1Nw9R.jpg" group-title="TFC MOVIES ",Sisterakas
+https://absvod.akamaized.net/c/2/m/9acfe24e-7f98-11eb-b4d9-a978408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53a7928a835411ebac0f5ca3408284f3:984f73bbcb0cd1278517cfd6b85738eb
+#EXTINF:-1 tvg-id="soltera" tvg-name="Soltera" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/efvKH5jUfyzeW47cx2UkJAiOFH5.jpg" group-title="TFC MOVIES ",Soltera
+https://absvod.akamaized.net/c/2/m/53a7928a-8354-11eb-ac0f-5ca3408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e0e6c0c3d3011ee98f0b466f17e351c:da4155d17e5a179bee0ababa56475316
+#EXTINF:-1 tvg-id="silip" tvg-name="Silip" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yJg0fdbpfEUN4co9cWAfLQODNmn.jpg" group-title="TFC MOVIES ",Silip
+https://absvod.akamaized.net/c/2/m/4e0e6c0c-3d30-11ee-98f0-b466f17e351c.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=439aa8ac6b2c11ed993763a81bec293c:5fe476d93f930d9c519854700065a513
+#EXTINF:-1 tvg-id="sisid" tvg-name="Sisid" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/CyQ9YKxZtSjP52XQiatiSBXJey.jpg" group-title="TFC MOVIES ",Sisid
+https://absvod.akamaized.net/c/2/m/439aa8ac-6b2c-11ed-9937-63a81bec293c.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3af41f0c84d411ebaa2d5d64408284f3:824b7e7c97e3818fe2cbcdeb5f74914f
+#EXTINF:-1 tvg-id="saraprinsesa" tvg-name="Sarah, Ang Munting Prinsesa" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kJCX5g2bu8RhL3N1ss2IeD21oTY.jpg" group-title="TFC MOVIES ",Sarah, Ang Munting Prinsesa
+https://absvod.akamaized.net/c/2/m/3af41f0c-84d4-11eb-aa2d-5d64408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd5c5e4c89be11eba8618a2b408284f3:88433192e2dd19e0df54ce79036bcc84
+#EXTINF:-1 tvg-id="segundamano" tvg-name="Segunda Mano" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cvataJAGPfMEfRfzzdSRi8fxaTT.jpg" group-title="TFC MOVIES ",Segunda Mano
+https://absvod.akamaized.net/c/2/m/cd5c5e4c-89be-11eb-a861-8a2b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=245c487e090611ee9dc498cf4cd6f88b:6259fdcd77f3a0c688a2453de69f025c
+#EXTINF:-1 tvg-id="siargao" tvg-name="Siargao" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9VKVrdyZj3Zr5F64PzvdOJy5PQi.jpg" group-title="TFC MOVIES ",Siargao
+https://absvod.akamaized.net/c/2/m/245c487e-0906-11ee-9dc4-98cf4cd6f88b.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2882b0a678f11eebc4e948ecede1db9:a0ae248ede31db8db95c8959dc17345f
+#EXTINF:-1 tvg-id="pakpakkwak" tvg-name="Pak! Pak! My Dr. Kwak!" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hCG9wxOebBztRnOV9YEUcdZzGdt.jpg" group-title="TFC MOVIES ",Pak! Pak! My Dr. Kwak!
+https://absvod.akamaized.net/c/2/m/23076eae-4468-11ec-9a8a-961a550b00c0.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1f16b267d3011ebb2ed9f5b408284f3:815a5036047e31841e21912c6d02ea90
+#EXTINF:-1 tvg-id="alwaysbemybabe" tvg-name="Always Be My Maybe" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cYb2NXNgTUvnFJfEuNpZ1YErDBF.jpg" group-title="TFC MOVIES ",Always Be My Maybe
+https://absvod.akamaized.net/c/2/m/e1f16b26-7d30-11eb-b2ed-9f5b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e999f68e872811eb9377bc52408284f3:2e114144e3e339f189caf5b0152aa8df
+#EXTINF:-1 tvg-id="dluckones" tvg-name="D' Lucky Ones" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mZbmDI8K9lIE161R6GGbr8P2sgW.jpg" group-title="TFC MOVIES ",D' Lucky Ones
+https://absvod.akamaized.net/c/2/m/e999f68e-8728-11eb-9377-bc52408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f19e2a8840111ebaf44e4a8408284f3:020693e584b1f58ed2afc28f4d29b0bf
+#EXTINF:-1 tvg-id="danothers" tvg-name="D' Anothers" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/d18SSu7qAWyzcrt5x2xFr4QWmve.jpg" group-title="TFC MOVIES ",D' Anothers
+https://absvod.akamaized.net/c/2/m/7f19e2a8-8401-11eb-af44-e4a8408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=868b11c0d98711ebbf2098ba2c84fa97:c833182c77756706f5284341fae7355a
+#EXTINF:-1 tvg-id="entenginmo" tvg-name="Enteng Ng Ina Mo" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zSrWrdfQBeuzvGLWbYlat69JK45.jpg" group-title="TFC MOVIES ",Enteng Ng Ina Mo
+https://absvod.akamaized.net/c/2/m/868b11c0-d987-11eb-bf20-98ba2c84fa97.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3af60d42895411ebbaad243c408284f3:b96304b0deb4e3a88a606d5a13369ad8
+#EXTINF:-1 tvg-id="ekstra" tvg-name="Ekstra" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pk4cEAvHagZduwD2161RVIq0lAA.jpg" group-title="TFC MOVIES ",Ekstra
+https://absvod.akamaized.net/c/2/m/3af60d42-8954-11eb-baad-243c408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58e813043ec111ec92a9b839550b00c0:e69c0dccef5db1486e3e122c53f9413c
+#EXTINF:-1 tvg-id="pinaypie" tvg-name="Pinay Pie" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/z0Rkx95dBTlVGsFodQlkN6Jagjj.jpg" group-title="TFC MOVIES ",Pinay Pie
+https://absvod.akamaized.net/c/2/m/58e81304-3ec1-11ec-92a9-b839550b00c0.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3681a5e4880211eb96301f56408284f3:14622ccb8733bdff88904f2c9163481a
+#EXTINF:-1 tvg-id="radioromance" tvg-name="Radio Romance" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hCyZe2Q6qu3vZCoIIidfx4tGVmk.jpg" group-title="TFC MOVIES ",Radio Romance
+https://absvod.akamaized.net/c/2/m/3681a5e4-8802-11eb-9630-1f56408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d17b0a2c89c411eb8c8aef45408284f3:f8feb47d85e86c403ecebfad70fc52a5
+#EXTINF:-1 tvg-id="tillmyhert" tvg-name="Till My Heartaches End" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yOfGk35D35sHnPOKbjeJTxdFc64.jpg" group-title="TFC MOVIES ",Till My Heartaches End
+https://absvod.akamaized.net/c/2/m/d17b0a2c-89c4-11eb-8c8a-ef45408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e591f450326911ec8d83abbd5f903d0e:bf161901c183186005d7053b9457187e
+#EXTINF:-1 tvg-id="tilderwasu" tvg-name="Till There Was You" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/p6rsyWXAbFeE7lj9BTc9xpKzLoe.jpg" group-title="TFC MOVIES ",Till There Was You
+https://absvod.akamaized.net/c/2/m/e591f450-3269-11ec-8d83-abbd5f903d0e.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cdaf3ea7f9e11eb821f9338408284f3:9fee11f8f70c9e7b1aacf20c71fcafb6
+#EXTINF:-1 tvg-id="the3dparty" tvg-name="The Third Party" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oKY6EbKB3OZaJEyOnRBOtH1Y21c.jpg" group-title="TFC MOVIES ",The Third Party
+https://absvod.akamaized.net/c/2/m/2cdaf3ea-7f9e-11eb-821f-9338408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fcbbc66c7b5b11eb80f34b2e408284f3:a2e697e696d455d04cb27aef11288806
+#EXTINF:-1 tvg-id="thesigoth" tvg-name="The Significant Other" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fptVI8W91e6G1slKCJUzNMwxHLP.jpg" group-title="TFC MOVIES ",The Significant Other
+https://absvod.akamaized.net/c/2/m/fcbbc66c-7b5b-11eb-80f3-4b2e408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=986f3aac7f9a11ebaefbb678408284f3:9c35687929f5870a35086ff1b3388f8a
+#EXTINF:-1 tvg-id="theloveaffair" tvg-name="The Love Affair" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xfkKojYMUTDrI1jD6DTyAuDZdXr.jpg" group-title="TFC MOVIES ",The Love Affair
+https://absvod.akamaized.net/c/2/m/986f3aac-7f9a-11eb-aefb-b678408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=964272fa7f9811ebb881a585408284f3:78ad9975f92de8586a69f01a8b1c604b
+#EXTINF:-1 tvg-id="ridtandem" tvg-name="Riding In Tandem" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vbOMv96hxWTxOcLeKYg8YuNVDGs.jpg" group-title="TFC MOVIES ",Riding In Tandem
+https://absvod.akamaized.net/c/2/m/964272fa-7f98-11eb-b881-a585408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2730fecdb2311ebbce3d6962c84fa97:3f1def1cf94ebb04ef0053b14108ff17
+#EXTINF:-1 tvg-id="bridelover" tvg-name="The Bride and the Lover" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/l8AFZZyiTynfVJoYcD9g5GtzVeY.jpg" group-title="TFC MOVIES ",The Bride and the Lover
+https://absvod.akamaized.net/c/2/m/c2730fec-db23-11eb-bce3-d6962c84fa97.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d48f582a7b5b11ebb11a9f2f408284f3:3f5a7a906c17b74d1fa56426bfb460cb
+#EXTINF:-1 tvg-id="muchbelove" tvg-name="Must Beâ€¦ Love" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ujnvceG8jovPh4sr7kiP13UAX8K.jpg" group-title="TFC MOVIES ",Must Beâ€¦ Love
+https://absvod.akamaized.net/c/2/m/d48f582a-7b5b-11eb-b11a-9f2f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8abd3aa27eb011eb82ab8540408284f3:8ff8a70559bc78e85802c013f700c5da
+#EXTINF:-1 tvg-id="just2us" tvg-name="Just the 3 of Us" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2SXeMYcN4q3KwYf2gb3RHYwkCdn.jpg" group-title="TFC MOVIES ",Just the 3 of Us
+https://absvod.akamaized.net/c/2/m/8abd3aa2-7eb0-11eb-82ab-8540408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f15a53048a1c11eb9a10a898408284f3:74dabd431e3b8301d5ed5f307417b553
+#EXTINF:-1 tvg-id="sanamaulit" tvg-name="Sana Maulit Muli" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nzTtXPjUtzocAAXajgBhrhJMq04.jpg" group-title="TFC MOVIES ",Sana Maulit Muli
+https://absvod.akamaized.net/c/2/m/f15a5304-8a1c-11eb-9a10-a898408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=76c8d6463a3f11ec95223c4028972df8:8e491319221b4b705d9af4a9ec4a9e64
+#EXTINF:-1 tvg-id="silong" tvg-name="Silong" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/89dBfje0fCEUtdHP7qjpJaSj6Nz.jpg" group-title="TFC MOVIES ",Silong
+https://absvod.akamaized.net/c/2/m/76c8d646-3a3f-11ec-9522-3c4028972df8.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=80f77cda7dd411eb8917833b408284f3:3f0c772ac0d571bf4f00547cfa578919
+#EXTINF:-1 tvg-id="howtobyur" tvg-name="How to Be Yours" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mjIrh2R4VLZAhI9bpJsjwkhwhHd.jpg" group-title="TFC MOVIES ",How to Be Yours
+https://absvod.akamaized.net/c/2/m/80f77cda-7dd4-11eb-8917-833b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=de341b3289ab11eb801ec655408284f3:9d821cb8c218fffc458eb69948116623
+#EXTINF:-1 tvg-id="banaue" tvg-name="Banaue: Stairway to the Sky" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kZHTgrX4YqPpEiUwC8FMGolyIR5.jpg" group-title="TFC MOVIES ",Banaue: Stairway to the Sky
+https://absvod.akamaized.net/c/2/m/de341b32-89ab-11eb-801e-c655408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e912fb9a84d311ebbca12446408284f3:f11c1abc09da2de89cf79a7a4b9ef3e1
+#EXTINF:-1 tvg-id="kailangnkta" tvg-name="Kailangan Kita" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eQiGnPl7MA2CsCT6iPilT51qMZH.jpg" group-title="TFC MOVIES ",Kailangan Kita
+https://absvod.akamaized.net/c/2/m/e912fb9a-84d3-11eb-bca1-2446408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c71aa6227b5b11ebbbf2c62f408284f3:683e94ebd04834b51c0bc75427ed0b3f
+#EXTINF:-1 tvg-id="jtwya" tvg-name="Just the Way You Are" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oNFY6283FTciXSD8ktpUnsWCDky.jpg" group-title="TFC MOVIES ",Just the Way You Are
+https://absvod.akamaized.net/c/2/m/c71aa622-7b5b-11eb-bbf2-c62f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff96da3e7d3111eba8dd9f5b408284f3:a81318f9661ab5eb3f5038038c5e3629
+#EXTINF:-1 tvg-id="blockz" tvg-name="Block Z" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/n6jAasaOFvg0LNEpx7tLr5gVAEP.jpg" group-title="TFC MOVIES ",Block Z
+https://absvod.akamaized.net/c/2/m/ff96da3e-7d31-11eb-a8dd-9f5b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f14ab4907d3211eb8f9d215a408284f3:c2f7592eb5d8937855ca02a536b40178
+#EXTINF:-1 tvg-id="lastnight" tvg-name="Last Night" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/y8I5VeSWJb6Pgukhhiiup5AEXA.jpg" group-title="TFC MOVIES ",Last Night
+https://absvod.akamaized.net/c/2/m/f14ab490-7d32-11eb-8f9d-215a408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5089c592446911eca1491725550b00c0:b53df402b5849012890568282825663a
+#EXTINF:-1 tvg-id="luck2stsi" tvg-name="Luck At First Sight" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kpM6SdfaZYt8h39mbf1FiqsSOMl.jpg" group-title="TFC MOVIES ",Luck At First Sight
+https://absvod.akamaized.net/c/2/m/5089c592-4469-11ec-a149-1725550b00c0.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8653f5adb1a11eb8597bd722c84fa97:022a9265af145ada48ad4df1cb75eb88
+#EXTINF:-1 tvg-id="manopo3" tvg-name="Mano Po III: My Love" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/grV1pIrn22Bu3pweYIgrtabM0kE.jpg" group-title="TFC MOVIES ",Mano Po III: My Love
+https://absvod.akamaized.net/c/2/m/c8653f5a-db1a-11eb-8597-bd722c84fa97.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6008e8d03c9511ecb9d756dd28972df8:66577f3b1866e2d0f300db9e56aa84f4
+#EXTINF:-1 tvg-id="walangforever" tvg-name="#WalangForever" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7qZUC0AQmSi7pxNP6cH3swkb8Is.jpg" group-title="TFC MOVIES ",#WalangForever
+https://absvod.akamaized.net/c/2/m/6008e8d0-3c95-11ec-b9d7-56dd28972df8.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c6989c07ea211eb8db1f89a408284f3:e7f65a4c0874445ded4ea5d502f7a4f1
+#EXTINF:-1 tvg-id="borntolovyu" tvg-name="Born To Love You" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gxMCYpBbQX54cgNQB1NmdSipsbq.jpg" group-title="TFC MOVIES ",Born To Love You
+https://absvod.akamaized.net/c/2/m/0c6989c0-7ea2-11eb-8db1-f89a408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4303676e872911eba32c9d6b408284f3:dcd1f80e443c6a4dfb30cb868d80c099
+#EXTINF:-1 tvg-id="kungakonlsna" tvg-name="Kung Ako Na Lang Sana" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/t9BZZrwtNFfJ5oZaQ5kP0naDAE7.jpg" group-title="TFC MOVIES ",Kung Ako Na Lang Sana
+https://absvod.akamaized.net/c/2/m/4303676e-8729-11eb-a32c-9d6b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3deddee80f211eb81a7e537408284f3:08d277b1b9279cebb8346d56e3e99a76
+#EXTINF:-1 tvg-id="haliksahangin" tvg-name="Halik sa Hangin" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tbBoJnQiqCcLYSySmyWi2qduqiQ.jpg" group-title="TFC MOVIES ",Halik sa Hangin
+https://absvod.akamaized.net/c/2/m/f3deddee-80f2-11eb-81a7-e537408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=373c7ce6835411ebbadc5ba6408284f3:e5f7555198d2cbc08444ab785b1c6977
+#EXTINF:-1 tvg-id="pulubiprinsesa" tvg-name="Ang Pulubi at ang Prinsesa" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8aq70BmKlI6xX43t6HpGl3SdPbe.jpg" group-title="TFC MOVIES ",Ang Pulubi at ang Prinsesa
+https://absvod.akamaized.net/c/2/m/373c7ce6-8354-11eb-badc-5ba6408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=312d799e80f311ebb7b5326e408284f3:d854e9cd5bf53aca4965138d457d981e
+#EXTINF:-1 tvg-id="superpg" tvg-name="The Super Parental Guardians" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2f7lZGx6uhon67m4WRIztStXwwa.jpg" group-title="TFC MOVIES ",The Super Parental Guardians
+https://absvod.akamaized.net/c/2/m/312d799e-80f3-11eb-b7b5-326e408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab91ee347f3811eb97f78d54408284f3:8137909ff640435efd1ceaffe75a02f1
+#EXTINF:-1 tvg-id="allneedpag" tvg-name="All You Need is Pag-ibig" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1KPsz80Fqua6kCmJSJyCc1Tp66V.jpg" group-title="TFC MOVIES ",All You Need is Pag-ibig
+https://absvod.akamaized.net/c/2/m/ab91ee34-7f38-11eb-97f7-8d54408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9cde95480f211ebbccfe537408284f3:953519ac5c519fa76e9376d2aa70ad37
+#EXTINF:-1 tvg-id="deraderself" tvg-name="Dear Other Self" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/m1uCowCITpZ8rWC9jdYKUITAA6A.jpg" group-title="TFC MOVIES ",Dear Other Self
+https://absvod.akamaized.net/c/2/m/d9cde954-80f2-11eb-bccf-e537408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a752700370211ecb189d6c128972df8:7bbb51e7d21702fa827eae3f57ee4c3b
+#EXTINF:-1 tvg-id="aishite1941" tvg-name="Aishite Imasu 1941: Mahal Kita" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jSkFEGutmWN9i06jc1wssJLDoot.jpg" group-title="TFC MOVIES ",Aishite Imasu 1941: Mahal Kita
+https://absvod.akamaized.net/c/2/m/5a752700-3702-11ec-b189-d6c128972df8.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=400d411c7d3111eba0f29f5b408284f3:abc6a0a410ad9d9196635b85a25bc4c3
+#EXTINF:-1 tvg-id="2mrsreyes" tvg-name="Ang Dalawang Mrs. Reyes" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gnn1eryRhGibDZWoVXs6aVYGjNt.jpg" group-title="TFC MOVIES ",Ang Dalawang Mrs. Reyes
+https://absvod.akamaized.net/c/2/m/400d411c-7d31-11eb-a0f2-9f5b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=09e73dc67b5c11ebaee86a2f408284f3:8171c1eceefe13e5237cfda525f227f0
+#EXTINF:-1 tvg-id="unbreakable" tvg-name="Unbreakable" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/r7YbAANWNOiXP4EVZR3MzW4PbTn.jpg" group-title="TFC MOVIES ",Unbreakable
+https://absvod.akamaized.net/c/2/m/09e73dc6-7b5c-11eb-aee8-6a2f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd966b3680f211ebaa376c36408284f3:d45324f1c6307de5c0ecc7e23e152f99
+#EXTINF:-1 tvg-id="kasal" tvg-name="Kasal" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sU2dcj0v80Bftq4jnjqXcIiqOsM.jpg" group-title="TFC MOVIES ",Kasal
+https://absvod.akamaized.net/c/2/m/fd966b36-80f2-11eb-aa37-6c36408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=affa10147f3811eb899dfa40408284f3:815ee9b309e6fb4ee80d58dddb74f733
+#EXTINF:-1 tvg-id="asecondchance" tvg-name="A Second Chance" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/82FpLp4gYMguvIyzu8RD2eQ0TlC.jpg" group-title="TFC MOVIES ",A Second Chance
+https://absvod.akamaized.net/c/2/m/affa1014-7f38-11eb-899d-fa40408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5926c4ca7d3611ebb11e1c83408284f3:4d0c4306a49e905882506f62eb7d6edc
+#EXTINF:-1 tvg-id="unexpectedly" tvg-name="Unexpectedly Yours" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/y6TGzo0tfh0fxC7x6TBYne7NR4a.jpg" group-title="TFC MOVIES ",Unexpectedly Yours
+https://absvod.akamaized.net/c/2/m/5926c4ca-7d36-11eb-b11e-1c83408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8066d6b0446911ec80ea5734550b00c0:091a90ca9d906296f8c0ed27c6b0bf34
+#EXTINF:-1 tvg-id="forthebrokenh" tvg-name="For the Broken Hearted" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/v0OTHW7zSfRIrIZ3PNxxpl1zTvO.jpg" group-title="TFC MOVIES ",For the Broken Hearted
+https://absvod.akamaized.net/c/2/m/8066d6b0-4469-11ec-80ea-5734550b00c0.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=39b427a07dd511eb93c88e3b408284f3:0f79664aae46a4a74bcd6c9c35d357a3
+#EXTINF:-1 tvg-id="myexwhy" tvg-name="My Ex & Whys" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mG0LADwKFZ2cU0sbpt5yDUuLJHp.jpg" group-title="TFC MOVIES ",My Ex & Whys
+https://absvod.akamaized.net/c/2/m/39b427a0-7dd5-11eb-93c8-8e3b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55cee3ca7f9811eba326a978408284f3:32a1e495c8db4769f44a3e526fe1da91
+#EXTINF:-1 tvg-id="itamaw" tvg-name="It Takes a Man and a Woman" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/g4iK1p5ZZDkpMQH0GUYTDGKNmsi.jpg" group-title="TFC MOVIES ",It Takes a Man and a Woman
+https://absvod.akamaized.net/c/2/m/55cee3ca-7f98-11eb-a326-a978408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aae39854826a11ebab38bf98408284f3:62ec3d8bd680ed9bc7147a289cdde790
+#EXTINF:-1 tvg-id="babe143" tvg-name="Babe, I Love You" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kuOwTztCfmaooq1hVaQHqakXvF7.jpg" group-title="TFC MOVIES ",Babe, I Love You
+https://absvod.akamaized.net/c/2/m/aae39854-826a-11eb-ab38-bf98408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa24077e7d3211ebb1e1b962408284f3:6f1125637c11b8fe0463bf41cd1751df
+#EXTINF:-1 tvg-id="lyttdfg" tvg-name="Love You to the Stars and Back" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xI2kkwgSWY7ONqKWoORyJNUEDaU.jpg" group-title="TFC MOVIES ",Love You to the Stars and Back
+https://absvod.akamaized.net/c/2/m/fa24077e-7d32-11eb-b1e1-b962408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeac980c7f9911eb9795a585408284f3:24ae7989d11df2a194b911a8b2200362
+#EXTINF:-1 tvg-id="tbplaylist" tvg-name="The Breakup Playlist" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/57fQBQS5tw3buS8LaOmILH2kOgf.jpg" group-title="TFC MOVIES ",The Breakup Playlist
+https://absvod.akamaized.net/c/2/m/eeac980c-7f99-11eb-9795-a585408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a320321c826a11ebb327aca1408284f3:2d6a8f583e3d3ff838b13e4e61991408
+#EXTINF:-1 tvg-id="averspeclo" tvg-name="A Very Special Love" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eggMe506MiKRzDKuY1yAO71sUGY.jpg" group-title="TFC MOVIES ",A Very Special Love
+https://absvod.akamaized.net/c/2/m/a320321c-826a-11eb-b327-aca1408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd7a77867d3011eba11acf5a408284f3:c4f8426203e807cebb6e9dfdc295f424
+#EXTINF:-1 tvg-id="Abandoned" tvg-name="Abandoned" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ayqDqYh9t1XS0mdczj0pOz2yzId.jpg" group-title="TFC MOVIES ",Abandoned
+https://absvod.akamaized.net/c/2/m/dd7a7786-7d30-11eb-a11a-cf5a408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfcdcc02872811eb8dde5e4f408284f3:d8216fec60ab8680094d621d61ebe755
+#EXTINF:-1 tvg-id="dalaw" tvg-name="Dalaw" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rwxlKI5Sat1HbZVY6Bh9rENEIhC.jpg" group-title="TFC MOVIES ",Dalaw
+https://absvod.akamaized.net/c/2/m/dfcdcc02-8728-11eb-8dde-5e4f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ce42112872811eba13c2e59408284f3:a58991860d192b8da43e2bde5e62b112
+#EXTINF:-1 tvg-id="cuteinamo" tvg-name="Ang Cute ng Ina Mo" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/n0LoIIae93wG6APCTpZHuothef4.jpg" group-title="TFC MOVIES ",Ang Cute ng Ina Mo
+https://absvod.akamaized.net/c/2/m/8ce42112-8728-11eb-a13c-2e59408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca7e386e8a2f11eba5a9a798408284f3:01aab653908f939a437323b554a1be33
+#EXTINF:-1 tvg-id="crushngcroo" tvg-name="Bakit Hindi Ka Crush ng Crush Mo?" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/d2mk6f1sGlmyODGnzMNmBzTrJIg.jpg" group-title="TFC MOVIES ",Bakit Hindi Ka Crush ng Crush Mo?
+https://absvod.akamaized.net/c/2/m/ca7e386e-8a2f-11eb-a5a9-a798408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b47a285e7f3811ebafc01e56408284f3:71403101e83359a33ac9ce2c426864ba
+#EXTINF:-1 tvg-id="beautybottle" tvg-name="Beauty in A Bottle" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wgVp97O6Qg7DAtz1zpMxGXo3mN7.jpg" group-title="TFC MOVIES ",Beauty in A Bottle
+https://absvod.akamaized.net/c/2/m/b47a285e-7f38-11eb-afc0-1e56408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8eb5a527f3811ebb9ceea40408284f3:7cba878147078a78ef5d7764c04bcbec
+#EXTINF:-1 tvg-id="bride4rent" tvg-name="Bride for Rent" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lYekmCbEb7srZGXRr9c8V1Vi8so.jpg" group-title="TFC MOVIES ",Bride for Rent
+https://absvod.akamaized.net/c/2/m/b8eb5a52-7f38-11eb-b9ce-ea40408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5549911e3ec111ec971dab41550b00c0:bc7bde8485097e167433ec2441fe73d6
+#EXTINF:-1 tvg-id="perabayong" tvg-name="Pera O Bayong (Not Da TV)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cD7G4AqcQHVJKERJco54JC42DQ7.jpg" group-title="TFC MOVIES ",Pera O Bayong (Not Da TV)
+https://absvod.akamaized.net/c/2/m/5549911e-3ec1-11ec-971d-ab41550b00c0.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7740b1fc7eb011ebb1798540408284f3:370904ccaf43618f3b87aeea5b524e72
+#EXTINF:-1 tvg-id="finallyfondyu" tvg-name="Finally Found Someone" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/saONztl540rC9VHYL1UpNIvrmRi.jpg" group-title="TFC MOVIES ",Finally Found Someone
+https://absvod.akamaized.net/c/2/m/7740b1fc-7eb0-11eb-b179-8540408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=125fbf6889b811ebbdb5d396408284f3:29cfdfbfad941042e74942f58c0ee6c2
+#EXTINF:-1 tvg-id="karnal" tvg-name="Karnal" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cpAHxe9Wwz86Bkh2uavTt1zxpl5.jpg" group-title="TFC MOVIES ",Karnal
+https://absvod.akamaized.net/c/2/m/125fbf68-89b8-11eb-bdb5-d396408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=278c25ce68a711ec9c5b58b51b1ed018:2e83c2cbd519d24d0bd20c1334231678
+#EXTINF:-1 tvg-id="amnesialove" tvg-name="Amnesia Love" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lREoge9SnfFDz7Vus2kP35IUl0h.jpg" group-title="TFC MOVIES ",Amnesia Love
+https://absvod.akamaized.net/c/2/m/278c25ce-68a7-11ec-9c5b-58b51b1ed018.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=38c8a944872911ebbc88b84f408284f3:ab37b074515d8e6316f7d56bf0294a83
+#EXTINF:-1 tvg-id="kasal3" tvg-name="Kasal, Kasali, Kasalo" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jDtJ35l9MoNZ3aSN2B89b4TzZsy.jpg" group-title="TFC MOVIES ",Kasal, Kasali, Kasalo
+https://absvod.akamaized.net/c/2/m/38c8a944-8729-11eb-bc88-b84f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00108e5c84d411ebbeeb6064408284f3:8f94034261d5843c31000ee6c76ff004
+#EXTINF:-1 tvg-id="kokey" tvg-name="Kokey" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/AcB9QCWLzWDQIbK8hLTdZbX52uI.jpg" group-title="TFC MOVIES ",Kokey
+https://absvod.akamaized.net/c/2/m/00108e5c-84d4-11eb-beeb-6064408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0784a59280f611eb8f55caa9408284f3:5bdb117e51a172b8064d617697ea0ebd
+#EXTINF:-1 tvg-id="kungkudivas" tvg-name="Kung Fu Divas" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/a0tMQxbjlFHFBbL8Hc9KuzcOlo4.jpg" group-title="TFC MOVIES ",Kung Fu Divas
+https://absvod.akamaized.net/c/2/m/0784a592-80f6-11eb-8f55-caa9408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a282d81483e611eb87a1e4a8408284f3:b334a6462d317d2cce0ccd864a870769
+#EXTINF:-1 tvg-id="labskol" tvg-name="Labs Kita, Okey Ka Lang?" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/N81uYs6EDeKLfLU0bC4eJCrCcF.jpg" group-title="TFC MOVIES ",Labs Kita, Okey Ka Lang?
+https://absvod.akamaized.net/c/2/m/a282d814-83e6-11eb-87a1-e4a8408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd04d44c898211ebbb985e39408284f3:8cd5983343e864e30bf8005b1a196ec5
+#EXTINF:-1 tvg-id="langistubig" tvg-name="Langis at Tubig" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1Xizo0dqnzge8UgrYXi5YxKBbXI.jpg" group-title="TFC MOVIES ",Langis at Tubig
+https://absvod.akamaized.net/c/2/m/cd04d44c-8982-11eb-bb98-5e39408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4463d20ca6f211eda20d48c231d000f2:e43c0bcc2cba72fe5af9c228c1bf71cb
+#EXTINF:-1 tvg-id="nasaanpuso" tvg-name="Nasaan ang Puso" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iOOxiTdYm5phqMP140eKDNeFi5Y.jpg" group-title="TFC MOVIES ",Nasaan ang Puso
+https://absvod.akamaized.net/c/2/m/4463d20c-a6f2-11ed-a20d-48c231d000f2.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6452e7a6406411ecaaeb0d6a550b00c0:95ede799663e7f2168d0f0e843b3fabf
+#EXTINF:-1 tvg-id="thetrigonal" tvg-name="The Trigonal" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8E9Tbz8X1xLdtpMU9rMhiUdWXZs.jpg" group-title="TFC MOVIES ",The Trigonal
+https://absvod.akamaized.net/c/2/m/6452e7a6-4064-11ec-aaeb-0d6a550b00c0.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7dcec56484d611eba0335964408284f3:074b081c3948bb7ea41864197f058fe3
+#EXTINF:-1 tvg-id="nasaankaman" tvg-name="Nasaan Ka Man" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xPZbHAE4Aa6OABznaeD1Vvk7aFy.jpg" group-title="TFC MOVIES ",Nasaan Ka Man
+https://absvod.akamaized.net/c/2/m/7dcec564-84d6-11eb-a033-5964408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f3eb2ce7f9811eb9624f987408284f3:dec95306df9bdd675e539960fe1695cd
+#EXTINF:-1 tvg-id="startingagain" tvg-name="Starting Over Again" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rYhlpMYHmnBkZSw8zwvHFK4p620.jpg" group-title="TFC MOVIES ",Starting Over Again
+https://absvod.akamaized.net/c/2/m/9f3eb2ce-7f98-11eb-9624-f987408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49abb6687af211ebb8dd2f3a408284f3:25c84d43bd80c7bd741ad545289c23e5
+#EXTINF:-1 tvg-id="iwantmov" tvg-name="A Moment in Time" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rE6HCRJ6bkXCxiCFf6YcWNklK4M.jpg" group-title="TFC MOVIES ",A Moment in Time
+https://absvod.akamaized.net/c/2/m/49abb668-7af2-11eb-b8dd-2f3a408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=593d00467b5b11ebb260c62f408284f3:b19d3a56899ace9271d83b5e505385c0
+#EXTINF:-1 tvg-id="iwantmov01" tvg-name="Hello, Love, Goodbye" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sJFouUfCgHFSUh5OKVSQBSfrfA1.jpg" group-title="TFC MOVIES ",Hello, Love, Goodbye
+https://absvod.akamaized.net/c/2/m/593d0046-7b5b-11eb-b260-c62f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b275c447dd511eba01a973b408284f3:0f5b21692d87ee36c21b2919ec89e220
+#EXTINF:-1 tvg-id="iwantmov02" tvg-name="Seven Sundays" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hEwtD6AUYjde9vk0vN9nCSAdGcf.jpg" group-title="TFC MOVIES ",Seven Sundays
+https://absvod.akamaized.net/c/2/m/6b275c44-7dd5-11eb-a01a-973b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=013922b67b5c11eb80f34b2e408284f3:cca5094ee3922b9b4c738f320cfee350
+#EXTINF:-1 tvg-id="iwantmov03" tvg-name="Three Words to Forever" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/d6aiEgFoFfWrdXwxdn52mTfDCnx.jpg" group-title="TFC MOVIES ",Three Words to Forever
+https://absvod.akamaized.net/c/2/m/013922b6-7b5c-11eb-80f3-4b2e408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d993ef67dd611ebb836c999408284f3:b1b5ce8b14f1366ed029d7cc5e2853b8
+#EXTINF:-1 tvg-id="iwantmov04" tvg-name="The Unmarried Wife" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kS8bZU5WO3BdXFQ6dG5FqdX2NHm.jpg" group-title="TFC MOVIES ",The Unmarried Wife
+https://absvod.akamaized.net/c/2/m/1d993ef6-7dd6-11eb-b836-c999408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd9163203f0911ec887013eb550b00c0:3087c2a035678139765d15f289f41dfa
+#EXTINF:-1 tvg-id="iwantmov05" tvg-name="Through Night and Day" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/F5lAWeD2CaLgQRmzbc70L1xKUY.jpg" group-title="TFC MOVIES ",Through Night and Day
+https://absvod.akamaized.net/c/2/m/cd916320-3f09-11ec-8870-13eb550b00c0.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a38146e854311eba8fa4272408284f3:367a6413012a090fb3fb472119b1baae
+#EXTINF:-1 tvg-id="iwantmov1" tvg-name="That Thing Called Tadhana" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fjzwktG6MWbuUQ80XXkdIXPC03G.jpg" group-title="TFC MOVIES ",That Thing Called Tadhana
+https://absvod.akamaized.net/c/2/m/3a38146e-8543-11eb-a8fa-4272408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ccff854a325711ec8c27c028bb99b791:dd8c218030c680322bfa2fb9e8842a8b
+#EXTINF:-1 tvg-id="iwantmov2" tvg-name="Caregiver" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vwBeNAlTXFl1Zedb33U5YBigm7k.jpg" group-title="TFC MOVIES ",Caregiver
+https://absvod.akamaized.net/c/2/m/ccff854a-3257-11ec-8c27-c028bb99b791.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a06ed3e80f311eba69f596a408284f3:880ee04715c6e4425dd09ea335df83c5
+#EXTINF:-1 tvg-id="iwantmov3" tvg-name="You're My Boss" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8d0bO40Ke5ecVt06fBBtnTpQUxs.jpg" group-title="TFC MOVIES ",You're My Boss
+https://absvod.akamaized.net/c/2/m/3a06ed3e-80f3-11eb-a69f-596a408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6c1f2b689ab11eb870b5e39408284f3:5dfc71f93bd10204aafaa1a14605edbe
+#EXTINF:-1 tvg-id="iwantmov4" tvg-name="Anak" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vz1Lntn8qnQon0lbO3hlSfN0hJJ.jpg" group-title="TFC MOVIES ",Anak
+https://absvod.akamaized.net/c/2/m/d6c1f2b6-89ab-11eb-870b-5e39408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbaea368872811ebb1a55e4f408284f3:826ff7ab555ede93371f2fa2cf366818
+#EXTINF:-1 tvg-id="iwantmov5" tvg-name="Cinco" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5TcYBdDTaPnsuPQsYFBciZetV2Q.jpg" group-title="TFC MOVIES ",Cinco
+https://absvod.akamaized.net/c/2/m/cbaea368-8728-11eb-b1a5-5e4f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=06b908de841a11ebaa4fe4a8408284f3:1b5cbd2647233f4b6f23f83e3e7dc7bf
+#EXTINF:-1 tvg-id="iwantmov6" tvg-name="Dubai" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bjJaU5ZOvCEqP7H8wNy8u172lPK.jpg" group-title="TFC MOVIES ",Dubai
+https://absvod.akamaized.net/c/2/m/06b908de-841a-11eb-aa4f-e4a8408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9661cacc7d3311eb8087e062408284f3:e513fa430e7efaa2b37313253df08270
+#EXTINF:-1 tvg-id="iwantmov7" tvg-name="She's The One" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ptc6vmdmRoyBgOxTygp6cndILaU.jpg" group-title="TFC MOVIES ",She's The One
+https://absvod.akamaized.net/c/2/m/9661cacc-7d33-11eb-8087-e062408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1bdd8196840a11ebb92e95a8408284f3:d00b1c1551ee9ecba0143155bb3f595a
+#EXTINF:-1 tvg-id="iwantmov8" tvg-name="Now That I Have You" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fPKlTB2l7GJESzoL1qLGoqWvCXv.jpg" group-title="TFC MOVIES ",Now That I Have You
+https://absvod.akamaized.net/c/2/m/1bdd8196-840a-11eb-b92e-95a8408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bd6ac4088c111eba97dce34408284f3:53c0d5451d13275b831624df4f39f663
+#EXTINF:-1 tvg-id="iwantmov9" tvg-name="A Love Story" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2yoXW56BGnFcXB0qrXa0fa6lZps.jpg" group-title="TFC MOVIES ",A Love Story
+https://absvod.akamaized.net/c/2/m/9bd6ac40-88c1-11eb-a97d-ce34408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9513e5b084d611eb94dd5d64408284f3:ac3650125b88068b07c86a2aed31b35d
+#EXTINF:-1 tvg-id="iwantmov10" tvg-name="Oops Teka Lang Diskarte Ko 'To" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7J9UvmevBoa13clzHJhDkIyJavb.jpg" group-title="TFC MOVIES ",Oops Teka Lang Diskarte Ko 'To
+https://absvod.akamaized.net/c/2/m/9513e5b0-84d6-11eb-94dd-5d64408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=908cdd20d98711ebbe2945bd2c84fa97:69f36ad02d00249ff7f7b7611a1afe0b
+#EXTINF:-1 tvg-id="iwantmov11" tvg-name="Ex-Con" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/m3Zf8G7t46BJtxcpDP3l7mbvsyI.jpg" group-title="TFC MOVIES ",Ex-Con
+https://absvod.akamaized.net/c/2/m/908cdd20-d987-11eb-be29-45bd2c84fa97.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=17cf5a3abab211eda9c796db629ee721:656a94249a9b4587fbaec0e3bcb3e8c9
+#EXTINF:-1 tvg-id="iwantmov12" tvg-name="Gatilyo: Sa Bawat Kalabit Buhay Ang Kapalit" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/czLCrnJOYjHiqj4f7bvnkUPkHTO.jpg" group-title="TFC MOVIES ",Gatilyo: Sa Bawat Kalabit Buhay Ang Kapalit
+https://absvod.akamaized.net/c/2/m/17cf5a3a-bab2-11ed-a9c7-96db629ee721.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ccc0e88093011ef824c44c485bba94d:09e19a8d832d983464b395188a4b39ae
+#EXTINF:-1 tvg-id="iwantmov13" tvg-name="Hostage" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5Wi1bQzRP3Dp6uWM6gke54S9lws.jpg" group-title="TFC MOVIES ",Hostage
+https://absvod.akamaized.net/c/2/m/2ccc0e88-0930-11ef-824c-44c485bba94d.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=13b5f5f43c6b11ee8515a858c1000089:e45e713c7be54f73983476ec3d63bb9d
+#EXTINF:-1 tvg-id="iwantmov14" tvg-name="Jack Em Popoy: The Puliscredibles" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/l0jKEmwIYMTqtIZcKiDi8kLt9oC.jpg" group-title="TFC MOVIES ",Jack Em Popoy: The Puliscredibles
+https://absvod.akamaized.net/c/2/m/13b5f5f4-3c6b-11ee-8515-a858c1000089.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fcbd4aaa8ed911eb9c70c3045c3281b3:0f0cda4ef3fd268c08bf7d1c33a4b3dd
+#EXTINF:-1 tvg-id="iwantmov15" tvg-name="Gandarrapiddo: The Revenger Squad" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lWJrqgpBUWWmzu6APYx5tddUOfn.jpg" group-title="TFC MOVIES ",Gandarrapiddo: The Revenger Squad
+https://absvod.akamaized.net/c/2/m/fcbd4aaa-8ed9-11eb-9c70-c3045c3281b3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f13a44c7f9811eb94d0bb78408284f3:e3907918b1e086d49d77fa5385e087ec
+#EXTINF:-1 tvg-id="iwantmov16" tvg-name="Beauty and the Bestie" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wJrtPxNHEZbnAhrsXrobMUZWTLT.jpg" group-title="TFC MOVIES ",Beauty and the Bestie
+https://absvod.akamaized.net/c/2/m/1f13a44c-7f98-11eb-94d0-bb78408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c00db202696211ec8ea1e8b71a1ed018:a3c947b0960b698803e50ce832f6857a
+#EXTINF:-1 tvg-id="tenement" tvg-name="Tenement 66" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uRvFETVuBZ0SWBdVJSMrDGMJtpr.jpg" group-title="TFC MOVIES ",Tenement 66
+https://absvod.akamaized.net/c/2/m/c00db202-6962-11ec-8ea1-e8b71a1ed018.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5fc875c691a11ecb305eb041b1ed018:072c29a9ce4fe7a52c96f9a06d1a6363
+#EXTINF:-1 tvg-id="iwantmov18" tvg-name="BuyBust" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vvArzms4uGDAlqo6JfeAe0b4ro4.jpg" group-title="TFC MOVIES ",BuyBust
+https://absvod.akamaized.net/c/2/m/d5fc875c-691a-11ec-b305-eb041b1ed018.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3af28d62a6d411edbe374ce431d000f2:fd26442f559c7c0a4e8ab69811293539
+#EXTINF:-1 tvg-id="iwantmov19" tvg-name="Kanang Kamay: Ituro mo, itutumba ko" tvg-logo="https://i.imgur.com/u7e2PB2.jpg" group-title="TFC MOVIES ",Kanang Kamay: Ituro mo, itutumba ko
+https://absvod.akamaized.net/c/2/m/3af28d62-a6d4-11ed-be37-4ce431d000f2.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d42a3f06326911ec98e3dbd210ca9eae:80a787fe76b1b629d0e7adc392dcb6aa
+#EXTINF:-1 tvg-id="iwantmov20" tvg-name="Kung Kaya Mo, Kaya Ko Rin!" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nQHvKAl3p3nY0c30O1FXRRvfnQb.jpg" group-title="TFC MOVIES ",Kung Kaya Mo, Kaya Ko Rin!
+https://absvod.akamaized.net/c/2/m/d42a3f06-3269-11ec-98e3-dbd210ca9eae.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9410fa0d45211ed9b41ccab4e14d9bf:526c65c88fc544cc0e9a339ba27cf3a7
+#EXTINF:-1 tvg-id="iwantmov21" tvg-name="Lalaban Ako Hanggang sa Huling Hininga" tvg-logo="https://i.imgur.com/cGx4rQL.jpg" group-title="TFC MOVIES ",Lalaban Ako Hanggang sa Huling Hininga
+https://absvod.akamaized.net/c/2/m/e9410fa0-d452-11ed-9b41-ccab4e14d9bf.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=98b9afbe8a2211ebb52df052408284f3:27fc195d358dcd70056e3780077e6688
+#EXTINF:-1 tvg-id="iwantmov22" tvg-name="NBI: The Mariano Mison Story" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jY8u3dKBDG1mpA8NEoODedcdsfg.jpg" group-title="TFC MOVIES ",NBI: The Mariano Mison Story
+https://absvod.akamaized.net/c/2/m/98b9afbe-8a22-11eb-b52d-f052408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=760081f06dde11ecae2daa9923c4461d:5f3771f2eb4c9b604e1844c041c9916c
+#EXTINF:-1 tvg-id="iwantmov23" tvg-name="MaÃ±anita" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/t3M2pcG7y4I483n9EZq7ReKmwu8.jpg" group-title="TFC MOVIES ",MaÃ±anita
+https://absvod.akamaized.net/c/2/m/760081f0-6dde-11ec-ae2d-aa9923c4461d.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ccffea47d3411ebba06896a408284f3:a4e83fa5f822d4cb716b4871e3bf7917
+#EXTINF:-1 tvg-id="iwantmov24" tvg-name="The Amazing Praybeyt Benjamin" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gPRvRpTO8FlzM3FAhqIxNHI3KkD.jpg" group-title="TFC MOVIES ",The Amazing Praybeyt Benjamin
+https://absvod.akamaized.net/c/2/m/5ccffea4-7d34-11eb-ba06-896a408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=36f74e6ebcd211ed8d3a24147c3f0afe:12454be254feee59d29a23be0181624d
+#EXTINF:-1 tvg-id="iwantmov25" tvg-name="Sagad sa Init" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oxrpbCMit83NyjPx6xZWygZkPPA.jpg" group-title="TFC MOVIES ",Sagad sa Init
+https://absvod.akamaized.net/c/2/m/36f74e6e-bcd2-11ed-8d3a-24147c3f0afe.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49598b2e6b2b11ed8f3d19961bec293c:5144e3f0f31f04f4b865c84e57611217
+#EXTINF:-1 tvg-id="iwantmov26" tvg-name="Patikim ng Pinya" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/QiowmAidP406fXB0RFZnMgdWoh.jpg" group-title="TFC MOVIES ",Patikim ng Pinya
+https://absvod.akamaized.net/c/2/m/49598b2e-6b2b-11ed-8f3d-19961bec293c.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=21133c5687e211eba0cd8736408284f3:a289a2078d220b9ed96ba9a700482dad
+#EXTINF:-1 tvg-id="iwantmov27" tvg-name="Sunday Night Fever" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wLJqdlVlnMl4ShpIxscjpclu5VO.jpg" group-title="TFC MOVIES ",Sunday Night Fever
+https://absvod.akamaized.net/c/2/m/21133c56-87e2-11eb-a0cd-8736408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6036a9c67eb011ebbd0ae934408284f3:604a23f4543ef918d2c7895d1c688cb9
+#EXTINF:-1 tvg-id="iwantmov28" tvg-name="ANi (The Harvest)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uX9mK3anDYNMXbTBiXLGN1Jmrzr.jpg" group-title="TFC MOVIES ",ANi (The Harvest)
+https://absvod.akamaized.net/c/2/m/6036a9c6-7eb0-11eb-bd0a-e934408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9463cec7dd311ebad06723b408284f3:057b106afa80d8ba7b1dd8f40bfba0e0
+#EXTINF:-1 tvg-id="iwantmov29" tvg-name="Ang Panday" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/s30mLiLVR5xIG8kKOI52SisNg4w.jpg" group-title="TFC MOVIES ",Ang Panday
+https://absvod.akamaized.net/c/2/m/d9463cec-7dd3-11eb-ad06-723b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=415eb0c48c8011eb8831b541408284f3:34df9f0c50b573b79048308370d08ad4
+#EXTINF:-1 tvg-id="iwantmov30" tvg-name="Magic Temple" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/66Dk7XX4TasCkQbqoTrWSoYDGtl.jpg" group-title="TFC MOVIES ",Magic Temple
+https://absvod.akamaized.net/c/2/m/415eb0c4-8c80-11eb-8831-b541408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf703b3a89ab11eb8086e932408284f3:a09a340dbbe0e8199c01b91d2a186aa6
+#EXTINF:-1 tvg-id="iwantmov31" tvg-name="A Mother's Story" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7Ua1PiMggYnykNmy8ZDCMA3zleA.jpg" group-title="TFC MOVIES ",A Mother's Story
+https://absvod.akamaized.net/c/2/m/cf703b3a-89ab-11eb-8086-e932408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=50010810c30c11ed95256e0a7c3f0afe:cdee7347b1efcf55359681563e810a58
+#EXTINF:-1 tvg-id="iwantmov32" tvg-name="A Beautiful Affair" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kdcCLSjLS4kDfpmsZsdwkl4yiky.jpg" group-title="TFC MOVIES ",A Beautiful Affair
+https://absvod.akamaized.net/c/2/m/50010810-c30c-11ed-9525-6e0a7c3f0afe.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6031fb96840111eb8bda13a6408284f3:bc939171e35efe4ddf6bfd8f62f8bb3b
+#EXTINF:-1 tvg-id="iwantmov33" tvg-name="9 Mornings" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kMnxQCZLhK5OiuCIy20qP1N2L15.jpg" group-title="TFC MOVIES ",9 Mornings
+https://absvod.akamaized.net/c/2/m/6031fb96-8401-11eb-8bda-13a6408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f608dd4c840b11eb83cc7f9f408284f3:2f2cd802d8cbb2713193b9ab4537329b
+#EXTINF:-1 tvg-id="iwantmov34" tvg-name="Bakit 'Di Totohanin" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cUoVTPagoq8dUdnJVjM99W4xJEW.jpg" group-title="TFC MOVIES ",Bakit 'Di Totohanin
+https://absvod.akamaized.net/c/2/m/f608dd4c-840b-11eb-83cc-7f9f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3f91608324811eca15db76573b7f869:9a6fed5ff6727807829df511be9d4205
+#EXTINF:-1 tvg-id="iwantmov35" tvg-name="Barcelona: A Love Untold" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dY1GE16jog0IbwFzLPCKAxY5tWE.jpg" group-title="TFC MOVIES ",Barcelona: A Love Untold
+https://absvod.akamaized.net/c/2/m/e3f91608-3248-11ec-a15d-b76573b7f869.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5823f2289ab11eb91c15e39408284f3:e87b1e0c82fb311200b11a9602f379be
+#EXTINF:-1 tvg-id="iwantmov36" tvg-name="Basta't Kasama Kita" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gUkADYKPIzz0EDZRh1jtNx3aNse.jpg" group-title="TFC MOVIES ",Basta't Kasama Kita
+https://absvod.akamaized.net/c/2/m/e5823f22-89ab-11eb-91c1-5e39408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60b081fa325711eca8baccc08753fb34:3bb8124340f61b5ba01175f804d3fb11
+#EXTINF:-1 tvg-id="iwantmov37" tvg-name="Bata, Bata... Paano Ka Ginawa?" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hPeLhFw4UsYsaHVrTeym5zasSGy.jpg" group-title="TFC MOVIES ",Bata, Bata... Paano Ka Ginawa?
+https://absvod.akamaized.net/c/2/m/60b081fa-3257-11ec-a8ba-ccc08753fb34.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=812844a87b7911eb8ea86a2f408284f3:0806f7ae5555a54b9ac6dbf59b7079ff
+#EXTINF:-1 tvg-id="iwantmov38" tvg-name="Between Maybes" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zgaRu1fNiMF3axvlOLh3Nns8UIG.jpg" group-title="TFC MOVIES ",Between Maybes
+https://absvod.akamaized.net/c/2/m/812844a8-7b79-11eb-8ea8-6a2f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=040209047d3211eb9e9c205b408284f3:80fce3415c3dc2edf37148c640cd7986
+#EXTINF:-1 tvg-id="iwantmov39" tvg-name="Can't Help Falling in Love" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bWTG8X1rd4b4UEhQkWx8WXtmGEd.jpg" group-title="TFC MOVIES ",Can't Help Falling in Love
+https://absvod.akamaized.net/c/2/m/04020904-7d32-11eb-9e9c-205b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6533227e7eb011eb9602f89a408284f3:29ff3b93d50b5a61f9575d7a79fd45de
+#EXTINF:-1 tvg-id="iwantmov40" tvg-name="Clarita" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6D98XukeN3lJf5BJ4vEIcHMwu5n.jpg" group-title="TFC MOVIES ",Clarita
+https://absvod.akamaized.net/c/2/m/6533227e-7eb0-11eb-9602-f89a408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=480d4ed47f9811ebb16be982408284f3:6646f735ab8c364afa13b4dae7f80e01
+#EXTINF:-1 tvg-id="iwantmov41" tvg-name="Everything About Her" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ActeqKqVvMY7jdAtBfvdWBrOaeC.jpg" group-title="TFC MOVIES ",Everything About Her
+https://absvod.akamaized.net/c/2/m/480d4ed4-7f98-11eb-b16b-e982408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=de3c614680f211ebbccfe537408284f3:8037b6ab9dccd84a55d36ea20eab7a8c
+#EXTINF:-1 tvg-id="iwantmov42" tvg-name="Etiquette for Mistresses" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sZRxs4m9qD77Z5Io5bT9OKnCR2k.jpg" group-title="TFC MOVIES ",Etiquette for Mistresses
+https://absvod.akamaized.net/c/2/m/de3c6146-80f2-11eb-bccf-e537408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e22c5387eb011eb8547e19b408284f3:92a9f099b4a8a463b7e77e8438165e55
+#EXTINF:-1 tvg-id="iwantmov43" tvg-name="Everyday I Love You" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4Cr8wdIIYq6vJJkQzHusgF4w4WP.jpg" group-title="TFC MOVIES ",Everyday I Love You
+https://absvod.akamaized.net/c/2/m/6e22c538-7eb0-11eb-8547-e19b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7292ebd47eb011eba02fb537408284f3:f158737fceb9d453d35d4971a3b5183b
+#EXTINF:-1 tvg-id="iwantmov44" tvg-name="Ex with Benefits" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wI5zsFz4zi3P6tpFgqfhmSIY3h5.jpg" group-title="TFC MOVIES ",Ex with Benefits
+https://absvod.akamaized.net/c/2/m/7292ebd4-7eb0-11eb-a02f-b537408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62c04b207dd411ebb0f6af3e408284f3:0435427c970a86237728a47d2fb082b3
+#EXTINF:-1 tvg-id="iwantmov45" tvg-name="Exes Baggage" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pHVNxtOl9mAjP9IThxz6nzqfUJe.jpg" group-title="TFC MOVIES ",Exes Baggage
+https://absvod.akamaized.net/c/2/m/62c04b20-7dd4-11eb-b0f6-af3e408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9fe9b91ed98711eb834b98ba2c84fa97:9de47303a52bb8e332c2ef6b3c0b2e4a
+#EXTINF:-1 tvg-id="iwantmov46" tvg-name="Finding You" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vF5xbACRBfTZGwumCH2ZCMJ3jrT.jpg" group-title="TFC MOVIES ",Finding You
+https://absvod.akamaized.net/c/2/m/9fe9b91e-d987-11eb-834b-98ba2c84fa97.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=90a5e7c27af311eb8a45ce3d408284f3:7baa117dfad1d887300a9b5e910f9a8a
+#EXTINF:-1 tvg-id="iwantmov47" tvg-name="First Love" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6QbMLK9ccbRbjrk8y6cOZymTR6j.jpg" group-title="TFC MOVIES ",First Love
+https://absvod.akamaized.net/c/2/m/90a5e7c2-7af3-11eb-8a45-ce3d408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0614ce74872911eb9b0a604f408284f3:fbb9f1560db0cd07ade8529ea741b49c
+#EXTINF:-1 tvg-id="iwantmov48" tvg-name="For The First Time" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1uPmJfXTcNDdMiaiEBQ9CTKtLtI.jpg" group-title="TFC MOVIES ",For The First Time
+https://absvod.akamaized.net/c/2/m/0614ce74-8729-11eb-9b0a-604f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4581ac5e835411eba2297f9f408284f3:da2c669d16c6814fb6b43ddbb1629a6b
+#EXTINF:-1 tvg-id="iwantmov49" tvg-name="Forever and A Day" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/shl64PAucXlE3FZSbj5JGu1lSjY.jpg" group-title="TFC MOVIES ",Forever and A Day
+https://absvod.akamaized.net/c/2/m/4581ac5e-8354-11eb-a229-7f9f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=440be7d88c8011eba13a6e77408284f3:300c53a82b540af7a4495b7950ec0c33
+#EXTINF:-1 tvg-id="iwantmov50" tvg-name="Forevermore (2002)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/85gXFLYi1UL1VKPOVfBlkzlrwnp.jpg" group-title="TFC MOVIES ",Forevermore (2002)
+https://absvod.akamaized.net/c/2/m/440be7d8-8c80-11eb-a13a-6e77408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeee1b1a80f211eb936b6c36408284f3:dd64464f69cdc5872c164a9b6975085a
+#EXTINF:-1 tvg-id="iwantmov51" tvg-name="Four Sisters and A Wedding" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yQgPveLenFJlA7jzmK0UuO59uVJ.jpg" group-title="TFC MOVIES ",Four Sisters and A Wedding
+https://absvod.akamaized.net/c/2/m/eeee1b1a-80f2-11eb-936b-6c36408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8786a69281bd11ebac7a35a1408284f3:e98e396cddffd3fd6804b272ea1df665
+#EXTINF:-1 tvg-id="iwantmov52" tvg-name="Glorious (Director's Cut)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6b3fp8hRvz5BMo9U5ayAwtDyZPs.jpg" group-title="TFC MOVIES ",Glorious (Director's Cut)
+https://absvod.akamaized.net/c/2/m/8786a692-81bd-11eb-ac7a-35a1408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=268e7b3289b811eb83b9ce34408284f3:f19d0fc07fffe0f02d331a90fcc6a264
+#EXTINF:-1 tvg-id="iwantmov53" tvg-name="Love Me Again" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uOXFtMECh9OfdYfzfWh0YhUUkQc.jpg" group-title="TFC MOVIES ",Love Me Again
+https://absvod.akamaized.net/c/2/m/268e7b32-89b8-11eb-83b9-ce34408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=298e4af08a1811eb9f88a698408284f3:03890fa948e7125fef8b02b535d360e3
+#EXTINF:-1 tvg-id="iwantmov54" tvg-name="Milan" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3o0p8UtdbHxZIseaBsK8OwSy8og.jpg" group-title="TFC MOVIES ",Milan
+https://absvod.akamaized.net/c/2/m/298e4af0-8a18-11eb-9f88-a698408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eaec70ba826a11eba8d32895408284f3:ead5fd829c4814b2ffd6fd27ee359de8
+#EXTINF:-1 tvg-id="iwantmov55" tvg-name="My Amnesia Girl" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fUxmtjdnDHRk2fikN0xmdeMBlHy.jpg" group-title="TFC MOVIES ",My Amnesia Girl
+https://absvod.akamaized.net/c/2/m/eaec70ba-826a-11eb-a8d3-2895408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9888583880f911eb85c5f15d408284f3:f80a70e232e6be7de0651b05fdc82c9f
+#EXTINF:-1 tvg-id="iwantmov56" tvg-name="My Illegal Wife" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/c0U3tevS62tN15pDzUSRyuaTq9G.jpg" group-title="TFC MOVIES ",My Illegal Wife
+https://absvod.akamaized.net/c/2/m/98885838-80f9-11eb-85c5-f15d408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8992120284d611eb94dd5d64408284f3:1287c43893cdc7778efbebc4289b037d
+#EXTINF:-1 tvg-id="iwantmov57" tvg-name="Ngayong Nandito Ka" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dUfUdPniPUuS7YBOWuFAoXCKRAb.jpg" group-title="TFC MOVIES ",Ngayong Nandito Ka
+https://absvod.akamaized.net/c/2/m/89921202-84d6-11eb-94dd-5d64408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4cb659ea7dd511eb9fbea23b408284f3:2d40cc3e57810296e5ea3307902ed123
+#EXTINF:-1 tvg-id="iwantmov58" tvg-name="One More Try" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/udfJwyrTcvNfq3pdYFKg7G1jTnj.jpg" group-title="TFC MOVIES ",One More Try
+https://absvod.akamaized.net/c/2/m/4cb659ea-7dd5-11eb-9fbe-a23b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c17122e89bc11eb93934c2b408284f3:f90b9c21646375c664834729922a229f
+#EXTINF:-1 tvg-id="iwantmov59" tvg-name="Paano Na Kaya" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fvdDOu7afdtxqwb13bJvaFIZZ0F.jpg" group-title="TFC MOVIES ",Paano Na Kaya
+https://absvod.akamaized.net/c/2/m/5c17122e-89bc-11eb-9393-4c2b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c053ed4b5a711ec86d5ba9c6a45220a:415cd5c4a176a34f1b70cf1b7f394543
+#EXTINF:-1 tvg-id="iwantmov60" tvg-name="Throwback Today" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7nabvhQ4Td0pgwm0wiCo2MjkmLH.jpg" group-title="TFC MOVIES ",Throwback Today
+https://absvod.akamaized.net/c/2/m/4c053ed4-b5a7-11ec-86d5-ba9c6a45220a.ism/manifest.mpd
