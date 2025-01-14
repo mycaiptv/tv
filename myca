@@ -2,17 +2,17 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="pinoyxtream" tvg-name="PINOY XTREAM CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrRTc09f7Yupoxys9wIcgDqTceSOfL5hTbmw&s" group-title="⚽ SPORTS CHANNEL ", PINOY XTREAM CHANNEL
+#EXTINF:-1 tvg-id="pinoyxtream" tvg-name="PINOY XTREAM CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrRTc09f7Yupoxys9wIcgDqTceSOfL5hTbmw&s" group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽ ", PINOY XTREAM CHANNEL
 http://143.44.136.110:6910/001/2/ch00000090990000001098/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="solarsports" tvg-name="SOLAR SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkktO0zX8osAaHGsS_T67hz_oiPhY2UlNfjbBboOB6jjCeKZYChb4HBo&s=10" group-title="⚽ SPORTS CHANNEL ", SOLAR SPORTS
+#EXTINF:-1 tvg-id="solarsports" tvg-name="SOLAR SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkktO0zX8osAaHGsS_T67hz_oiPhY2UlNfjbBboOB6jjCeKZYChb4HBo&s=10" group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽ ", SOLAR SPORTS
 http://143.44.136.110:6910/001/2/ch00000090990000001081/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="slajunior" tvg-name="SLA JUNIOR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2_go1rMHTk-BkyyH6Hsl2z56K4Cb4nSisA&s" group-title="⚽ SPORTS CHANNEL ", SLA JUNIOR
+#EXTINF:-1 tvg-id="slajunior" tvg-name="SLA JUNIOR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2_go1rMHTk-BkyyH6Hsl2z56K4Cb4nSisA&s" group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽ ", SLA JUNIOR
 http://143.44.136.110:6910/001/2/ch00000090990000001324/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -184,7 +184,7 @@ https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/ind
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="celestialmovie" tvg-name="CELESTIAL MOVIE PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToIU7sM7fa62h-6q0nDURog-OAFubgFU-RUA&usqp=CAU" group-title="📡 CABLE MOVIES CHANNEL ",40. CELESTIAL MOVIES PINOY
+#EXTINF:-1 tvg-id="celestialmovie" tvg-name="CELESTIAL MOVIE PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToIU7sM7fa62h-6q0nDURog-OAFubgFU-RUA&usqp=CAU" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",40. CELESTIAL MOVIES PINOY
 http://143.44.136.113:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 EXTINF:0 CUID="8" tvg-name="06. KAPAMILYA CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKm2Lrh11LXGy-bF04OpzO3M4xMrbRigxnTzbIFP5gMYKsSmAkwZnw_wsu&s=10" group-title="🇵🇭 LOCAL CHANNEL",06. KAPAMILYA CHANNEL
@@ -248,14 +248,14 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
 #KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
 
-#EXTINF:0 CUID="46" tvg-name="35. PBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="📡 CABLE MOVIES CHANNEL ",35. PBO
+#EXTINF:0 CUID="46" tvg-name="35. PBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",35. PBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 
-#EXTINF:0 CUID="49" tvg-name="38. VIVA CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmd5zGBRqvti38-j3KbykP4ijE4mRbUrbrlA&usqp=CAU" group-title="📡 CABLE MOVIES CHANNEL ",38. VIVA CINEMA
+#EXTINF:0 CUID="49" tvg-name="38. VIVA CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmd5zGBRqvti38-j3KbykP4ijE4mRbUrbrlA&usqp=CAU" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",38. VIVA CINEMA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -263,7 +263,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 
 
-#EXTINF:0 CUID="52" tvg-name="41. TMC" tvg-logo="https://th.bing.com/th/id/OIP.Ff_fy8A05o_RZZIBvzhqkQAAAA?rs=1&pid=ImgDetMain" group-title="📡 CABLE MOVIES CHANNEL ",41. TMC
+#EXTINF:0 CUID="52" tvg-name="41. TMC" tvg-logo="https://th.bing.com/th/id/OIP.Ff_fy8A05o_RZZIBvzhqkQAAAA?rs=1&pid=ImgDetMain" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",41. TMC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -272,15 +272,15 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbda230f9f7d779f429385b49c156ac7:44242e42ba3c3c36b13e5085b3937617
-#EXTINF:4 tvg-id="HEART OF ASIA" provider="ZTest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Heart_of_Asia_logo.png" provider-logo="" provider-type="iptv" group-title="📡 CABLE MOVIES CHANNEL ", 39. HEART OF ASIA
+#EXTINF:4 tvg-id="HEART OF ASIA" provider="ZTest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Heart_of_Asia_logo.png" provider-logo="" provider-type="iptv" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 39. HEART OF ASIA
 https://cdn5.ganbaruby23.xyz/live_stream/live_manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e75f0360828d047b0fb7eb3fbe40ad3:c33bc1ba6b3b19aac1109461b9100f5f
-#EXTINF:5 tvg-id="I HEART MOVIES" provider="ZTest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png" provider-logo="" provider-type="iptv" group-title="📡 CABLE MOVIES CHANNEL ", 39. I HEART MOVIES
+#EXTINF:5 tvg-id="I HEART MOVIES" provider="ZTest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png" provider-logo="" provider-type="iptv" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 39. I HEART MOVIES
 https://cdn5.ganbaruby23.xyz/live_stream/iheartmovies/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScDTziy0eBPaVybCk5GTjsq5b1Ia9MLz7KEYgtqAd7N80Jtd42xhbjkuAX&s=10" group-title="📡 CABLE MOVIES CHANNEL ", 42. CELESTIAL MOVIES 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScDTziy0eBPaVybCk5GTjsq5b1Ia9MLz7KEYgtqAd7N80Jtd42xhbjkuAX&s=10" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 42. CELESTIAL MOVIES 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -288,82 +288,82 @@ https://cdn5.ganbaruby23.xyz/live_stream/iheartmovies/index.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
 
 
-#EXTINF:0 CUID="104" tvg-name="90. HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXoj8B44LUmJgtUZQ25kAwspLTPbWD1Znw&s" group-title="📡 CABLE MOVIES CHANNEL ", 42. HBO
+#EXTINF:0 CUID="104" tvg-name="90. HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXoj8B44LUmJgtUZQ25kAwspLTPbWD1Znw&s" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 42. HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="📡 CABLE MOVIES CHANNEL ", 42. HBO HITS
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 42. HBO HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
-#EXTINF:0 CUID="106" tvg-name="92. HBO FAMILY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WGZ6jLOdhRQskpcHJDuzID86qxwsmA9yug&s" group-title="📡 CABLE MOVIES CHANNEL ", 42. HBO FAMILY
+#EXTINF:0 CUID="106" tvg-name="92. HBO FAMILY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WGZ6jLOdhRQskpcHJDuzID86qxwsmA9yug&s" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 42. HBO FAMILY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 
-#EXTINF:0 CUID="107" tvg-name="93. HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png" group-title="📡 CABLE MOVIES CHANNEL ", 42. HBO SIGNATURE
+#EXTINF:0 CUID="107" tvg-name="93. HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 42. HBO SIGNATURE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
-EXTINF:-1 tvg-id="Cinemax" ch-number="7" group-title="📡 CABLE MOVIES CHANNEL " tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122", 43. HITS MOVIES
+EXTINF:-1 tvg-id="Cinemax" ch-number="7" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ " tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122", 43. HITS MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default.mpd
 
 
-EXTINF:-1 tvg-id="SHOWCASE" ch-number="413" group-title="📡 CABLE MOVIES CHANNEL " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png", 43. SHOWCASE
+EXTINF:-1 tvg-id="SHOWCASE" ch-number="413" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png", 43. SHOWCASE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
 
-EXTINF:-1 tvg-id="BOO" ch-number="5" group-title="📡 CABLE MOVIES CHANNEL " tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg", 43. BOO
+EXTINF:-1 tvg-id="BOO" ch-number="5" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ " tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg", 43. BOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 
-EXTINF:0 CUID="117" tvg-name="103. CINEMAX" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="📡 CABLE MOVIES CHANNEL ", 42. CINEMAX 1
+EXTINF:0 CUID="117" tvg-name="103. CINEMAX" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 42. CINEMAX 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
 
-EXTINF:0 CUID="118" tvg-name="104. WARNER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="📡 CABLE MOVIES CHANNEL ", 42.1 WARNER TV
+EXTINF:0 CUID="118" tvg-name="104. WARNER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 42.1 WARNER TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 
-EXTINF:-1 tvg-id="tvNMovies" ch-number="416" group-title="📡 CABLE MOVIES CHANNEL " tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png", 43.2 TVN MOVIES HD
+EXTINF:-1 tvg-id="tvNMovies" ch-number="416" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ " tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png", 43.2 TVN MOVIES HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 
-#EXTINF:-1 tvg-id="Cg.Tvnmovie.ph" group-title="📡 CABLE MOVIES CHANNEL " ch-number = "" tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwp-XMYX2wwSF3-wxsleY--sAI6DTiQgCfGT6yuCnzRBx2CYvv2V7aFZ3a&s=10", 37. TVN MOVIES PINOY
+#EXTINF:-1 tvg-id="Cg.Tvnmovie.ph" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ " ch-number = "" tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwp-XMYX2wwSF3-wxsleY--sAI6DTiQgCfGT6yuCnzRBx2CYvv2V7aFZ3a&s=10", 37. TVN MOVIES PINOY
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 
 
-#EXTINF:0 CUID="119" tvg-name="109. ONESPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl1kRGM_pVwRFsJx7V-wqX1-tOPumD_2mWSg&s"  group-title="⚽ SPORTS CHANNEL ", 109. ONE SPORTS 
+#EXTINF:0 CUID="119" tvg-name="109. ONESPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl1kRGM_pVwRFsJx7V-wqX1-tOPumD_2mWSg&s"  group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽", 109. ONE SPORTS 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 
-#EXTINF:0 CUID="120" tvg-name="110. ONE SPORTS+ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEGmkbL_93-Bwjkz_hGzB7uVLppxzIWmtPnz6O9-v85w&s" group-title="⚽ SPORTS CHANNEL ",110. ONE SPORTS+ HD
+#EXTINF:0 CUID="120" tvg-name="110. ONE SPORTS+ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEGmkbL_93-Bwjkz_hGzB7uVLppxzIWmtPnz6O9-v85w&s" group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽ ",110. ONE SPORTS+ HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
-#EXTINF:0 CUID="121" tvg-name="111. UAAP VARSITY CH" tvg-logo="https://www.ateneo.edu/sites/default/files/styles/max_650x650/public/2022-10/UAAP_LOGO_ADU-01.png?itok=pPWkbsjI" group-title="⚽ SPORTS CHANNEL ",111. UAAP VARSITY CH
+#EXTINF:0 CUID="121" tvg-name="111. UAAP VARSITY CH" tvg-logo="https://www.ateneo.edu/sites/default/files/styles/max_650x650/public/2022-10/UAAP_LOGO_ADU-01.png?itok=pPWkbsjI" group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽ ",111. UAAP VARSITY CH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -371,7 +371,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 
 
-#EXTINF:0 CUID="122" tvg-name="112. PBA RUSH HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/PBA_Rush_logo.png/revision/latest?cb=20161115101642" group-title="⚽ SPORTS CHANNEL ",112. PBA RUSH HD
+#EXTINF:0 CUID="122" tvg-name="112. PBA RUSH HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/PBA_Rush_logo.png/revision/latest?cb=20161115101642" group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽ ",112. PBA RUSH HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -435,13 +435,13 @@ EXTINF:-1 tvg-id="CBeebies" group-title="🐥 KIDS CHANNEL" ch-number="620" tvg-
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default.mpd
 
 
-#EXTINF:-1 tvg-id="" ch-number="3" group-title="🏆 PPV | UFC" tvg-logo="", WWE NETWORK 
+#EXTINF:-1 tvg-id="" ch-number="3" group-title="🏆 PPV | UFC 🥊" tvg-logo="", WWE NETWORK 
 #KODIPROP:#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
-#EXTINF:0 CUID="348" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/s9NDZSK/nbatv.png" group-title="🏆 PPV | UFC",NBA TV
+#EXTINF:0 CUID="348" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/s9NDZSK/nbatv.png" group-title="🏆 PPV | UFC 🥊",NBA TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -450,7 +450,7 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsPGFMG64E0v86Nqm7DheefFbE3Nx1ZS4Aww&s" group-title="🏆 PPV | UFC", TNT SPORTS 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsPGFMG64E0v86Nqm7DheefFbE3Nx1ZS4Aww&s" group-title="🏆 PPV | UFC 🥊", TNT SPORTS 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -458,28 +458,28 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxM7W5sifY817bTaM9CPMZSYWu4NPGwZAsA&usqp=CAU" group-title="🏆 PPV | UFC", TNT SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxM7W5sifY817bTaM9CPMZSYWu4NPGwZAsA&usqp=CAU" group-title="🏆 PPV | UFC 🥊", TNT SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS4R1CjAeCjmAehJn4g7dzScZj5FwS7daoSQ&s" group-title="🏆 PPV | UFC", TNT SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS4R1CjAeCjmAehJn4g7dzScZj5FwS7daoSQ&s" group-title="🏆 PPV | UFC 🥊", TNT SPORTS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="🏆 PPV | UFC", TNT SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="🏆 PPV | UFC 🥊", TNT SPORTS 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJEsAfxkX3BaHIsP40KRI-qURsKK1OqootMHV6RjpvPghxiwbnAGF9cWhr&s=10" group-title="🏆 PPV | UFC", TNT SPORTS 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJEsAfxkX3BaHIsP40KRI-qURsKK1OqootMHV6RjpvPghxiwbnAGF9cWhr&s=10" group-title="🏆 PPV | UFC 🥊", TNT SPORTS 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -487,20 +487,20 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/o
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="FightNetwork" tvg-logo="https://i.ibb.co/YB4Z45g/fightnetwork.png" group-title="🏆 PPV | UFC", FIGHT NETWORK
+#EXTINF:-1 tvg-id="FightNetwork" tvg-logo="https://i.ibb.co/YB4Z45g/fightnetwork.png" group-title="🏆 PPV | UFC 🥊", FIGHT NETWORK
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
-EXTINF:-1 tvg-id="The Golf Channel HDTV" tvg-name="NBC GOLF" tvg-logo="https://i.ibb.co/Rykhd2s/nbcgolf.png" group-title="⚽ SPORTS CHANNEL " , NBC GOLF CHANNEL
+EXTINF:-1 tvg-id="The Golf Channel HDTV" tvg-name="NBC GOLF" tvg-logo="https://i.ibb.co/Rykhd2s/nbcgolf.png" group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽ " , NBC GOLF CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5c9203447ab38c5bf5b407cdd9de5e8:501464dfa2ac437098c35e1c4f16bb6b
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pf4SxjC/knbc.png" group-title="⚽ SPORTS CHANNEL " , NBC4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pf4SxjC/knbc.png" group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽ " , NBC4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
-#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co/T4dqdwR/nbcsp.png" group-title="⚽ SPORTS CHANNEL " , NBC SPORTS
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co/T4dqdwR/nbcsp.png" group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽ " , NBC SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -509,14 +509,14 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj7RC3hXmka4HFxv8dnyplxYwborqhpVpHA&usqp=CAU" group-title="🏆 PPV | UFC", SSC1
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj7RC3hXmka4HFxv8dnyplxYwborqhpVpHA&usqp=CAU" group-title="🏆 PPV | UFC 🥊", SSC1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj7RC3hXmka4HFxv8dnyplxYwborqhpVpHA&usqp=CAU" group-title="🏆 PPV | UFC", SSC2
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj7RC3hXmka4HFxv8dnyplxYwborqhpVpHA&usqp=CAU" group-title="🏆 PPV | UFC 🥊", SSC2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -524,7 +524,7 @@ https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.
 https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj7RC3hXmka4HFxv8dnyplxYwborqhpVpHA&usqp=CAU" group-title="🏆 PPV | UFC", SSC3
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj7RC3hXmka4HFxv8dnyplxYwborqhpVpHA&usqp=CAU" group-title="🏆 PPV | UFC 🥊", SSC3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -532,7 +532,7 @@ https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.
 https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj7RC3hXmka4HFxv8dnyplxYwborqhpVpHA&usqp=CAU" group-title="🏆 PPV | UFC", SSC4
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj7RC3hXmka4HFxv8dnyplxYwborqhpVpHA&usqp=CAU" group-title="🏆 PPV | UFC 🥊", SSC4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -540,14 +540,14 @@ https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.
 https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj7RC3hXmka4HFxv8dnyplxYwborqhpVpHA&usqp=CAU" group-title="🏆 PPV | UFC", SSC5
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj7RC3hXmka4HFxv8dnyplxYwborqhpVpHA&usqp=CAU" group-title="🏆 PPV | UFC 🥊", SSC5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
 https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS CHANNEL " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMLnQ1wzZf64E0Yuwkr7QWGMaVnjzmTn1BA&s", 112. NBA TV PHILIPPINES 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽ " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMLnQ1wzZf64E0Yuwkr7QWGMaVnjzmTn1BA&s", 112. NBA TV PHILIPPINES 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -555,7 +555,7 @@ https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 
 
-#EXTINF:-1 group-title="🏆 PPV | UFC" tvg-logo="https://tv.assets.pressassociation.io/08d5adde-34fa-50ce-94d1-58bdf387d054.png", Eurosport
+#EXTINF:-1 group-title="🏆 PPV | UFC 🥊" tvg-logo="https://tv.assets.pressassociation.io/08d5adde-34fa-50ce-94d1-58bdf387d054.png", Eurosport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
