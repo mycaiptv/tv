@@ -2,17 +2,17 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="pinoyxtream" tvg-name="PINOY XTREAM CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrRTc09f7Yupoxys9wIcgDqTceSOfL5hTbmw&s" group-title="SPORTS", PINOY XTREAM CHANNEL
+#EXTINF:-1 tvg-id="pinoyxtream" tvg-name="PINOY XTREAM CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrRTc09f7Yupoxys9wIcgDqTceSOfL5hTbmw&s" group-title="4. SPORTS", PINOY XTREAM CHANNEL
 http://143.44.136.110:6910/001/2/ch00000090990000001098/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="solarsports" tvg-name="SOLAR SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkktO0zX8osAaHGsS_T67hz_oiPhY2UlNfjbBboOB6jjCeKZYChb4HBo&s=10" group-title="SPORTS", SOLAR SPORTS
+#EXTINF:-1 tvg-id="solarsports" tvg-name="SOLAR SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkktO0zX8osAaHGsS_T67hz_oiPhY2UlNfjbBboOB6jjCeKZYChb4HBo&s=10" group-title="4. SPORTS", SOLAR SPORTS
 http://143.44.136.110:6910/001/2/ch00000090990000001081/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="slajunior" tvg-name="SLA JUNIOR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2_go1rMHTk-BkyyH6Hsl2z56K4Cb4nSisA&s" group-title="SPORTS", SLA JUNIOR
+#EXTINF:-1 tvg-id="slajunior" tvg-name="SLA JUNIOR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2_go1rMHTk-BkyyH6Hsl2z56K4Cb4nSisA&s" group-title="4. SPORTS", SLA JUNIOR
 http://143.44.136.110:6910/001/2/ch00000090990000001324/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
