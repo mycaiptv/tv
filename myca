@@ -2427,6 +2427,377 @@ https://vivamax.secureswiftcontent.com/video/T96917_FF_LM_DEATH%20OF%20A%20GIRLF
 #EXTINF:-1 tvg-id="vivamax-0130" tvg-name="Nerisa" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jbNrzkypJxeWWd27FVtvXUmWV7A.jpg" group-title="VIVAMAX",Nerisa
 https://d1qfpvemzhsbpm.cloudfront.net/video/T97313_FF_LM_NERISA/dash/hd.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4300fbce3ce3193ce5cc03af0988f595:f9f1bfd9678f11b0efda77aa70308084
+#EXTINF:-1 tvg-id="vivaonemirano7" tvg-name="Miracle in Cell No. 7" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4FPlIQWRUSVEpuda19izUDO2GKr.jpg" group-title="VIVAONE MOVIES TAGALOG",Miracle in Cell No. 7
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00173_FF_LM_MIRACLE%20IN%20CELL%20NO%207/dash/hd.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f96256ee482bc981bd92a438be6f8354:01e20952b7b9d1896977811100d6cbd1
+#EXTINF:-1 tvg-id="vivaone001" tvg-name="Operation Balikatan" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3izTTR492CGqSLTeDGgZMNDwHjZ.jpg" group-title="VIVAONE MOVIES TAGALOG",Operation Balikatan
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98738_FF_LM_OPERATION%20BALIKATAN/dash/hd.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6bb4be987f97aa433a20c97117d719a6:4f24d453c6dcb2e5c9f1165d08bb98f1
+#EXTINF:-1 tvg-id="vivaone002" tvg-name="Matalino Man Ang Matsing Naiisahan Din!" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/doXFsntEBEMgU6GNQEUf8lo3Xpm.jpg" group-title="VIVAONE MOVIES TAGALOG",Matalino Man Ang Matsing Naiisahan Din!
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96439_FF_LM_MATALINO%20MAN%20ANG%20MATSING%20NAIISAHAN%20DIN/dash/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a1a4e5087711560a3ab4dc96f677104:f9e38a54bed8c6586f08e83b0c9a313b
+#EXTINF:-1 tvg-id="vivaone003" tvg-name="Bilib Ako Sa'yo" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bFfxFzppZe8wQ0MbjspSbHsj5PZ.jpg" group-title="VIVAONE MOVIES TAGALOG",Bilib Ako Sa'yo
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96447_FF_LM_BILIB%20AKO%20SA'YO/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=557ddcc66ae639de79508f7e0860ecf9:9aa345c6c7d3e405a2d11f12000112a5
+#EXTINF:-1 tvg-id="vivaone004" tvg-name="Ang Pagbabalik Ng Probinsyano" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/veJbvGQPQmUsFM0gAjwL9JdqBEn.jpg" group-title="VIVAONE MOVIES TAGALOG",Ang Pagbabalik Ng Probinsyano
+https://vivamax.secureswiftcontent.com/video/T96420_FF_LM_ANG%20PAGBABALIK%20NG%20PROBINSYANO/dash/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=52371101a3cad0acc9a939d86fdbfaaa:fbd0875623a1aa8bba28734fc08183d6
+#EXTINF:-1 tvg-id="vivaone005" tvg-name="Kasangga... Kahit Kailan" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fPPbxH6QyRYENBwUyog6PkImobI.jpg" group-title="VIVAONE MOVIES TAGALOG",Kasangga... Kahit Kailan
+https://d1qfpvemzhsbpm.cloudfront.net/video/T97602_FF_LM_KASANGGA%20KAHIT%20KELAN/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e1ea41f36b77560df8a5f473b965d32:033c365b8e533e1da306b6e27582a921
+#EXTINF:-1 tvg-id="vivamax006" tvg-name="Kapag wala nang batas" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hMwabNNlFTdER87q1j5lupSHEEY.jpg" group-title="VIVAONE MOVIES TAGALOG",Kapag wala nang batas
+https://d1qfpvemzhsbpm.cloudfront.net/video/T99631_FF_LM_KAPAG%20WALA%20NANG%20BATAS/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e589dc69b78c162e9926d58c756d1919:1a03d111870b97ed56021250f4bdf835
+#EXTINF:-1 tvg-id="vivamax007" tvg-name="Deception" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gKBguSx4546zenAOOYCc0VnOd0B.jpg" group-title="VIVAONE MOVIES TAGALOG",Deception
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01955_FF_LM_DECEPTION/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0614a88365aa1ca6caa052e48b4a2bb:7287c497b8d32973fbe453e4c5d2db54
+#EXTINF:-1 tvg-id="vivamax008" tvg-name="Adarna Gang" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7YHH7ol7GIG89tw0TkGy0y7gwD5.jpg" group-title="VIVAONE MOVIES TAGALOG",Adarna Gang
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01514_FF_LM_ADARNA%20GANG/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e49178d367ed254304e1146eda9aaf7:2b5a28f569aab97f7af3de6807418cf2
+#EXTINF:-1 tvg-id="vivamax009" tvg-name="Bobby Barbers: Parak" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/reVNiuGg56xlLxpwkfiBhdb4dnr.jpg" group-title="VIVAONE MOVIES TAGALOG",Bobby Barbers: Parak
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96012_FF_LM_BOBBYBARBERS/dash/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=505043ac9501b36ffcaca5dd24711dfe:5fbf7062095996fdd3df915dd86df24c
+#EXTINF:-1 tvg-id="vivamax010" tvg-name="Boy Buluran" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1720XNKsJMcSzav5F4ZC07qV0yp.jpg" group-title="VIVAONE MOVIES TAGALOG",Boy Buluran
+https://vivamax.secureswiftcontent.com/video/T98042_FF_LM_BOY%20BULURAN%20HEAD%20HUNTER%20NG%20MAYNILA/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f1858a58276bad72a69a2843fa5c45a:cf8280e16179813ccf9d76cf9daae6c4
+#EXTINF:-1 tvg-id="vivamax011" tvg-name="Duplikado" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jCmhchxtrTOB1Kj2JhirgpYM0tG.jpg" group-title="VIVAONE MOVIES TAGALOG",Duplikado
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98562_FF_LM_DUPLIKADO/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f9bc7ff478888381281c04fda8530a7:efe2cee0229c9a6bb3ad66051dd464cf
+#EXTINF:-1 tvg-id="vivamax012" tvg-name="Habang Nasasaktan Lalong Tumatapang" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/A3srdC0tufAnBK32bnZfDkZn6XB.jpg" group-title="VIVAONE MOVIES TAGALOG",Habang Nasasaktan Lalong Tumatapang
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98799_FF_LM_HABANG%20NASASAKTAN%20LALONG%20TUMATAPANG/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fe2f2038954a7b2fb15c893edc3e357:34d73f7491ff0e5f2f7b4719791fde7a
+#EXTINF:-1 tvg-id="vivamax013" tvg-name="Wala Nang Iibigin Pang Iba" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7dSLkQjkbhWzzSd2qEw4kWsTLMG.jpg" group-title="VIVAONE MOVIES TAGALOG",Wala Nang Iibigin Pang Iba
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96021_FF_LM_WALA%20NANG%20IIBIGIN%20PANG%20IBA/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=121d7070c2b7b688b3f3f9be6c85f05e:3b90a694cdd0f8d01f5fec1e6168081b
+#EXTINF:-1 tvg-id="vivamax014" tvg-name="Ang Probinsyano" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/heIvfal03FOF1C8nJ534e4cBhJw.jpg" group-title="VIVAONE MOVIES TAGALOG",Ang Probinsyano
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96000_FF_LM_ANGPROBINSYANO/dash/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9e0180a19505c1b98118d4a60cd4f51:5d1c39e3ce12bfd868d8756c3be11ef8
+#EXTINF:-1 tvg-id="vivamax015" tvg-name="Cara y Cruz: Walang Sinasanto!" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rEJ819N2XgY5U6Sj0YeWPL8H18U.jpg" group-title="VIVAONE MOVIES TAGALOG",Cara y Cruz: Walang Sinasanto!
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96004_FF_LM_CARAYCRUZ/dash/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9fa33d79e603b3ef0f341e1f96e68a1:969cce35cc77b3820f7710c59d65942f
+#EXTINF:-1 tvg-id="vivamax016" tvg-name="Hawak Ko Buhay Mo" tvg-logo="https://i.imgur.com/DRcP354.jpg" group-title="VIVAONE MOVIES TAGALOG",Hawak Ko Buhay Mo
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96438_FF_LM_HAWAK%20KO%20BUHAY%20MO/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d4fae91b506622386a6ac8ecd533352:4394ac162cd0212d4bd0dd18e1ad5bf8
+#EXTINF:-1 tvg-id="vivamax017" tvg-name="Mumbaki" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gddJC4brkhxH86QJvjwgZE3vndv.jpg" group-title="VIVAONE MOVIES TAGALOG",Mumbaki
+https://d1qfpvemzhsbpm.cloudfront.net/video/T97929_FF_LM_MUMBAKI/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e1596b1cf92ad42e935cd836718d31e:f83f45954ee29e7f7132b8e8bf5cc49f
+#EXTINF:-1 tvg-id="vivamax018" tvg-name="Papunta Ka Pa Lang, Pabalik Na Ako" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3xEUnEu6EzYvkepyKEJQBLKMpbR.jpg" group-title="VIVAONE MOVIES TAGALOG",Papunta Ka Pa Lang, Pabalik Na Ako
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96009_FF_LM_PAPUNTAKAPALANGPABALIKNAAKO/dash/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd6d2784513bdcecbb61bc7035c9a79f:3ad68404fc00ec8bbcd44859033e0718
+#EXTINF:-1 tvg-id="vivamax019" tvg-name="SPO4 Santiago: Sharpshooter" tvg-logo="https://i.imgur.com/5P0raAK.jpg" group-title="VIVAONE MOVIES TAGALOG",SPO4 Santiago: Sharpshooter
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96423_FF_LM_SPO4%20SANTIAGO%20SHARPSHOOTER/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b0241c22e410fe09ae26e2cfbeab33f2:e1fd7d7ffe77d374736a292aad4dad99
+#EXTINF:-1 tvg-id="vivamax020" tvg-name="Iligpit si Bobby Ortega" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4UadI8eUCHI2UDe0aELlpolXLma.jpg" group-title="VIVAONE MOVIES TAGALOG",Iligpit si Bobby Ortega
+https://cdnbp.vivamax.net/video/T98189_FF_LM_ILIGPIT%20SI%20BOBBY%20ORTEGA%20MARKANG%20BUNGO%202/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=50562f5dc6bfd7287ede7ea2ebd9b71b:10f894cb09b48ab263e37488feabcecf
+#EXTINF:-1 tvg-id="vivamax021" tvg-name="Kapitan Tumba" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xU2B87PI59PyfyCR1jzWSt3TemO.jpg" group-title="VIVAONE MOVIES TAGALOG",Kapitan Tumba
+https://d1qfpvemzhsbpm.cloudfront.net/video/T99753_FF_LM_KAPITAN%20TUMBA/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd6f9bbaaae4505a8174dac5e7f1a82b:33e058a1ae39b1b0549b1f4433b51d93
+#EXTINF:-1 tvg-id="vivamax022" tvg-name="Manalo, Matalo, Mahal Kita" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1lDLDG8FbjATNy1EmALfCxXamZq.jpg" group-title="VIVAONE MOVIES TAGALOG",Manalo, Matalo, Mahal Kita
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96016_FF_LM_MANALOMATALO/dash/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8dd756a4ca3c12bd688bbd25633fece:cef39a552976bdd4ed02c0aad92a7b48
+#EXTINF:-1 tvg-id="vivamax023" tvg-name="P're Hanggang Sa Huli" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/j9bPMA0otichvvn0JdHGyXlssRJ.jpg" group-title="VIVAONE MOVIES TAGALOG",P're Hanggang Sa Huli
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98295_FF_LM_P'RE%20HANGGANG%20SA%20HULI/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5218014d7851468144386741a4b1ec42:586849b9d93852b76f2247c07367d93d
+#EXTINF:-1 tvg-id="vivamax024" tvg-name="Col. Billy Bibit, RAM" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ffa4YU9j6YSQd84YKQ6lu7nD2jo.jpg" group-title="VIVAONE MOVIES TAGALOG",Col. Billy Bibit, RAM
+https://d1qfpvemzhsbpm.cloudfront.net/video/T99754_FF_LM_COL%20BILLY%20BIBIT,%20RAM/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=57225e098607867b8adc75edad08715c:32f0031a41e79ab1fc15f61b51dcbefa
+#EXTINF:-1 tvg-id="vivamax025" tvg-name="Epimachus Velasco: NBI" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nI3EeezTqr4HHn6apXuAUxur2RF.jpg" group-title="VIVAONE MOVIES TAGALOG",Epimachus Velasco: NBI
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96408_FF_LM_EPIMACO%20VELASCO%20NBI/dash/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=94a08cb96ff058c3a8a890d1ba05c0dc:d593c22289f45b6290f9a9460ac637f7
+#EXTINF:-1 tvg-id="vivamax026" tvg-name="Hindi pa Tapos ang Laban" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gB4T2wPMcX618KlOqQu63fk2q71.jpg" group-title="VIVAONE MOVIES TAGALOG",Hindi pa Tapos ang Laban
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96437_FF_LM_HINDI%20PA%20TAPOS%20ANG%20LABAN/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95d6ab72b4e5241ef05f880612b24d92:f0ca98b1bb1bca9cfc45939391fd4583
+#EXTINF:-1 tvg-id="vivamax027" tvg-name="Marami Ka Pang Kakaining Bigas" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pbltNSJoMXTJycA2HLe76rgEXOj.jpg" group-title="VIVAONE MOVIES TAGALOG",Marami Ka Pang Kakaining Bigas
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98121_FF_LM_MARAMI%20KA%20PANG%20KAKAINING%20BIGAS/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=339661c752e96178b1d745c443731a99:8b9fccbd71ae017d4813865f03057077
+#EXTINF:-1 tvg-id="vivamax028" tvg-name="Oo Na, Sige Na" tvg-logo="https://i.imgur.com/8gaqSf1.jpg" group-title="VIVAONE MOVIES TAGALOG",Oo Na, Sige Na
+https://vivamax.secureswiftcontent.com/video/T98450_FF_LM_OO%20NA,%20SIGE%20NA%20MATIGIL%20KA%20LANG!/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=512deeafde381050941561a126860d4a:bb1086c8b01498a5ff21660c0a74b355
+#EXTINF:-1 tvg-id="vivamax029" tvg-name="Di na Natuto (Sorry na, Puwede ba?)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qyc60gRsS0ruwTYOsKCbm1P9n4P.jpg" group-title="VIVAONE MOVIES TAGALOG",Di na Natuto (Sorry na, Puwede ba?)
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96415_FF_LM_DI%20NA%20NATUTO,%20SORRY%20NA%20PWEDE%20BA/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ae96bd2920bc60c1d2b76ce755d3258:3d3a76f05b607c6e8cd5080ed47bfa90
+#EXTINF:-1 tvg-id="vivamax030" tvg-name="Talahib at Rosas" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/p5AGbLurch6x6rS1gVOvQnmbbnU.jpg" group-title="VIVAONE MOVIES TAGALOG",Talahib at Rosas
+https://d1qfpvemzhsbpm.cloudfront.net/video/T97846_FF_LM_TALAHIB%20AT%20ROSAS/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=635309183de81d244ee397043728da8e:3e85ff4720965250d8be044e27e79554
+#EXTINF:-1 tvg-id="vivamax031" tvg-name="Ultimatum" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4YDxBvAwpk8AtXKJTBFCXsfJ9oV.jpg" group-title="VIVAONE MOVIES TAGALOG",Ultimatum
+https://vivamax.secureswiftcontent.com/video/T99579_FF_LM_ULTIMATUM/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cac17fe9ff192d9826a497d77e80d8b3:680762f653ca2ff72d7a01c6045c8dbc
+#EXTINF:-1 tvg-id="vivamax032" tvg-name="Astig" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sRCfw9SzCDKJrfpjfikeOijdNER.jpg" group-title="VIVAONE MOVIES TAGALOG",Astig
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98692_FF_LM_ASTIG/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d72dbc8eab002ddebf71867be0c0065:193a8477230fa8b2f051330398ce1ce1
+#EXTINF:-1 tvg-id="vivamax033" tvg-name="Kahit Ako'y Busabos" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gHmPXmfXKMYZCGFz1HM49k9cBqF.jpg" group-title="VIVAONE MOVIES TAGALOG",Kahit Ako'y Busabos
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96006_FF_LM_KAHITAKOYBUSABOS/dash/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a71865ef0ebe98580cfeac69823fb65:1d910d285da17eb9f2c529681e118ac8
+#EXTINF:-1 tvg-id="vivamax034" tvg-name="Kung Kailangan Mo Ako" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9vdJCU35u3x6iX6Cnne33EOqdio.jpg" group-title="VIVAONE MOVIES TAGALOG",Kung Kailangan Mo Ako
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96912_FF_LM_KUNG%20KAILANGAN%20MO%20AKO/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f0863293b4a88d157b15b887d93769:1fe605c76f59821b773619062becf289
+#EXTINF:-1 tvg-id="vivamax035" tvg-name="Makuha Ka sa Tingin" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/f0xl37XqIGwsD53Q9S7GSfVGvFv.jpg" group-title="VIVAONE MOVIES TAGALOG",Makuha Ka sa Tingin
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98412_FF_LM_MAKUHA%20KA%20SA%20TINGIN/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=77a9feaab5dcc350e7379ca776c31dde:2fdc7ef4ab3ebfec108ab27256efcacd
+#EXTINF:-1 tvg-id="vivamax036" tvg-name="Pusoy Dos" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8d9DkEy3kfQ6dEyI2Zc4PnHNuMd.jpg" group-title="VIVAONE MOVIES TAGALOG",Pusoy Dos
+https://d1qfpvemzhsbpm.cloudfront.net/video/T97986_FF_LM_PUSOY%20DOS/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd4ff36febbace931c90bae6f27e41ae:17e32c5ed8b0db6e974e78dc4b4b9603
+#EXTINF:-1 tvg-id="vivamax037" tvg-name="Sala Sa Init Sala Sa Lamig" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1F6QWn6gznY8PDqVVgJYPsfKnuH.jpg" group-title="VIVAONE MOVIES TAGALOG",Sala Sa Init Sala Sa Lamig
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98795_FF_LM_SALA%20SA%20INIT,%20SALA%20SA%20LAMIG/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2b0a9d6e372e0d875af184cdc8062fa:354025113b16df2c8829ca106d392518
+#EXTINF:-1 tvg-id="vivamax038" tvg-name="Andres Manambit" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yl4D3Jwx3rTYFi0zwx9L81qOx27.jpg" group-title="VIVAONE MOVIES TAGALOG",Andres Manambit
+https://d1qfpvemzhsbpm.cloudfront.net/video/T97925_FF_LM_ANDRES%20MANAMBIT%20ANGKAN%20NG%20MATATAPANG/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=24f5e1939a99c5bba70084f561a8d4e1:60611bc9ace6f2ed12fc73010255152f
+#EXTINF:-1 tvg-id="vivamax039" tvg-name="Ang Utol Kong Hoodlum" tvg-logo="https://i.imgur.com/5Jll1DO.jpg" group-title="VIVAONE MOVIES TAGALOG",Ang Utol Kong Hoodlum
+https://vivamax.secureswiftcontent.com/video/T96709_FF_LM_ANG%20UTOL%20KONG%20HOODLUM/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=584efc944314e2fe62bee1493aa9aa1a:d2eb1619a374fc88b82f9a35725242de
+#EXTINF:-1 tvg-id="vivamax040" tvg-name="Ang Utol Kong Hoodlum 2" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9DnuWfNhNDohJKgY3isZqfMttb4.jpg" group-title="VIVAONE MOVIES TAGALOG",Ang Utol Kong Hoodlum 2
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96710_FF_LM_ANG%20UTOL%20KONG%20HOODLUM%202%20MISS%20NA%20MISS%20KITA/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=adff7d69d9318a9e5a336a914cac0905:67d94ae153ba62ef1b75a7bf85d3aaec
+#EXTINF:-1 tvg-id="vivamax041" tvg-name="Jesus Dela Cruz - Batang Riles" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bRwvEyMA2nHGYi0ZbeTKBCmuPvU.jpg" group-title="VIVAONE MOVIES TAGALOG",Jesus Dela Cruz - Batang Riles
+https://d1qfpvemzhsbpm.cloudfront.net/video/T99633_FF_LM_JESUS%20DELA%20CRUZ%20AT%20ANG%20MGA%20BATANG%20RILES/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2224d50816d40bfbdf602059d3c41df2:d0d81726ba303d8b216744a00b188d3c
+#EXTINF:-1 tvg-id="vivamax042" tvg-name="Mandurugas" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hWfbYyEib126tUhdsREXGvmqBTP.jpg" group-title="VIVAONE MOVIES TAGALOG",Mandurugas
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98743_FF_LM_MANDURUGAS/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e66aa2d225a8c4a4f57fb7d20618ff7:f2b6a24398a73c8531d5e11e43f3372d
+#EXTINF:-1 tvg-id="vivamax043" tvg-name="Boyong MaÃ±alac" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5v0ytiHKwBZ3QlnVFtrv2Qxuznk.jpg" group-title="VIVAONE MOVIES TAGALOG",Boyong MaÃ±alac
+https://d1qfpvemzhsbpm.cloudfront.net/video/T97112_FF_LM_BOYONG%20MANALAC%20HOODLUM%20TERMINATOR/dash/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ec66228279ab382438d04c47558298b:e86f9c7d5accc6fdf273c50a7d6637e7
+#EXTINF:-1 tvg-id="vivamax044" tvg-name="Eagle Squad" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wwoyP3SE1GBLKAfsHHEIEb5oynw.jpg" group-title="VIVAONE MOVIES TAGALOG",Eagle Squad
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98480_FF_LM_EAGLE%20SQUAD/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=33e54000d71719a58d4f3b149f893657:dd0d58206324b791bbd8d0dd540c794e
+#EXTINF:-1 tvg-id="vivamax045" tvg-name="Afuang: Bounty Hunter" tvg-logo="https://i.imgur.com/9IZ6ACq.jpg" group-title="VIVAONE MOVIES TAGALOG",Afuang: Bounty Hunter
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98675_FF_LM_AFUANG%20BOUNTY%20HUNTER/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=067803944f1c03817972b0f86b9bbde0:08517cdc8b28bb619b1497ca2f39d8ae
+#EXTINF:-1 tvg-id="vivamax046" tvg-name="Gabi Na, Kumander" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/89mST0QemwbF5BWdUByfDhzaUNx.jpg" group-title="VIVAONE MOVIES TAGALOG",Gabi Na, Kumander
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96611_FF_LM_GABI%20NA,%20KUMANDER/dash/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc30a52778c9a1aa6fcdd870c43fd108:07aad44cb4a9e393a0b3da54aca1cd19
+#EXTINF:-1 tvg-id="vivamax047" tvg-name="Kamagong" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fwdEsRoPuty98XxzCLcWjIMth3N.jpg" group-title="VIVAONE MOVIES TAGALOG",Kamagong
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98769_FF_LM_KAMAGONG/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=01ec9ffcab69199ac8f1fa655eb20733:b183de4a84a8380c5e0044d87092be1b
+#EXTINF:-1 tvg-id="vivamax048" tvg-name="Buhay mo'y buhay ko rin" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/t9rWek8n6PE19L2fGTsvhTiuY2i.jpg" group-title="VIVAONE MOVIES TAGALOG",Buhay mo'y buhay ko rin
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96722_FF_LM_BUHAY%20MO'Y%20BUHAY%20KO%20RIN/dash/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=061dc97f1ebaf453d0e09a1513402e57:343013e42bda3dfcf866987674870287
+#EXTINF:-1 tvg-id="vivamax049" tvg-name="Simaron" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2m34YHc4208kZhWjOeRxJSgTn2b.jpg" group-title="VIVAONE MOVIES TAGALOG",Simaron
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98872_FF_LM_SIMARON%20BARYA%20LANG%20ANG%20HALAGA%20NG%20ULO%20MO/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=656e0830db32d33ec797c67770380401:44011a424c94d9151bc8d0e4677e6e59
+#EXTINF:-1 tvg-id="vivamax050" tvg-name="War Freak" tvg-logo="https://i.imgur.com/J8MrAhc.jpg" group-title="VIVAONE MOVIES TAGALOG",War Freak
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96023_FF_LM_WARFREAK/dash/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdd1ee357a7b8f7f5bf92f3ecb81d142:360743c2f2e22f7769f784280c53a89f
+#EXTINF:-1 tvg-id="vivamax051" tvg-name="Boy Chico: Ben Tumbling" tvg-logo="https://i.imgur.com/fxrJPiJ.png" group-title="VIVAONE MOVIES TAGALOG",Boy Chico: Ben Tumbling
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98006_FF_LM_BOY%20CHICO%20HULIHIN%20SI%20BEN%20TUMBLING/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a5143ba3f90e3a393c736ebce8cbaf4:497a705a3d1b29d6e40ba3705fe47a50
+#EXTINF:-1 tvg-id="vivamax052" tvg-name="Hinukay Ko Na Ang Libingan Mo" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hpTS87hV9xc4TtsTxwjX0yAPKEf.jpg" group-title="VIVAONE MOVIES TAGALOG",Hinukay Ko Na Ang Libingan Mo
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98393_FF_LM_HINUKAY%20KO%20NA%20ANG%20LIBINGAN%20MO/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab6ed5f20e3030f38b9006cb1f26e9d:c31ce5eb996025835551b89383eaa3f6
+#EXTINF:-1 tvg-id="vivamax053" tvg-name="Anak ni Baby Ama" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oGiDafENeZAKnx87ln7RmrDdnie.jpg" group-title="VIVAONE MOVIES TAGALOG",Anak ni Baby Ama
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96010_FF_LM_ANAKNIBABYAMA/dash/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fb0b686ef4d479e627acab55cc0377a:8001f2cd2c814c37428969414a85eb8b
+#EXTINF:-1 tvg-id="vivamax054" tvg-name="Mistah: Mga Mandirigma" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3J7NkkmYPO4K3ZKSeiCKNECrqgn.jpg" group-title="VIVAONE MOVIES TAGALOG",Mistah: Mga Mandirigma
+https://cdnbp.vivamax.net/video/T96800_FF_LM_MISTAH/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=659ee3cf7543ab3c84759729d830b0ca:9d06c094a0ffe89f71df3e00b462f8c1
+#EXTINF:-1 tvg-id="vivamax055" tvg-name="Huwag Mong Isuko Ang Laban" tvg-logo="https://i.imgur.com/lTYzVM1.png" group-title="VIVAONE MOVIES TAGALOG",Huwag Mong Isuko Ang Laban
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96416_FF_LM_HUWAG%20MONG%20ISUKO%20ANG%20LABAN/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bddabf550641250c814e55332760670:22170acbecbee73f03dcf31894e0e93d
+#EXTINF:-1 tvg-id="vivamax056" tvg-name="Eseng ng Tondo" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4ax0Be3muj5mrcrWQqQ4EZayeGe.jpg" group-title="VIVAONE MOVIES TAGALOG",Eseng ng Tondo
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96015_FF_LM_ESENGNGTONDO/dash/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=79c1142c9f883ee80c1f387e077ce310:d4d3d014741c606dbd2ae6fc2aee545e
+#EXTINF:-1 tvg-id="vivamax057" tvg-name="Anak ni Boy Negro" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/h0qkQQgBClKpuNqaUKGe6ZpSjDV.jpg" group-title="VIVAONE MOVIES TAGALOG",Anak ni Boy Negro
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96429_FF_LM_ANAK%20NI%20BOY%20NEGRO/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=586d5cb282e9d63deb0b191c647304b9:80405e18f6d58f88de20fe595cd5c1a6
+#EXTINF:-1 tvg-id="vivamax058" tvg-name="Wangbu" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jPfpXc9VscHrGt06oaCOpaA3dBr.jpg" group-title="VIVAONE MOVIES TAGALOG",Wangbu
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96022_FF_LM_WANGBU/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4cc906b05e889b4707cfec0512c5cdda:8ef675d191de46fac14faa90d1f36f1f
+#EXTINF:-1 tvg-id="vivamax059" tvg-name="Bilang Na ang Araw Mo" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gFQzCt8VkjAyDgrsxQ4cGV2OdXo.jpg" group-title="VIVAONE MOVIES TAGALOG",Bilang Na ang Araw Mo
+https://d1qfpvemzhsbpm.cloudfront.net/video/T97717_FF_LM_BILANG%20NA%20ANG%20ARAW%20MO/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ba2619796b3ed00b9d51591a4669de9:69f8437b291322c608ecc5821b72e7e0
+#EXTINF:-1 tvg-id="vivamax060" tvg-name="Ginto't Pilak" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/76WmbEye9w4afGya4EE9zK5yhwV.jpg" group-title="VIVAONE MOVIES TAGALOG",Ginto't Pilak
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96005_FF_LM_GINTOTPILAK/dash/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=52ee71c70353bcac494da75145c767df:695b925bb1fee7f76e5872003ce15dc3
+#EXTINF:-1 tvg-id="vivamax061" tvg-name="Masamang Damo" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ol22HGKOqkLAOkKtBddGOGx6EpP.jpg" group-title="VIVAONE MOVIES TAGALOG",Masamang Damo
+https://d1qfpvemzhsbpm.cloudfront.net/video/T97723_FF_LM_MASAMANG%20DAMO/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=87290e24ef2a12ae46b34c1355bec1ce:cc412917fe6573e47abbb5135a8c6868
+#EXTINF:-1 tvg-id="vivamax062" tvg-name="Mga Batang City Jail" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uzBsA37DmQVR79MiL1Zgje0E8cs.jpg" group-title="VIVAONE MOVIES TAGALOG",Mga Batang City Jail
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98387_FF_LM_MGA%20BATANG%20CITY%20JAIL/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5f97f6708cd20f4c651b2d40a25816b:385b7b6b01d127039bd940e4ea9b5afc
+#EXTINF:-1 tvg-id="vivamax063" tvg-name="Silakbo" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hDWBupPeG5N5UweQe95zmavlqa0.jpg" group-title="VIVAONE MOVIES TAGALOG",Silakbo
+https://vivamax.secureswiftcontent.com/video/T97922_FF_LM_SILAKBO/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dae40eaa407893d2ed4334bcc382f0ae:b3995cbd452086fe7e9c57edff5aec77
+#EXTINF:-1 tvg-id="vivamax064" tvg-name="Totoy Golem" tvg-logo="https://i.imgur.com/JW3WACx.png" group-title="VIVAONE MOVIES TAGALOG",Totoy Golem
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98400_FF_LM_TOTOY%20GOLEM/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5749021eca6d3b60e2296dd4a215ede:58e4f05df5078c2005ceafe3e6dc5593
+#EXTINF:-1 tvg-id="vivamax065" tvg-name="Markadong Hudas" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/Jhfhn0QLe7HOGmMClDVSWSlO1.jpg" group-title="VIVAONE MOVIES TAGALOG",Markadong Hudas
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98273_FF_LM_MARKADONG%20HUDAS/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d5e6c5bf8fd25e9be9e52e85040180a:85dc5401cd7b261156832002652c14a3
+#EXTINF:-1 tvg-id="vivamax066" tvg-name="Sa Diyos Lang Ako Susuko" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5G5Tm1ZHC9wmKyCG3NDOeD7Z3IK.jpg" group-title="VIVAONE MOVIES TAGALOG",Sa Diyos Lang Ako Susuko
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98618_FF_LM_SA%20DIYOS%20LANG%20AKO%20SUSUKO/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5efa492013d7a32c13f67f43049cea93:b793405468eda87f2a013c6c4ebcf9cc
+#EXTINF:-1 tvg-id="vivamax067" tvg-name="Ben Delubyo" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/honWOHWlu6b3oxYqgy0kWT5Q8br.jpg" group-title="VIVAONE MOVIES TAGALOG",Ben Delubyo
+https://vivamax.secureswiftcontent.com/video/T96002_FF_LM_BEN%20DELUBYO/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b28b9dc483477f294b6748526ea2b84:02d58618c5a0849a100592c529defbb3
+#EXTINF:-1 tvg-id="vivamax068" tvg-name="Magnong Rehas" tvg-logo="https://i.imgur.com/38ND98b.png" group-title="VIVAONE MOVIES TAGALOG",Magnong Rehas
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98742_FF_LM_MAGNONG%20REHAS/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=147a6f0770c8f46ab810bacd427df6dd:324f9f5accdbafebb373ea3b642f0be6
+#EXTINF:-1 tvg-id="vivamax069" tvg-name="Bullet" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aQsjbVawGw9Wd7WaaJ56RNH6Lui.jpg" group-title="VIVAONE MOVIES TAGALOG",Bullet
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96003_FF_LM_BULLET/dash/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d95acedd6a6cb7c8305c3da1519aca4:c444fbbc9dbe3f2b6dc4ff5e22ca66fd
+#EXTINF:-1 tvg-id="vivamax070" tvg-name="Rodolfo 'Boy' Fuentes" tvg-logo="https://i.imgur.com/5KQK7eK.png" group-title="VIVAONE MOVIES TAGALOG",Rodolfo 'Boy' Fuentes
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98927_FF_LM_RODOLFO%20'BOY'%20FUENTES%20LIBINGAN%20NG%20MGA%20BUHAY/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef16931a126f411551ab1ea39822d411:e28905bd66983cce3f4e9eb7399df908
+#EXTINF:-1 tvg-id="vivamax071" tvg-name="Mango Jose" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vvcqap2J7F3Aoik7OpE3577TnkV.jpg" group-title="VIVAONE MOVIES TAGALOG",Mango Jose
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00068_FF_LM_MANG%20JOSE/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e205377cc05e6658779158557a5fbd4b:12fad6fa9389fad2579ae7b638e38ccd
+#EXTINF:-1 tvg-id="vivamax072" tvg-name="Steal" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pYnviX3BFYLBFQYiT8EEKmu5KH8.jpg" group-title="VIVAONE MOVIES TAGALOG",Steal
+https://d1qfpvemzhsbpm.cloudfront.net/video/P02061_FF_LM_STEAL/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=43aaf6c36dbbb39e2de15eae1b188752:f0112fd557d6d8410cb820906ca07190
+#EXTINF:-1 tvg-id="vivamax073" tvg-name="MaÃ±anita" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/t3M2pcG7y4I483n9EZq7ReKmwu8.jpg" group-title="VIVAONE MOVIES TAGALOG",MaÃ±anita
+https://d1qfpvemzhsbpm.cloudfront.net/video/P01158_FF_LM_MAANITA/dash/hd.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a36b8e000690f62f9249446c35feaca:0cddc9536c9cb3b5549086c23b294bcf
+#EXTINF:-1 tvg-id="vivaonemix081" tvg-name="Revirginized" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5tEQhK0fJv1mKF7MuOc6tJ2Z8Eh.jpg" group-title="VIVAONE MOVIES TAGALOG",Revirginized
+https://d1qfpvemzhsbpm.cloudfront.net/video/P00160_FF_LM_REVIRGINIZED/dash/hd.mpd
 
