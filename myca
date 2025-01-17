@@ -1,69 +1,95 @@
 #EXTM3U
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="pinoyxtream" tvg-name="PINOY XTREAM CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrRTc09f7Yupoxys9wIcgDqTceSOfL5hTbmw&s" group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽ ", PINOY XTREAM CHANNEL
-http://143.44.136.110:6910/001/2/ch00000090990000001098/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
+http://xtream-ie.org/Mnbvcxza/Poiuytrewqa/1?.mpd?73589466528748628639627638647548659752453777989775534258687
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="solarsports" tvg-name="SOLAR SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkktO0zX8osAaHGsS_T67hz_oiPhY2UlNfjbBboOB6jjCeKZYChb4HBo&s=10" group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽ ", SOLAR SPORTS
-http://143.44.136.110:6910/001/2/ch00000090990000001081/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
+http://xtream-ie.org/Mnbvcxza/Poiuytrewqa/2?.mpd?73589466528748628639627638647548659752453777989775534258687
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="slajunior" tvg-name="SLA JUNIOR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2_go1rMHTk-BkyyH6Hsl2z56K4Cb4nSisA&s" group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽ ", SLA JUNIOR
-http://143.44.136.110:6910/001/2/ch00000090990000001324/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
+http://xtream-ie.org/Mnbvcxza/Poiuytrewqa/3?.mpd?73589466528748628639627638647548659752453777989775534258687
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a913faeecaac4813a55240bea0c68858:05b7d7eaba8d6410dbe234336d9b235a
 #EXTINF:-1 tvg-id="pilipinalive1" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #01" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE EVENT",🇵🇭 PILIPINAS LIVE EVENT #01
-https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi1.mpd
-
+http://xtream-ie.org/Mnbvcxza/Poiuytrewqa/4?.mpd?73589466528748628639627638647548659752453777989775534258687
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
 #EXTINF:-1 tvg-id="pilipinalive2" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #02" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE EVENT",🇵🇭 PILIPINAS LIVE EVENT #02
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_sdi2.mpd
-
+http://xtream-ie.org/Mnbvcxza/Poiuytrewqa/5?.mpd?73589466528748628639627638647548659752453777989775534258687
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c16d5962a22494db502b3453f891208:acaed175b981b34ae9b5cb0130506854
 #EXTINF:-1 tvg-id="pilipinalive3" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #03" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE EVENT",🇵🇭 PILIPINAS LIVE EVENT #03
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi3.mpd
-
+http://xtream-ie.org/Mnbvcxza/Poiuytrewqa/6?.mpd?73589466528748628639627638647548659752453777989775534258687
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3050cba95c945418efa3aedbc69cff7:988e7fade0828273472e24545d0cfa4c
 #EXTINF:-1 tvg-id="pilipinalive4" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #04" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE EVENT",🇵🇭 PILIPINAS LIVE EVENT #04
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/pl_sdi4.mpd
-
+http://xtream-ie.org/Mnbvcxza/Poiuytrewqa/7?.mpd?73589466528748628639627638647548659752453777989775534258687
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eecc6d7ac3df439fb2b73fb38007cb82:826c341a6fef4518cefd27ec85e8b274
 #EXTINF:-1 tvg-id="pilipinalive5" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #05" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE EVENT",🇵🇭 PILIPINAS LIVE EVENT #05
-https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi5.mpd
-
+http://xtream-ie.org/Mnbvcxza/Poiuytrewqa/8?.mpd?73589466528748628639627638647548659752453777989775534258687
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=02d5f086706e407e9343c040ac7fb5b8:9d7e088bf7fffc9297ab3a02f0ce9a72
 #EXTINF:-1 tvg-id="pilipinalive6" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #06" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE EVENT",🇵🇭 PILIPINAS LIVE EVENT #06
-https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi6.mpd
-
+http://xtream-ie.org/Mnbvcxza/Poiuytrewqa/9?.mpd?73589466528748628639627638647548659752453777989775534258687
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40bed7f7948e4e5792982cf5b7ee4d78:1fbfd2e3be51aae857f2f24306e5fc41
 #EXTINF:-1 tvg-id="pilipinalive7" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #07" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE EVENT",🇵🇭 PILIPINAS LIVE EVENT #07
-https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pl_sdi7.mpd
-
+http://xtream-ie.org/Mnbvcxza/Poiuytrewqa/10?.mpd?73589466528748628639627638647548659752453777989775534258687
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a8dbf3b9c2c43079a40fb5d0068f9ef:1778ac6e22527ee2efd6886d8d509c2d
 #EXTINF:-1 tvg-id="pilipinalive8" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #08" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE EVENT",🇵🇭 PILIPINAS LIVE EVENT #08
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/pl_sdi8.mpd
-
+http://xtream-ie.org/Mnbvcxza/Poiuytrewqa/11?.mpd?73589466528748628639627638647548659752453777989775534258687
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c7b9a2af9ad4076b155f06269b6adc2:ed6a8b11738cd27c0bee2d9e3fee178a
 #EXTINF:-1 tvg-id="pilipinalive9" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #09" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE EVENT",🇵🇭 PILIPINAS LIVE EVENT #09
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/pl_sdi9.mpd
-
+http://xtream-ie.org/Mnbvcxza/Poiuytrewqa/12?.mpd?73589466528748628639627638647548659752453777989775534258687
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
 #EXTINF:-1 tvg-id="pilipinalive10" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #10" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE EVENT",🇵🇭 PILIPINAS LIVE EVENT #10
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi10.mpd
+http://xtream-ie.org/Mnbvcxza/Poiuytrewqa/13?.mpd?73589466528748628639627638647548659752453777989775534258687
 
 #EXTINF:0 CUID="1" tvg-name="01. TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/2048px-TV5_%28Philippines%29_logo.svg.png" group-title="🇵🇭 LOCAL CHANNEL",01. TV5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -338,11 +364,17 @@ http://xtream-ie.org/Mnbvcxza/Poiuytrewqa/45?.mpd?735894665287486286396276386475
 #KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
 http://xtream-ie.org/Mnbvcxza/Poiuytrewqa/46?.mpd?73589466528748628639627638647548659752453777989775534258687
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbda230f9f7d779f429385b49c156ac7:44242e42ba3c3c36b13e5085b3937617
 #EXTINF:4 tvg-id="HEART OF ASIA" provider="ZTest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Heart_of_Asia_logo.png" provider-logo="" provider-type="iptv" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 39. HEART OF ASIA
 http://xtream-ie.org/Mnbvcxza/Poiuytrewqa/47?.mpd?73589466528748628639627638647548659752453777989775534258687
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e75f0360828d047b0fb7eb3fbe40ad3:c33bc1ba6b3b19aac1109461b9100f5f
 #EXTINF:5 tvg-id="I HEART MOVIES" provider="ZTest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png" provider-logo="" provider-type="iptv" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 39. I HEART MOVIES
