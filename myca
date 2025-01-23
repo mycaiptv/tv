@@ -752,143 +752,9 @@ https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
 #EXTINF:-1 tvg-id="timvision2" tvg-name="TIMVISION PROMO" tvg-logo="https://i.imgur.com/VSpN3d3.png" group-title="🇮🇹 MEDIASET TV",TIMVISION PROMO
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(timvisionpromo1)/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d12114e3ff64843bd8cfce1d6b896ec:dbdc162ebec8a3852cff84535bb3d38b
-#EXTINF:-1 tvg-id="tgcom24" tvg-name="TGCOM24 - (TIM)" tvg-logo="https://i.imgur.com/hXHRVAK.jpg" group-title="🇮🇹 MEDIASET TV",TGCOM24 - (TIM)
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(tgcom24)/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="rete4-1" tvg-name="RETE 4 - (Mediaset)" tvg-logo="https://i.imgur.com/mmjY61G.png" group-title="🇮🇹 MEDIASET TV",RETE 4 - (Mediaset)
-https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ce1cc7fd8b74699a73f9c6a56c8f0cb:2640daacb6bda03a23064856a33605da
-#EXTINF:-1 tvg-id="rete4-2" tvg-name="RETE 4 - (TIM)" tvg-logo="https://i.imgur.com/mmjY61G.png" group-title="🇮🇹 MEDIASET TV",RETE 4 - (TIM)
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(rete4)/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="rete4-hd" tvg-name="RETE 4 (Estero)" tvg-logo="https://i.imgur.com/mmjY61G.png" group-title="🇮🇹 MEDIASET TV",RETE 4 (Estero)
-https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
-#EXTINF:-1 tvg-id="canale5-1" tvg-name="CANALE 5 (Mediaset)" tvg-logo="https://i.imgur.com/BXnKHJD.png" group-title="🇮🇹 MEDIASET TV",CANALE 5 (Mediaset)
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=12623a792c9545fd8d6418bcdeb23915:8f21e45a16436ead68eba884d9f6c755
-#EXTINF:-1 tvg-id="canale5-2" tvg-name="CANALE 5 (TIM)" tvg-logo="https://i.imgur.com/BXnKHJD.png" group-title="🇮🇹 MEDIASET TV",CANALE 5 (TIM)
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(canale5)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="canale5-hd" tvg-name="CANALE 5 (Estero)" tvg-logo="https://i.imgur.com/BXnKHJD.png" group-title="🇮🇹 MEDIASET TV",CANALE 5 (Estero)
-https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
-#EXTINF:-1 tvg-id="italia1-1" tvg-name="ITALIA 1 (Mediaset)" tvg-logo="https://i.imgur.com/sU1jcGX.png" group-title="🇮🇹 MEDIASET TV",ITALIA 1 (Mediaset)
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b2ac62177a11407290722302e1e3a32c:51a4c173aa6cdf1f169b57602fee1c44
-#EXTINF:-1 tvg-id="italia1-2" tvg-name="ITALIA 1 (TIM)" tvg-logo="https://i.imgur.com/sU1jcGX.png" group-title="🇮🇹 MEDIASET TV",ITALIA 1 (TIM)
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(italia1)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="italia1-hd" tvg-name="ITALIA 1 (Estero)" tvg-logo="https://i.imgur.com/sU1jcGX.png" group-title="🇮🇹 MEDIASET TV",ITALIA 1 (Estero)
-https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
-
-#EXTINF:-1 tvg-id="focus1" tvg-name="FOCUS (Mediaset)" tvg-logo="https://i.imgur.com/914LT4s.png" group-title="🇮🇹 MEDIASET TV",FOCUS (Mediaset)
-https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=177e8ed7a9f74f62acb763cc4023d664:8a013c180a62f700c74838be0a03ac5c
-#EXTINF:-1 tvg-id="focus2" tvg-name="FOCUS (TIM)" tvg-logo="https://i.imgur.com/914LT4s.png" group-title="🇮🇹 MEDIASET TV",FOCUS (TIM)
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(focus)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="iris1" tvg-name="IRIS (Mediaset)" tvg-logo="https://www.dagospia.com/img/foto/05-2013/logo-iris-241282.jpg" group-title="🇮🇹 MEDIASET TV",IRIS (Mediaset)
-https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b0bdf055073a4e858b55abc038f87c7c:d13a4b8a8d377b628e79981bc01c4170
-#EXTINF:-1 tvg-id="iris2" tvg-name="IRIS (TIM)" tvg-logo="https://www.dagospia.com/img/foto/05-2013/logo-iris-241282.jpg" group-title="🇮🇹 MEDIASET TV",IRIS (TIM)
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(iris)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="la5ita1" tvg-name="La 5 HD (Mediaset) " tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/64/La5_Italy.svg/260px-La5_Italy.svg.png" group-title="🇮🇹 MEDIASET TV",La 5 HD (Mediaset) 
-https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca591544ca77429fb6f78c00127789ee:e5c983f21a58f00d54b5d7c1307ee450
-#EXTINF:-1 tvg-id="la5ita2" tvg-name="La 5 HD (TIM)" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/64/La5_Italy.svg/260px-La5_Italy.svg.png" group-title="🇮🇹 MEDIASET TV",La 5 HD (TIM)
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(la5)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:in
-2000
-putstream.adaptive.license_key=db057321c9224c25a7ccd75d911dd1fc:005b948eb397a581d10ff8bb60d19c93
-#EXTINF:-1 tvg-id="la7hd" tvg-name="LA7 HD (Mediaset)" tvg-logo="http://odmsto.com/uploads/tv_image/sm/la-7.png" group-title="🇮🇹 MEDIASET TV",LA7 HD (Mediaset)
-https://d15umi5iaezxgx.cloudfront.net/LA7/DRM/DASH/Live.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f2a760f12a341b684b24dd449064b0a:b440641ffceadf6cec37638d1ccad036
-#EXTINF:-1 tvg-id="la7hd2" tvg-name="LA7 HD (TIM)" tvg-logo="http://odmsto.com/uploads/tv_image/sm/la-7.png" group-title="🇮🇹 MEDIASET TV",LA7 HD (TIM)
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(la7)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="italia21" tvg-name="ITALIA 2 (Mediaset)" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia2.png" group-title="🇮🇹 MEDIASET TV",ITALIA 2 (Mediaset)
-https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=49bf1cc94bdf4eb18aead5746542b7d4:62a1bd23dc820cf49581c1a10d45a91b
-#EXTINF:-1 tvg-id="italia22" tvg-name="ITALIA 2 (TIM)" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia2.png" group-title="🇮🇹 MEDIASET TV",ITALIA 2 (TIM)
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(italia2)/manifest.mpd
-
-#EXTINF:-1 tvg-id="twenty271" tvg-name="TWENTYSEVEN (Mediaset)" tvg-logo="https://www.01smartlife.it/wp-content/uploads/sites/41/2022/01/mediaset-27-696x430.jpg" group-title="🇮🇹 MEDIASET TV",TWENTYSEVEN (Mediaset)
-https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=27a2443ee74a4ac3836364e5108d3bf9:cc33ca4bbf793ddb6807d3b076e2358b
-#EXTINF:-1 tvg-id="twenty272" tvg-name="TWENTYSEVEN (TIM)" tvg-logo="https://www.01smartlife.it/wp-content/uploads/sites/41/2022/01/mediaset-27-696x430.jpg" group-title="🇮🇹 MEDIASET TV",TWENTYSEVEN (TIM)
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(twentyseven)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b80299a8aa9705e03a:4fee7943868f00aab0b6c070d1896886
-#EXTINF:-1 tvg-id="20mediase1" tvg-name="20 MEDIASET (Mediaset)" tvg-logo="http://odmsto.com/uploads/tv_image/sm/mediaset-20.png" group-title="🇮🇹 MEDIASET TV",20 MEDIASET (Mediaset)
-https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b1e80175ff4808b09d00f77d68d9cc:52ef3fbae501303ea955e8ff3799ea7f
-#EXTINF:-1 tvg-id="20mediase2" tvg-name="20 MEDIASET (TIM)" tvg-logo="http://odmsto.com/uploads/tv_image/sm/mediaset-20.png" group-title="🇮🇹 MEDIASET TV",20 MEDIASET (TIM)
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(venti)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="mediaextraita1" tvg-name="MEDIASET EXTRA (Mediaset)" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/mediasetextra.png" group-title="🇮🇹 MEDIASET TV",MEDIASET EXTRA (Mediaset)
-https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=883267320e6a453bb36e0d26eab54f4d:d980fb92d0ddd2ef110a0613ffe37811
-#EXTINF:-1 tvg-id="mediaextraita2" tvg-name="MEDIASET EXTRA (TIM)" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/mediasetextra.png" group-title="🇮🇹 MEDIASET TV",MEDIASET EXTRA (TIM)
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(mdsextra)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="topcrimeita" tvg-name="TOP CRIME (Mediaset)" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/topcrime.png" group-title="🇮🇹 MEDIASET TV",TOP CRIME (Mediaset)
-https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7a066e9e06f49d8a3543250f9f1c26b:97c485e12d7ec983f28b84bd0ea72672
-#EXTINF:-1 tvg-id="topcrimeita1" tvg-name="TOP CRIME (TIM)" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/topcrime.png" group-title="🇮🇹 MEDIASET TV",TOP CRIME (TIM)
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(topcrime)/manifest.mpd
 
 #EXTINF:-1 tvg-id="tv881-x" tvg-name="TV8 #1" tvg-logo="https://pbs.twimg.com/profile_images/1074677376217427968/C9GfHiLI.jpg" group-title="🇮🇹 MEDIASET TV",TV8 #1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
@@ -902,15 +768,6 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8
 #EXTINF:-1 tvg-id="la71-x" tvg-name="La7d HD" tvg-logo="http://odmsto.com/uploads/tv_image/sm/la7d.png" group-title="🇮🇹 MEDIASET TV",La7d HD
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="cine341-x" tvg-name="CINE 34 (Mediaset)" tvg-logo="https://i.imgur.com/BXzfbVh.png" group-title="🇮🇹 MEDIASET TV",CINE 34 (Mediaset)
-https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=169895ce49af46b7958a0bae7afe1a25:6e41bff40e72a4021fc7ae3f3ab1e9e2
-#EXTINF:-1 tvg-id="cine342-x" tvg-name="CINE 34 (TIM)" tvg-logo="https://i.imgur.com/BXzfbVh.png" group-title="🇮🇹 MEDIASET TV",CINE 34 (TIM)
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(cine34)/manifest.mpd
 
 #EXTINF:-1 tvg-id="gdregia1" tvg-name="GF - REGIA 1" tvg-logo="https://i.imgur.com/dUcE87v.png" group-title="🇮🇹 MEDIASET TV",GF - REGIA 1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest.mpd
@@ -956,10 +813,7 @@ https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 #EXTINF:-1 tvg-id="discodmax" tvg-name="DMAX HD (Discovery)" tvg-logo="https://i.imgur.com/l4tVOth.png" group-title="🇮🇹 DISCOVERY PLUS",DMAX HD (Discovery)
 https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1177959b3f004d2b8ed7bd4d8d27d748:a5e7d11503583b23e8d6c89ac73ef4ae
-#EXTINF:-1 tvg-id="discodmaxtim" tvg-name="DMAX HD (TIM)" tvg-logo="https://i.imgur.com/l4tVOth.png" group-title="🇮🇹 DISCOVERY PLUS",DMAX HD (TIM)
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(dmaxhd)/manifest.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
@@ -977,10 +831,6 @@ https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(realtimehd)/manifest.mp
 #EXTINF:-1 tvg-id="disconove1" tvg-name="NOVE HD (Discovery)" tvg-logo="https://i.imgur.com/dZ8BE27.png" group-title="🇮🇹 DISCOVERY PLUS",NOVE HD (Discovery)
 https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b3cfe544523a4a2a8c890d3319436a07:64d25e3ff3c2a1abd3334da392b52ffa
-#EXTINF:-1 tvg-id="disconove2" tvg-name="NOVE HD (TIM)" tvg-logo="https://i.imgur.com/dZ8BE27.png" group-title="🇮🇹 DISCOVERY PLUS",NOVE HD (TIM)
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(novehd)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
@@ -990,10 +840,6 @@ https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 #EXTINF:-1 tvg-id="discomotort1" tvg-name="MOTORTREND (Discovery)" tvg-logo="https://i.imgur.com/yp30nH6.png" group-title="🇮🇹 DISCOVERY PLUS",MOTORTREND (Discovery)
 https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d5a419c4b9a46dbb45439c6c02153d8:0aacc10c10769847e82ab1497eb29b8e
-#EXTINF:-1 tvg-id="discomotort2" tvg-name="MOTORTREND (TIM)" tvg-logo="https://i.imgur.com/yp30nH6.png" group-title="🇮🇹 DISCOVERY PLUS",MOTORTREND (TIM)
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(motortrendhd)/manifest.mpd
 
 #EXTINF:-1 tvg-id="discogiallo" tvg-name="GIALLO HD (Discovey)" tvg-logo="https://i.imgur.com/9H2b2dE.png" group-title="🇮🇹 DISCOVERY PLUS",GIALLO HD (Discovey)
 https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
@@ -1014,10 +860,6 @@ https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(hgtvhd)/manifest.mpd
 #EXTINF:-1 tvg-id="discofoodnetdis1" tvg-name="FOOD NETWORK (Discovery)" tvg-logo="https://i.imgur.com/HehsiyV.png" group-title="🇮🇹 DISCOVERY PLUS",FOOD NETWORK (Discovery)
 https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=33563cf4eea14a7696fa246d2217157a:a34383e885071ceff10723a455ff4dbd
-#EXTINF:-1 tvg-id="discofoodnetdis2" tvg-name="FOOD NETWORK (TIM)" tvg-logo="https://i.imgur.com/HehsiyV.png" group-title="🇮🇹 DISCOVERY PLUS",FOOD NETWORK (TIM)
-https://timlivetu0.cb.ticdn.it/Content/DASH/live/channel(foodnetworkhd)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
@@ -1034,10 +876,7 @@ https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(warnertv)/man
 ec0
 ifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b9516d8c063d4c56af2705605e30e949:a6f077f3e72039dc846ca3bacf83042c
-#EXTINF:-1 tvg-id="discocnninter" tvg-name="CNN INTERNATIONAL (TIM)" tvg-logo="https://i.imgur.com/2KbY2XS.png" group-title="🇮🇹 DISCOVERY PLUS",CNN INTERNATIONAL (TIM)
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(cnni)/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="discobanco" tvg-name="BANCO DEI PUGNI" tvg-logo="https://i.imgur.com/0UtHpiU.png" group-title="🇮🇹 DISCOVERY PLUS",BANCO DEI PUGNI
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
