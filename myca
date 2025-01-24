@@ -1,6 +1,8 @@
 #EXTM3U
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=743a21097b04497cb78a73e91529ebd7:5a55eeb21a818500ce8448af2749795a
 #EXTINF:-1 tvg-id="pinoyxtream" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7a2iTME7S6V1bMql-V6n380cxppqZjgvVlD4BnaH3A7DNqB90j5Yx_DU&s=10" group-title="🏆 PPV | UFC 🥊", INOUE VS KIM
