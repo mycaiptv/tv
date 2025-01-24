@@ -253,6 +253,16 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 #KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
+#EXTINF:-1 tvg-id="cinemotfc" tvg-name="CINEMO TFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfSAX3s9pZ_vF-BYCNl2YauNfH__T2bzKq1Q&s" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 33. CINEMO!
+https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
+#EXTINF:-1 tvg-id="cinemaonetfc" tvg-name="CINEMAONE TFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Uon_6NqhJkBIgWbOh3I_xdccJuXCRcK3gw&s" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 34. CINEMAONE
+https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
+
 #EXTINF:0 CUID="46" tvg-name="35. PBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",35. PBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
