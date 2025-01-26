@@ -152,7 +152,10 @@ http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="gmapinoytv1" tvg-name="GMA PINOY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbAHdwGocmQ1oPY0HdtfHzEAEWysJGclfK3yYFTZNEdX2Hlj4JK8T6UNK3&s=10" group-title="🇵🇭 LOCAL CHANNEL",03. GMA PINOY TV s1
 https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
+#EXTINF:-1 tvg-id="teleradyo1" tvg-name="TELERADYO (TFC)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png" group-title="🇵🇭 LOCAL CHANNEL",08. TELERADYO 
+https://d14c00opfjb50c.cloudfront.net/out/v1/0fa4eb67579d41cca4ed146c93aa855f/index.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -208,6 +211,8 @@ EXTINF:-1 tvg-id="GMA.Pinoy.TV..sg" group-title="🇵🇭 LOCAL CHANNEL" ch-numb
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd
+
+
 
 #EXTINF:0 CUID="9" tvg-name="07. A2Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="🇵🇭 LOCAL CHANNEL",07. A2Z
 #KODIPROP:inputstreamaddon=inputstream.adaptive
