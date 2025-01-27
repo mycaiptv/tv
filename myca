@@ -311,25 +311,47 @@ https://cdn5.ganbaruby23.xyz/live_stream/iheartmovies/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"P1k1XhXu0bshnqFofVXPuw", "kid":"pkLdS/PqeC4ZICre+2BLEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="321.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",CCM
+https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 
-#EXTINF:0 CUID="104" tvg-name="90. HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXoj8B44LUmJgtUZQ25kAwspLTPbWD1Znw&s" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 42. HBO
+EXTINF:0 CUID="104" tvg-name="90. HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXoj8B44LUmJgtUZQ25kAwspLTPbWD1Znw&s" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 42. HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 42. HBO HITS
+EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 42. HBO HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
-#EXTINF:0 CUID="106" tvg-name="92. HBO FAMILY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WGZ6jLOdhRQskpcHJDuzID86qxwsmA9yug&s" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 42. HBO FAMILY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8/hCxUzJbLvQvLlqTLioEw", "kid":"oJiJbSsRxfOQapk8O6XGEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",42. HBO
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eWE5ugWiq0Jfl4x/2YtDcg", "kid":"XWAOtwlE1oHCbB9I++YfEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",42. HBO HITS
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
+
+EXTINF:0 CUID="106" tvg-name="92. HBO FAMILY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WGZ6jLOdhRQskpcHJDuzID86qxwsmA9yug&s" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 42. HBO FAMILY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+
+#EXTINF:-1 tvg-id="HBO.FAMILY.my" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ " tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",42. HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/manifest.mpd
 
 #EXTINF:0 CUID="107" tvg-name="93. HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 42. HBO SIGNATURE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -342,15 +364,6 @@ EXTINF:-1 tvg-id="Cinemax" ch-number="7" group-title="🇵🇭 CABLE MOVIES CHAN
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default.mpd
 
 
-EXTINF:-1 tvg-id="SHOWCASE" ch-number="413" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png", 43. SHOWCASE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
-
-EXTINF:-1 tvg-id="BOO" ch-number="5" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ " tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg", 43. BOO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 
 
 #EXTINF:-1 group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ " tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png", 43. Rock Action
@@ -365,20 +378,20 @@ https://cdn7.serveruss.box.ca/rockaction/dopamine/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
-EXTINF:0 CUID="117" tvg-name="103. CINEMAX" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 42. CINEMAX 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
-https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E8xTWtSnMgEUeGPKw4bN0w", "kid":"79sqjTkVHMOfS1HXYs+cEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="412.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",43. Cinemax  
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 
-EXTINF:0 CUID="118" tvg-name="104. WARNER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 42.1 WARNER TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+DJvZox77jCeUwK1E+W99w", "kid":"YJPhJjmyTNZR7ms8E0RtEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="712.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",43. Warner TV     
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 
-EXTINF:-1 tvg-id="tvNMovies" ch-number="416" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ " tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png", 43.2 TVN MOVIES HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="416.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",43. tvN Movies 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
 #EXTINF:-1 tvg-id="Cg.Tvnmovie.ph" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ " ch-number = "" tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwp-XMYX2wwSF3-wxsleY--sAI6DTiQgCfGT6yuCnzRBx2CYvv2V7aFZ3a&s=10", 37. TVN MOVIES PINOY
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
@@ -410,13 +423,7 @@ http://202.147.193.244/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.
 #EXTINF:-1 tvg-id="cinemachi5" tvg-name="CINEMACHI KIDS" tvg-logo="https://i.imgur.com/zzixR9p.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",Cinemachi Kids
 http://202.147.193.244/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
-#EXTINF:-1 tvg-id="HBO.FAMILY.my" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ " tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/manifest.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=34bbe1d5cad94e81a2f2eb3275611f85:7e6a42fbe78e7ff8c20cb4eeb475ed17
