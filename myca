@@ -4379,6 +4379,128 @@ https://absvod.akamaized.net/c/2/m/f17c5b7e-51be-11ec-ae31-e0ba9a9349dd.ism/mani
 #EXTINF:-1 tvg-id="mmk100" tvg-name="MMK - (Makinilya)" tvg-logo="https://i.imgur.com/1neyjEa.jpg" group-title="MAALA-ALA MO KAYA",MMK - (Makinilya)
 https://absvod.akamaized.net/c/2/m/355b300c-92f7-11ed-9f66-b6a986c0a610.ism/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000f9f9a08a0645f89609a472ff38973:cee8c869fc93cda50e80f9f92fb46a2f
+#EXTINF:-1 tvg-id="filmaction-006" tvg-name="Transformers: Rise Of The Beasts" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gPbM0MK8CP8A174rmUwGsADNYKD.jpg" group-title="🎬 SKY MOVIES UK",Transformers: Rise Of The Beasts
+https://vod004-gb-dash1-prd-ak.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000006231667/19455d7d-57a8-486d-91e1-c5966d9b638c-S/encrypted/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000fed02120c7dfa1cff47e1c393cc5e:6360a68abf60dee51c82bb1f627de917
+#EXTINF:-1 tvg-id="filmaction-007" tvg-name="Justice League" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eifGNCSDuxJeS1loAXil5bIG
+2000
+gvC.jpg" group-title="🎬 SKY MOVIES UK",Justice League
+https://vod004-gb-dash1-prd-ak.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000006092943/f786f72f-add4-4dd8-adc6-4abbcb7c9303-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000f11aef2c66b9edee4d4cb6a189826:5418100d2fa49940b98e0856d4215a9f
+#EXTINF:-1 tvg-id="filmaction-008" tvg-name="Chappie" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6zmKkfSvo4tBtvGSjn5PofWIvP9.jpg" group-title="🎬 SKY MOVIES UK",Chappie
+https://vod004-gb-dash1-prd-ak.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000006561503/6124a400-26fb-46e9-9632-36cebff5ae16-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000f374d093e422d1bc911c9b821b124:6f6f56d49e7188a9ffd130bf4704bd06
+#EXTINF:-1 tvg-id="filmaction-009" tvg-name="Bloodshot" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg" group-title="🎬 SKY MOVIES UK",Bloodshot
+https://vod004-gb-dash1-prd-ak.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000006561764/97ffaadb-8425-417e-88c4-14640c5b8628-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000f1cdef6103793b5949166dfb0646c:9a4d1b59be525ce9576b7ff3f9f936b7
+#EXTINF:-1 tvg-id="filmaction-0010" tvg-name="Ghost In The Shell" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg" group-title="🎬 SKY MOVIES UK",Ghost In The Shell
+https://vod004-gb-dash1-prd-ak.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000006404197/fe8eafd2-148a-44d5-888c-36938a317397-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000f13c17d859a381195c937381b80df:6f480a15373013c55a35afe27297adb8
+#EXTINF:-1 tvg-id="filmaction-001" tvg-name="The Beekeeper" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/A7EByudX0eOzlkQ2FIbogzyazm2.jpg" group-title="🎬 SKY MOVIES UK",The Beekeeper
+https://vod004-gb-dash1-prd-ll.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000006844600/7005453f-ee50-49c5-924e-014f3a762378-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000f2a1d1ae4899fd27de62812710917:747a1d2f5bb89d2de64af13f44677a1f
+#EXTINF:-1 tvg-id="filmaction-002" tvg-name="The Way of the Dragon" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/m7AIITQ624sfldI4SsX4htXPH1f.jpg" group-title="🎬 SKY MOVIES UK",The Way of the Dragon
+https://vod004-gb-dash1-prd-ak.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000006390683/1b1375a4-ec9e-4e90-a1d3-b436711cd418-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000fd542baa22593df31de33c35dba9d:19faf5f3c56d41bc479642b5a83cc61b
+#EXTINF:-1 tvg-id="filmaction-003" tvg-name="Top Gun" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg" group-title="🎬 SKY MOVIES UK",Top Gun
+https://vod004-gb-dash1-prd-ll.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000006404293/4d38d3af-becb-49ea-ae23-ee85be637a8a-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000f83cc4d7892f463bf3ade0bd8c442:0eb455267ea94db52204076bd1d43414
+#EXTINF:-1 tvg-id="filmaction-004" tvg-name="The Equalizer 3" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg" group-title="🎬 SKY MOVIES UK",The Equalizer 3
+https://vod004-gb-dash1-prd-ll.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000006930563/a57bb24d-721a-4d33-859e-ac77a0cee8f7-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000fb62dfe0c3d7fc60dde3d0a9e6616:b188a2613d21bb7a22c289c0fc58341b
+#EXTINF:-1 tvg-id="filmaction-005" tvg-name="The Meg" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eyWICPcxOuTcDDDbTMOZawoOn8d.jpg" group-title="🎬 SKY MOVIES UK",The Meg
+https://vod004-gb-dash1-prd-ll.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000006093013/178b4752-8ecd-436e-8a2f-788b73f5a15f-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000f6ac3dcdd992d6486485b93aa140d:85349f782c2fc53b5030ba043074251b
+#EXTINF:-1 tvg-id="filmaction-0011" tvg-name="Meg 2: The Trench" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg" group-title="🎬 SKY MOVIES UK",Meg 2: The Trench
+https://vod004-gb-dash1-prd-ll.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000006966641/1d7ee03b-d203-442c-97b1-9c80f2348a7e-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000f764b4bdbab5613a48199de92ce0c:c380db1972f6953f3112b41c11616453
+#EXTINF:-1 tvg-id="filmaction-0012" tvg-name="Mad Max: Fury Road" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hA2ple9q4qnwxp3hKVNhroipsir.jpg" group-title="🎬 SKY MOVIES UK",Mad Max: Fury Road
+https://vod004-gb-dash1-prd-ll.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000006092951/b03dc284-cb81-4eb6-9f8a-3dbcbe8eb9ab-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000f87b32b095f1f056dff577fc13e05:d27572ee1290869487fec053dd719fdd
+#EXTINF:-1 tvg-id="filmaction-0013" tvg-name="Fast X" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="🎬 SKY MOVIES UK",Fast X
+https://vod004-gb-dash1-prd-ll.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000006797920/8d7a4ed6-aa81-46e7-a312-da9319e69cc7-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000f22df57a6bbc0b94cdfee42266b67:bce9159d4ddac60ceb6f3e227fee43ce
+#EXTINF:-1 tvg-id="filmaction-0014" tvg-name="Fast & Furious 8" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg" group-title="🎬 SKY MOVIES UK",Fast & Furious 8
+https://vod004-gb-dash1-prd-ll.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000005600075/ffafb847-e476-461b-ad18-34871506cf22-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000f9581b03ead1bacb2e6d2c612fab0:1f96124ce42ae8256c05f7c2e63eed84
+#EXTINF:-1 tvg-id="filmaction-0015" tvg-name="Fast & Furious 7" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ktofZ9Htrjiy0P6LEowsDaxd3Ri.jpg" group-title="🎬 SKY MOVIES UK",Fast & Furious 7
+https://vod004-gb-dash1-prd-ll.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000003105115/e478f7fd-8fcc-47d0-9544-a7eabca96f8d-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000f123773f9b1782b8ab701a8654f99:6e1ddb5e1a7e2aa7a735c278649d4731
+#EXTINF:-1 tvg-id="filmaction-0016" tvg-name="Fast & Furious 6" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3EXOOkhSmJQ9DisNmIjZ8Xi633I.jpg" group-title="🎬 SKY MOVIES UK",Fast & Furious 6
+https://vod004-gb-dash1-prd-ll.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000003104382/d24b2222-07e7-470b-afb0-7b0bccaf0796-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000f0d3f48e22f752547b9c245418816:e64254c43f721e8649141aa16f8e89ce
+#EXTINF:-1 tvg-id="filmaction-0017" tvg-name="Fast & Furious 5" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gEfQjjQwY7fh5bI4GlG0R
+2000
+rBu7Pz.jpg" group-title="🎬 SKY MOVIES UK",Fast & Furious 5
+https://vod004-gb-dash1-prd-ll.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000003139960/88b996dc-d04a-4066-b5b1-4cc388a5a13a-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000f661af710c49dfb24381e6b77ee36:fa315b174714e971bf61765afddd9032
+#EXTINF:-1 tvg-id="filmaction-0018" tvg-name="Fast & Furious 4" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lUtVoRukW7WNtUySwd8hWlByBds.jpg" group-title="🎬 SKY MOVIES UK",Fast & Furious 4
+https://vod004-gb-dash1-prd-ll.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000003104733/ede57006-2a1b-405a-9f96-1bab7e91c202-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000f950e3596c824cd9b0cbaae1b6277:5a712e150724c899a5818c9d14404b29
+#EXTINF:-1 tvg-id="filmaction-0019" tvg-name="Fast & Furious 3" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cm2ffqb3XovzA5ZSzyN3jnn8qv0.jpg" group-title="🎬 SKY MOVIES UK",Fast & Furious 3
+https://vod004-gb-dash1-prd-ll.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000003104377/bec1aa73-1dc9-44f1-9129-40d748665f8f-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000f915c9d54ea7d1a13e2e500987764:c29be3eb197c634f39655d0a9c50d958
+#EXTINF:-1 tvg-id="filmaction-0020" tvg-name="Fast & Furious 2" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6nDZExrDKIXvSAghsFKVFRVJuSf.jpg" group-title="🎬 SKY MOVIES UK",Fast & Furious 2
+https://vod004-gb-dash1-prd-ll.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000003105114/e28e9d0b-523c-428c-943a-45f9be0a7a31-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000f907597dcd93c48b9459be5dcc2c5:5ec9c2516b108250513206a701e94d67
+#EXTINF:-1 tvg-id="filmaction-0021" tvg-name="Fast & Furious 1" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gqY0ITBgT7A82poL9jv851qdnIb.jpg" group-title="🎬 SKY MOVIES UK",Fast & Furious 1
+https://vod004-gb-dash1-prd-ll.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000003105460/782cce8c-6029-4601-9e4c-0e24de5a45c2-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000f98fb7883a72404751f624c273951:3c5b1d6a60aaee25f8f76c484a3b039f
+#EXTINF:-1 tvg-id="filmaction-0022" tvg-name="Total Recall" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fucmGeZYM4yzqJUnDTc4pKQNCej.jpg" group-title="🎬 SKY MOVIES UK",Total Recall
+https://vod004-gb-dash1-prd-ll.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000006501322/e83fcbbb-3851-47f5-a496-256c13badc99-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000f55eea765de958851e4d808411abf:993348a1cc61c041ca82f291c00ca7b9
+#EXTINF:-1 tvg-id="filmaction-0023" tvg-name="John Wick" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg" group-title="🎬 SKY MOVIES UK",John Wick
+https://vod004-gb-dash1-prd-ll.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000006092928/1a99d9d9-b9bc-4a2c-b104-2f2f69b7e10d-S/encrypted/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000f8676274e3b12e48cac510e5e9bd6:c08abb19f4890b798d510e3b8c10aaba
+#EXTINF:-1 tvg-id="filmaction-0024" tvg-name="John Wick: Chapter Two" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg" group-title="🎬 SKY MOVIES UK",John Wick: Chapter Two
+https://vod004-gb-dash1-prd-ll.cdn.skycdp.com/016a/skyplayer/VCD/DA-CE/bsky_skymovies/TITL0000000006092923/ab01f0d9-6f50-4212-8969-51b439b2b35c-S/encrypted/manifest.mpd
 
 
