@@ -445,7 +445,15 @@ EXTINF:0 CUID="106" tvg-name="92. HBO FAMILY" tvg-logo="https://encrypted-tbn0.g
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 
-#EXTINF:-1 tvg-id="HBO.FAMILY.my" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ " tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",42. HBO Family
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WGZ6jLOdhRQskpcHJDuzID86qxwsmA9yug&s" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 42. HBO FAMILY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+
+
+EXTINF:-1 tvg-id="HBO.FAMILY.my" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ " tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",42. HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
