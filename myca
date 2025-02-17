@@ -1,7 +1,9 @@
 #EXTM3U
 
-EXTINF:-1 tvg-id="pinoyxtream" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7a2iTME7S6V1bMql-V6n380cxppqZjgvVlD4BnaH3A7DNqB90j5Yx_DU&s=10" group-title="🏆 PPV | UFC 🥊", INOUE VS KIM
-gghttp://vip.sibfungold.net:8080/live/jimbojimbo8842/k362zDQEN080tW6LzXvy/52229.rtmp
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
+#EXTINF:-1 tvg-id="trvlchannelph" tvg-name="TRVL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="📚 EDUCATIONAL | DOCUMENTARY", TRAVEL CHANNEL
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
