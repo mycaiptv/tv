@@ -422,22 +422,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
 #EXTINF:-1 tvg-id="415.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",42. HBO HITS
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 
-#EXTINF:0 CUID="106" tvg-name="92. HBO FAMILY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WGZ6jLOdhRQskpcHJDuzID86qxwsmA9yug&s" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 42. HBO FAMILY
+#EXTINF:0 CUID="106" tvg-name="92. HBO FAMILY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WGZ6jLOdhRQskpcHJDuzID86qxwsmA9yug&s" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", HBO FAMILY
 http://170.254.18.106/HBO_FAMILY/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WGZ6jLOdhRQskpcHJDuzID86qxwsmA9yug&s" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 42. HBO FAMILY
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 43. LOTUS MACAU
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd
+
 
 
 
@@ -481,48 +474,26 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 #EXTINF:-1 tvg-id="416.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",43. tvN Movies 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Cg.Tvnmovie.ph" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ " ch-number = "" tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwp-XMYX2wwSF3-wxsleY--sAI6DTiQgCfGT6yuCnzRBx2CYvv2V7aFZ3a&s=10", 37. TVN MOVIES PINOY
-#KODIPROP:inputstream.adaptive.license_type=Clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/R.88256ba5d8a002dad0a210a2af84db8e?rik=Ozw3TcnjBZgKrQ&riu=http%3a%2f%2fwww.tapdmv.com%2flogo-TapMovies-2021.png&ehk=METEdvYRHjzywPX6UlLVdNOPJ3n%2b6FzI7V7P" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 45. TAP MOVIES HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001304/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tapdmv.com/logo-TapActionFlix-2021.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 28. TAP ACTION FLIX HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001305/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U3tNDHMRkqO50xIbKZDvug", "kid":"i7MdiZKf+O9W3tJSZGtHEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="100.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Heroes.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",46. Heroes
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5114/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfnooWK9mfo3egjw3scNfbGRZRCYNUEmSPHD8ZGVxaphqRnounKx2KHT4&s=10" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 46. HITS HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
-https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 47. HITS MOVIES
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f856762412b11edb8780242ac120002:7199bc900b9e23087d3a2c0c6d4edce4
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK-ntOmelaOpQq5DsmOeCCjzK_bfEbffqKzA&s" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ", 47 KIX HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="401.astro" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/HitsMoviesV2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🇵🇭 CABLE MOVIES CHANNEL 📽️ ",46. Hits Movies    
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
