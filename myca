@@ -242,7 +242,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-ab
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001087/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:0 CUID="1" tvg-name="01. TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/2048px-TV5_%28Philippines%29_logo.svg.png" group-title="🇵🇭 LOCAL CHANNEL",01. TV5
+#EXTINF:0 CUID="1" tvg-name="01. TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/2048px-TV5_%28Philippines%29_logo.svg.png" group-title="🇵🇭 LOCAL CHANNEL",01. TV5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -256,14 +256,14 @@ https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/tv5_hd.mpd
 #KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
-#EXTINF:0 CUID="17" tvg-name="09. 13. BUKO CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/BuKo_Channel_(2021-.n.v.).png/revision/latest/scale-to-width-down/200?cb=20210720055409" group-title="🇵🇭 LOCAL CHANNEL",09. 13. BUKO CHANNEL
+EXTINF:0 CUID="17" tvg-name="09. 13. BUKO CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/BuKo_Channel_(2021-.n.v.).png/revision/latest/scale-to-width-down/200?cb=20210720055409" group-title="🇵🇭 LOCAL CHANNEL",09. 13. BUKO CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
 
-#EXTINF:0 CUID="18" tvg-name="14. SARI SARI" tvg-logo="https://static.wikia.nocookie.net/russel/images/3/36/Sari-Sari_Channel_Logo_2016.png/revision/latest/scale-to-width-down/300?cb=20210301154319" group-title="🇵🇭 LOCAL CHANNEL",14. SARI SARI
+EXTINF:0 CUID="18" tvg-name="14. SARI SARI" tvg-logo="https://static.wikia.nocookie.net/russel/images/3/36/Sari-Sari_Channel_Logo_2016.png/revision/latest/scale-to-width-down/300?cb=20210301154319" group-title="🇵🇭 LOCAL CHANNEL",14. SARI SARI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -271,9 +271,11 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 
 #EXTINF:0 CUID="20" tvg-name="15. ONE PH" tvg-logo="https://www.meainbacolod.com/wp-content/uploads/2019/08/One-PH-logo-1-1024x791.png" group-title="🇵🇭 LOCAL CHANNEL",15. ONE PH
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001198/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/oneph_sd.mpd
 
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png" tvg-name="Tv channel name" group-title="🇵🇭 LOCAL CHANNEL",USA Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
