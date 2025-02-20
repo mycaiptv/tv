@@ -242,11 +242,19 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-ab
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001087/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
+#EXTINF:0 CUID="1" tvg-name="01. TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/2048px-TV5_%28Philippines%29_logo.svg.png" group-title="🇵🇭 LOCAL CHANNEL",01. TV5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/tv5_hd.mpd
 
-#EXTINF:0 CUID="10" tvg-name="07. RPTV" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7f/RPTV_Logo_2024.png/revision/latest/scale-to-width-down/80?cb=20240305140759" group-title="🇵🇭 LOCAL CHANNEL",07. RPTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.112:6910/001/2/ch00000090990000001094/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:0 CUID="10" tvg-name="07. RPTV" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7f/RPTV_Logo_2024.png/revision/latest/scale-to-width-down/80?cb=20240305140759" group-title="🇵🇭 LOCAL CHANNEL",07. RPTV 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
 #EXTINF:0 CUID="17" tvg-name="09. 13. BUKO CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/BuKo_Channel_(2021-.n.v.).png/revision/latest/scale-to-width-down/200?cb=20210720055409" group-title="🇵🇭 LOCAL CHANNEL",09. 13. BUKO CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
