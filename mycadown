@@ -1,5 +1,55 @@
 #EXTM3U
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a913faeecaac4813a55240bea0c68858:05b7d7eaba8d6410dbe234336d9b235a
+#EXTINF:-1 tvg-id="pilipinalive1" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #01" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE EVENT",🇵🇭 PILIPINAS LIVE EVENT #01
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
+#EXTINF:-1 tvg-id="pilipinalive2" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #02" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE EVENT",🇵🇭 PILIPINAS LIVE EVENT #02
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_sdi2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c16d5962a22494db502b3453f891208:acaed175b981b34ae9b5cb0130506854
+#EXTINF:-1 tvg-id="pilipinalive3" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #03" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE EVENT",🇵🇭 PILIPINAS LIVE EVENT #03
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3050cba95c945418efa3aedbc69cff7:988e7fade0828273472e24545d0cfa4c
+#EXTINF:-1 tvg-id="pilipinalive4" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #04" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE EVENT",🇵🇭 PILIPINAS LIVE EVENT #04
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/pl_sdi4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eecc6d7ac3df439fb2b73fb38007cb82:826c341a6fef4518cefd27ec85e8b274
+#EXTINF:-1 tvg-id="pilipinalive5" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #05" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE EVENT",🇵🇭 PILIPINAS LIVE EVENT #05
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi5.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02d5f086706e407e9343c040ac7fb5b8:9d7e088bf7fffc9297ab3a02f0ce9a72
+#EXTINF:-1 tvg-id="pilipinalive6" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #06" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE EVENT",🇵🇭 PILIPINAS LIVE EVENT #06
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi6.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40bed7f7948e4e5792982cf5b7ee4d78:1fbfd2e3be51aae857f2f24306e5fc41
+#EXTINF:-1 tvg-id="pilipinalive7" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #07" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE EVENT",🇵🇭 PILIPINAS LIVE EVENT #07
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pl_sdi7.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a8dbf3b9c2c43079a40fb5d0068f9ef:1778ac6e22527ee2efd6886d8d509c2d
+#EXTINF:-1 tvg-id="pilipinalive8" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #08" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE EVENT",🇵🇭 PILIPINAS LIVE EVENT #08
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/pl_sdi8.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c7b9a2af9ad4076b155f06269b6adc2:ed6a8b11738cd27c0bee2d9e3fee178a
+#EXTINF:-1 tvg-id="pilipinalive9" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #09" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE EVENT",🇵🇭 PILIPINAS LIVE EVENT #09
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/pl_sdi9.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
+#EXTINF:-1 tvg-id="pilipinalive10" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #10" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE EVENT",🇵🇭 PILIPINAS LIVE EVENT #10
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi10.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TU1NncQb5D9SiklAz2bxTA", "kid":"1RmfFROgKG4Dja6PfYIAEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="556.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="📚 EDUCATIONAL | DOCUMENTARY",Animal Planet
