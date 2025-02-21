@@ -515,30 +515,30 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
 #EXTINF:0 CUID="119" tvg-name="109. ONESPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl1kRGM_pVwRFsJx7V-wqX1-tOPumD_2mWSg&s"  group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽", 109. ONE SPORTS 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.111:6910/001/2/ch00000090990000001083/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 
-EXTINF:0 CUID="120" tvg-name="110. ONE SPORTS+ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEGmkbL_93-Bwjkz_hGzB7uVLppxzIWmtPnz6O9-v85w&s" group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽ ",110. ONE SPORTS+ HD
+#EXTINF:0 CUID="120" tvg-name="110. ONE SPORTS+ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEGmkbL_93-Bwjkz_hGzB7uVLppxzIWmtPnz6O9-v85w&s" group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽ ",110. ONE SPORTS+ HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
 EXTINF:0 CUID="121" tvg-name="111. UAAP VARSITY CH" tvg-logo="https://www.ateneo.edu/sites/default/files/styles/max_650x650/public/2022-10/UAAP_LOGO_ADU-01.png?itok=pPWkbsjI" group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽ ",111. UAAP VARSITY CH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
-https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 
 
-EXTINF:0 CUID="122" tvg-name="112. PBA RUSH HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/PBA_Rush_logo.png/revision/latest?cb=20161115101642" group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽ ",112. PBA RUSH HD
+#EXTINF:0 CUID="122" tvg-name="112. PBA RUSH HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/PBA_Rush_logo.png/revision/latest?cb=20161115101642" group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽ ",112. PBA RUSH HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 
 #EXTINF:-1 tvg-id="Lifetime" ch-number="703" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="🙅 ENTERTAINMENT",Lifetime HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -730,9 +730,11 @@ https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.
 https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="🇵🇭 CABLE SPORTS CHANNEL ⚽ " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMLnQ1wzZf64E0Yuwkr7QWGMaVnjzmTn1BA&s", 112. NBA TV PHILIPPINES 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.113:6910/001/2/ch00000090990000001064/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/cgnl_nba.mpd
 
 
 #EXTINF:-1 group-title="🏆 PPV | UFC 🥊" tvg-logo="https://tv.assets.pressassociation.io/08d5adde-34fa-50ce-94d1-58bdf387d054.png", Eurosport
